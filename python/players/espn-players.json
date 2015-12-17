@@ -1,0 +1,3117 @@
+[
+  {
+    "espn_player_id":13983,
+    "full_name":"A.J. Green",
+    "team_pos":"cin wr"
+  },
+  {
+    "espn_player_id":15834,
+    "full_name":"Aaron Dobson",
+    "team_pos":"ne wr"
+  },
+  {
+    "espn_player_id":17626,
+    "full_name":"Aaron Ripkowski",
+    "team_pos":"gb rb"
+  },
+  {
+    "espn_player_id":8439,
+    "full_name":"Aaron Rodgers",
+    "team_pos":"gb qb"
+  },
+  {
+    "espn_player_id":17756,
+    "full_name":"Adam Humphries",
+    "team_pos":"tb wr"
+  },
+  {
+    "espn_player_id":17178,
+    "full_name":"Adam Thielen",
+    "team_pos":"min wr"
+  },
+  {
+    "espn_player_id":1097,
+    "full_name":"Adam Vinatieri",
+    "team_pos":"ind k"
+  },
+  {
+    "espn_player_id":10452,
+    "full_name":"Adrian Peterson",
+    "team_pos":"min rb"
+  },
+  {
+    "espn_player_id":10693,
+    "full_name":"Ahmad Bradshaw",
+    "team_pos":"ind rb"
+  },
+  {
+    "espn_player_id":16810,
+    "full_name":"AJ McCarron",
+    "team_pos":"cin qb"
+  },
+  {
+    "espn_player_id":17789,
+    "full_name":"Akeem Hunt",
+    "team_pos":"hou rb"
+  },
+  {
+    "espn_player_id":17182,
+    "full_name":"Albert Wilson",
+    "team_pos":"kc wr"
+  },
+  {
+    "espn_player_id":8416,
+    "full_name":"Alex Smith",
+    "team_pos":"kc qb"
+  },
+  {
+    "espn_player_id":17134,
+    "full_name":"Alfred Blue",
+    "team_pos":"hou rb"
+  },
+  {
+    "espn_player_id":15009,
+    "full_name":"Alfred Morris",
+    "team_pos":"wsh rb"
+  },
+  {
+    "espn_player_id":17163,
+    "full_name":"Allen Hurns",
+    "team_pos":"jax wr"
+  },
+  {
+    "espn_player_id":14433,
+    "full_name":"Allen Reisner",
+    "team_pos":"bal te"
+  },
+  {
+    "espn_player_id":16799,
+    "full_name":"Allen Robinson",
+    "team_pos":"jax wr"
+  },
+  {
+    "espn_player_id":17749,
+    "full_name":"Alonzo Harris",
+    "team_pos":"gb rb"
+  },
+  {
+    "espn_player_id":14912,
+    "full_name":"Alshon Jeffery",
+    "team_pos":"chi wr"
+  },
+  {
+    "espn_player_id":17677,
+    "full_name":"Amari Cooper",
+    "team_pos":"oak wr"
+  },
+  {
+    "espn_player_id":17580,
+    "full_name":"Ameer Abdullah",
+    "team_pos":"det rb"
+  },
+  {
+    "espn_player_id":11331,
+    "full_name":"Andre Caldwell",
+    "team_pos":"den wr"
+  },
+  {
+    "espn_player_id":3575,
+    "full_name":"Andre Davis",
+    "team_pos":"fa wr"
+  },
+  {
+    "espn_player_id":15893,
+    "full_name":"Andre Ellington",
+    "team_pos":"ari rb"
+  },
+  {
+    "espn_player_id":14403,
+    "full_name":"Andre Holmes",
+    "team_pos":"oak wr"
+  },
+  {
+    "espn_player_id":4461,
+    "full_name":"Andre Johnson",
+    "team_pos":"ind wr"
+  },
+  {
+    "espn_player_id":13226,
+    "full_name":"Andre Roberts",
+    "team_pos":"wsh wr"
+  },
+  {
+    "espn_player_id":16889,
+    "full_name":"Andre Williams",
+    "team_pos":"nyg rb"
+  },
+  {
+    "espn_player_id":17747,
+    "full_name":"Andrew Franks",
+    "team_pos":"mia k"
+  },
+  {
+    "espn_player_id":13958,
+    "full_name":"Andrew Hawkins",
+    "team_pos":"cle wr"
+  },
+  {
+    "espn_player_id":14874,
+    "full_name":"Andrew Luck",
+    "team_pos":"ind qb"
+  },
+  {
+    "espn_player_id":13440,
+    "full_name":"Andrew Quarless",
+    "team_pos":"gb te"
+  },
+  {
+    "espn_player_id":14012,
+    "full_name":"Andy Dalton",
+    "team_pos":"cin qb"
+  },
+  {
+    "espn_player_id":4512,
+    "full_name":"Anquan Boldin",
+    "team_pos":"sf wr"
+  },
+  {
+    "espn_player_id":13212,
+    "full_name":"Anthony Dixon",
+    "team_pos":"buf rb"
+  },
+  {
+    "espn_player_id":9639,
+    "full_name":"Anthony Fasano",
+    "team_pos":"ten te"
+  },
+  {
+    "espn_player_id":13414,
+    "full_name":"Anthony McCoy",
+    "team_pos":"wsh te"
+  },
+  {
+    "espn_player_id":14135,
+    "full_name":"Anthony Sherman",
+    "team_pos":"kc rb"
+  },
+  {
+    "espn_player_id":13158,
+    "full_name":"Antone Smith",
+    "team_pos":"chi rb"
+  },
+  {
+    "espn_player_id":17149,
+    "full_name":"Antonio Andrews",
+    "team_pos":"ten rb"
+  },
+  {
+    "espn_player_id":13934,
+    "full_name":"Antonio Brown",
+    "team_pos":"pit wr"
+  },
+  {
+    "espn_player_id":5362,
+    "full_name":"Antonio Gates",
+    "team_pos":"sd te"
+  },
+  {
+    "espn_player_id":12497,
+    "full_name":"Arian Foster",
+    "team_pos":"hou rb"
+  },
+  {
+    "espn_player_id":14223,
+    "full_name":"Armon Binns",
+    "team_pos":"kc wr"
+  },
+  {
+    "espn_player_id":13218,
+    "full_name":"Arrelious Benn",
+    "team_pos":"jax wr"
+  },
+  {
+    "espn_player_id":17354,
+    "full_name":"Asante Cleveland",
+    "team_pos":"ne te"
+  },
+  {
+    "espn_player_id":15187,
+    "full_name":"Austin Davis",
+    "team_pos":"cle qb"
+  },
+  {
+    "espn_player_id":17186,
+    "full_name":"Austin Johnson",
+    "team_pos":"no rb"
+  },
+  {
+    "espn_player_id":16795,
+    "full_name":"Austin Seferian-Jenkins",
+    "team_pos":"tb te"
+  },
+  {
+    "espn_player_id":5536,
+    "full_name":"Ben Roethlisberger",
+    "team_pos":"pit qb"
+  },
+  {
+    "espn_player_id":16055,
+    "full_name":"Benjamin Cunningham",
+    "team_pos":"stl rb"
+  },
+  {
+    "espn_player_id":5557,
+    "full_name":"Benjamin Watson",
+    "team_pos":"no te"
+  },
+  {
+    "espn_player_id":17751,
+    "full_name":"Bennie Fowler",
+    "team_pos":"den wr"
+  },
+  {
+    "espn_player_id":14891,
+    "full_name":"Bernard Pierce",
+    "team_pos":"jax rb"
+  },
+  {
+    "espn_player_id":14129,
+    "full_name":"Bilal Powell",
+    "team_pos":"nyj rb"
+  },
+  {
+    "espn_player_id":16794,
+    "full_name":"Bishop Sankey",
+    "team_pos":"ten rb"
+  },
+  {
+    "espn_player_id":13987,
+    "full_name":"Blaine Gabbert",
+    "team_pos":"sf qb"
+  },
+  {
+    "espn_player_id":15058,
+    "full_name":"Blair Walsh",
+    "team_pos":"min k"
+  },
+  {
+    "espn_player_id":17490,
+    "full_name":"Blake Bell",
+    "team_pos":"sf te"
+  },
+  {
+    "espn_player_id":16724,
+    "full_name":"Blake Bortles",
+    "team_pos":"jax qb"
+  },
+  {
+    "espn_player_id":15501,
+    "full_name":"Bobby Rainey",
+    "team_pos":"tb rb"
+  },
+  {
+    "espn_player_id":17771,
+    "full_name":"Bradley Marquez",
+    "team_pos":"stl wr"
+  },
+  {
+    "espn_player_id":17143,
+    "full_name":"Branden Oliver",
+    "team_pos":"sd rb"
+  },
+  {
+    "espn_player_id":16731,
+    "full_name":"Brandin Cooks",
+    "team_pos":"no wr"
+  },
+  {
+    "espn_player_id":15478,
+    "full_name":"Brandon Bolden",
+    "team_pos":"ne rb"
+  },
+  {
+    "espn_player_id":17145,
+    "full_name":"Brandon Coleman",
+    "team_pos":"no wr"
+  },
+  {
+    "espn_player_id":12567,
+    "full_name":"Brandon Gibson",
+    "team_pos":"ne wr"
+  },
+  {
+    "espn_player_id":8524,
+    "full_name":"Brandon Jacobs",
+    "team_pos":"nyg rb"
+  },
+  {
+    "espn_player_id":12576,
+    "full_name":"Brandon LaFell",
+    "team_pos":"ne wr"
+  },
+  {
+    "espn_player_id":9705,
+    "full_name":"Brandon Marshall",
+    "team_pos":"nyj wr"
+  },
+  {
+    "espn_player_id":17171,
+    "full_name":"Brandon McManus",
+    "team_pos":"den k"
+  },
+  {
+    "espn_player_id":12705,
+    "full_name":"Brandon Myers",
+    "team_pos":"tb te"
+  },
+  {
+    "espn_player_id":12549,
+    "full_name":"Brandon Pettigrew",
+    "team_pos":"det te"
+  },
+  {
+    "espn_player_id":1858,
+    "full_name":"Brandon Stokley",
+    "team_pos":"bal wr"
+  },
+  {
+    "espn_player_id":12597,
+    "full_name":"Brandon Tate",
+    "team_pos":"cin wr"
+  },
+  {
+    "espn_player_id":14878,
+    "full_name":"Brandon Weeden",
+    "team_pos":"hou qb"
+  },
+  {
+    "espn_player_id":16313,
+    "full_name":"Brandon Williams",
+    "team_pos":"mia te"
+  },
+  {
+    "espn_player_id":10605,
+    "full_name":"Brent Celek",
+    "team_pos":"phi te"
+  },
+  {
+    "espn_player_id":17154,
+    "full_name":"Brenton Bersin",
+    "team_pos":"car wr"
+  },
+  {
+    "espn_player_id":12568,
+    "full_name":"Brian Hartline",
+    "team_pos":"cle wr"
+  },
+  {
+    "espn_player_id":12477,
+    "full_name":"Brian Hoyer",
+    "team_pos":"hou qb"
+  },
+  {
+    "espn_player_id":14914,
+    "full_name":"Brian Quick",
+    "team_pos":"stl wr"
+  },
+  {
+    "espn_player_id":15896,
+    "full_name":"Brice Butler",
+    "team_pos":"dal wr"
+  },
+  {
+    "espn_player_id":15564,
+    "full_name":"Brittan Golden",
+    "team_pos":"ari wr"
+  },
+  {
+    "espn_player_id":14879,
+    "full_name":"Brock Osweiler",
+    "team_pos":"den qb"
+  },
+  {
+    "espn_player_id":16946,
+    "full_name":"Bruce Ellington",
+    "team_pos":"sf wr"
+  },
+  {
+    "espn_player_id":9780,
+    "full_name":"Bruce Gradkowski",
+    "team_pos":"pit qb"
+  },
+  {
+    "espn_player_id":14083,
+    "full_name":"Bruce Miller",
+    "team_pos":"sf rb"
+  },
+  {
+    "espn_player_id":13662,
+    "full_name":"Bryan Walters",
+    "team_pos":"jax wr"
+  },
+  {
+    "espn_player_id":17434,
+    "full_name":"Bryce Petty",
+    "team_pos":"nyj qb"
+  },
+  {
+    "espn_player_id":16040,
+    "full_name":"C.J. Anderson",
+    "team_pos":"den rb"
+  },
+  {
+    "espn_player_id":16766,
+    "full_name":"C.J. Fiedorowicz",
+    "team_pos":"hou te"
+  },
+  {
+    "espn_player_id":13203,
+    "full_name":"C.J. Spiller",
+    "team_pos":"no rb"
+  },
+  {
+    "espn_player_id":17564,
+    "full_name":"C.J. Uzomah",
+    "team_pos":"cin te"
+  },
+  {
+    "espn_player_id":17172,
+    "full_name":"Cairo Santos",
+    "team_pos":"kc k"
+  },
+  {
+    "espn_player_id":15918,
+    "full_name":"Caleb Sturgis",
+    "team_pos":"phi k"
+  },
+  {
+    "espn_player_id":10447,
+    "full_name":"Calvin Johnson",
+    "team_pos":"det wr"
+  },
+  {
+    "espn_player_id":13994,
+    "full_name":"Cam Newton",
+    "team_pos":"car qb"
+  },
+  {
+    "espn_player_id":17704,
+    "full_name":"Cameron Artis-Payne",
+    "team_pos":"car rb"
+  },
+  {
+    "espn_player_id":17784,
+    "full_name":"Cameron Brate",
+    "team_pos":"tb te"
+  },
+  {
+    "espn_player_id":17750,
+    "full_name":"Cameron Meredith",
+    "team_pos":"chi wr"
+  },
+  {
+    "espn_player_id":16777,
+    "full_name":"Carlos Hyde",
+    "team_pos":"sf rb"
+  },
+  {
+    "espn_player_id":4459,
+    "full_name":"Carson Palmer",
+    "team_pos":"ari qb"
+  },
+  {
+    "espn_player_id":15168,
+    "full_name":"Case Keenum",
+    "team_pos":"stl qb"
+  },
+  {
+    "espn_player_id":14184,
+    "full_name":"Cecil Shorts III",
+    "team_pos":"hou wr"
+  },
+  {
+    "espn_player_id":12519,
+    "full_name":"Cedric Peerman",
+    "team_pos":"cin rb"
+  },
+  {
+    "espn_player_id":11291,
+    "full_name":"Chad Henne",
+    "team_pos":"jax qb"
+  },
+  {
+    "espn_player_id":17169,
+    "full_name":"Chandler Catanzaro",
+    "team_pos":"ari k"
+  },
+  {
+    "espn_player_id":17384,
+    "full_name":"Charcandrick West",
+    "team_pos":"kc rb"
+  },
+  {
+    "espn_player_id":14145,
+    "full_name":"Charles Clay",
+    "team_pos":"buf te"
+  },
+  {
+    "espn_player_id":15885,
+    "full_name":"Charles Johnson",
+    "team_pos":"min wr"
+  },
+  {
+    "espn_player_id":16749,
+    "full_name":"Charles Sims",
+    "team_pos":"tb rb"
+  },
+  {
+    "espn_player_id":9667,
+    "full_name":"Charlie Whitehurst",
+    "team_pos":"ind qb"
+  },
+  {
+    "espn_player_id":12536,
+    "full_name":"Chase Coffman",
+    "team_pos":"sea te"
+  },
+  {
+    "espn_player_id":12471,
+    "full_name":"Chase Daniel",
+    "team_pos":"kc qb"
+  },
+  {
+    "espn_player_id":15647,
+    "full_name":"Chase Ford",
+    "team_pos":"bal te"
+  },
+  {
+    "espn_player_id":14820,
+    "full_name":"Chase Reynolds",
+    "team_pos":"stl rb"
+  },
+  {
+    "espn_player_id":17175,
+    "full_name":"Chris Boswell",
+    "team_pos":"pit k"
+  },
+  {
+    "espn_player_id":17638,
+    "full_name":"Chris Conley",
+    "team_pos":"kc wr"
+  },
+  {
+    "espn_player_id":15078,
+    "full_name":"Chris Givens",
+    "team_pos":"bal wr"
+  },
+  {
+    "espn_player_id":15940,
+    "full_name":"Chris Gragg",
+    "team_pos":"buf te"
+  },
+  {
+    "espn_player_id":16007,
+    "full_name":"Chris Harper",
+    "team_pos":"nyg wr"
+  },
+  {
+    "espn_player_id":17763,
+    "full_name":"Chris Harper",
+    "team_pos":"ne wr"
+  },
+  {
+    "espn_player_id":14402,
+    "full_name":"Chris Hogan",
+    "team_pos":"buf wr"
+  },
+  {
+    "espn_player_id":13587,
+    "full_name":"Chris Ivory",
+    "team_pos":"nyj rb"
+  },
+  {
+    "espn_player_id":11258,
+    "full_name":"Chris Johnson",
+    "team_pos":"ari rb"
+  },
+  {
+    "espn_player_id":17734,
+    "full_name":"Chris Matthews",
+    "team_pos":"sea wr"
+  },
+  {
+    "espn_player_id":12517,
+    "full_name":"Chris Ogbonnaya",
+    "team_pos":"nyg rb"
+  },
+  {
+    "espn_player_id":15230,
+    "full_name":"Chris Owusu",
+    "team_pos":"nyj wr"
+  },
+  {
+    "espn_player_id":14889,
+    "full_name":"Chris Polk",
+    "team_pos":"hou rb"
+  },
+  {
+    "espn_player_id":15966,
+    "full_name":"Chris Thompson",
+    "team_pos":"wsh rb"
+  },
+  {
+    "espn_player_id":13966,
+    "full_name":"Christian Ponder",
+    "team_pos":"den qb"
+  },
+  {
+    "espn_player_id":15855,
+    "full_name":"Christine Michael",
+    "team_pos":"fa rb"
+  },
+  {
+    "espn_player_id":16496,
+    "full_name":"Cierre Wood",
+    "team_pos":"buf rb"
+  },
+  {
+    "espn_player_id":13376,
+    "full_name":"Clay Harbor",
+    "team_pos":"jax te"
+  },
+  {
+    "espn_player_id":17475,
+    "full_name":"Clive Walford",
+    "team_pos":"oak te"
+  },
+  {
+    "espn_player_id":14900,
+    "full_name":"Coby Fleener",
+    "team_pos":"ind te"
+  },
+  {
+    "espn_player_id":16793,
+    "full_name":"Cody Latimer",
+    "team_pos":"den wr"
+  },
+  {
+    "espn_player_id":17173,
+    "full_name":"Cody Parkey",
+    "team_pos":"phi k"
+  },
+  {
+    "espn_player_id":15349,
+    "full_name":"Cole Beasley",
+    "team_pos":"dal wr"
+  },
+  {
+    "espn_player_id":14001,
+    "full_name":"Colin Kaepernick",
+    "team_pos":"sf qb"
+  },
+  {
+    "espn_player_id":13199,
+    "full_name":"Colt McCoy",
+    "team_pos":"wsh qb"
+  },
+  {
+    "espn_player_id":11737,
+    "full_name":"Connor Barth",
+    "team_pos":"tb k"
+  },
+  {
+    "espn_player_id":15670,
+    "full_name":"Cooper Helfet",
+    "team_pos":"sea te"
+  },
+  {
+    "espn_player_id":15807,
+    "full_name":"Cordarrelle Patterson",
+    "team_pos":"min wr"
+  },
+  {
+    "espn_player_id":17167,
+    "full_name":"Corey Brown",
+    "team_pos":"car wr"
+  },
+  {
+    "espn_player_id":16014,
+    "full_name":"Corey Fuller",
+    "team_pos":"det wr"
+  },
+  {
+    "espn_player_id":17752,
+    "full_name":"Corey Grant",
+    "team_pos":"jax rb"
+  },
+  {
+    "espn_player_id":15226,
+    "full_name":"Cory Harkey",
+    "team_pos":"stl te"
+  },
+  {
+    "espn_player_id":11319,
+    "full_name":"Craig Stevens",
+    "team_pos":"ten te"
+  },
+  {
+    "espn_player_id":16775,
+    "full_name":"Crockett Gillmore",
+    "team_pos":"bal te"
+  },
+  {
+    "espn_player_id":15624,
+    "full_name":"Damaris Johnson",
+    "team_pos":"ne wr"
+  },
+  {
+    "espn_player_id":17138,
+    "full_name":"Damien Williams",
+    "team_pos":"mia rb"
+  },
+  {
+    "espn_player_id":14322,
+    "full_name":"Dan Bailey",
+    "team_pos":"dal k"
+  },
+  {
+    "espn_player_id":11688,
+    "full_name":"Dan Carpenter",
+    "team_pos":"buf k"
+  },
+  {
+    "espn_player_id":8559,
+    "full_name":"Dan Orlovsky",
+    "team_pos":"det qb"
+  },
+  {
+    "espn_player_id":17790,
+    "full_name":"Daniel Brown",
+    "team_pos":"bal wr"
+  },
+  {
+    "espn_player_id":10287,
+    "full_name":"Daniel Fells",
+    "team_pos":"nyg te"
+  },
+  {
+    "espn_player_id":15041,
+    "full_name":"Daniel Herron",
+    "team_pos":"ind rb"
+  },
+  {
+    "espn_player_id":11674,
+    "full_name":"Danny Amendola",
+    "team_pos":"ne wr"
+  },
+  {
+    "espn_player_id":11788,
+    "full_name":"Danny Woodhead",
+    "team_pos":"sd rb"
+  },
+  {
+    "espn_player_id":13097,
+    "full_name":"Darrel Young",
+    "team_pos":"wsh rb"
+  },
+  {
+    "espn_player_id":17187,
+    "full_name":"Darren Fells",
+    "team_pos":"ari te"
+  },
+  {
+    "espn_player_id":11238,
+    "full_name":"Darren McFadden",
+    "team_pos":"dal rb"
+  },
+  {
+    "espn_player_id":8544,
+    "full_name":"Darren Sproles",
+    "team_pos":"phi rb"
+  },
+  {
+    "espn_player_id":17607,
+    "full_name":"Darren Waller",
+    "team_pos":"bal wr"
+  },
+  {
+    "espn_player_id":12570,
+    "full_name":"Darrius Heyward-Bey",
+    "team_pos":"pit wr"
+  },
+  {
+    "espn_player_id":16800,
+    "full_name":"Davante Adams",
+    "team_pos":"gb wr"
+  },
+  {
+    "espn_player_id":17578,
+    "full_name":"David Cobb",
+    "team_pos":"ten rb"
+  },
+  {
+    "espn_player_id":16821,
+    "full_name":"David Fales",
+    "team_pos":"chi qb"
+  },
+  {
+    "espn_player_id":12506,
+    "full_name":"David Johnson",
+    "team_pos":"sd te"
+  },
+  {
+    "espn_player_id":17442,
+    "full_name":"David Johnson",
+    "team_pos":"ari rb"
+  },
+  {
+    "espn_player_id":13621,
+    "full_name":"David Nelson",
+    "team_pos":"pit wr"
+  },
+  {
+    "espn_player_id":15795,
+    "full_name":"DeAndre Hopkins",
+    "team_pos":"hou wr"
+  },
+  {
+    "espn_player_id":17519,
+    "full_name":"DeAndrew White",
+    "team_pos":"sf wr"
+  },
+  {
+    "espn_player_id":9613,
+    "full_name":"DeAngelo Williams",
+    "team_pos":"pit rb"
+  },
+  {
+    "espn_player_id":16945,
+    "full_name":"De'Anthony Thomas",
+    "team_pos":"kc rb,"
+  },
+  {
+    "espn_player_id":9761,
+    "full_name":"Delanie Walker",
+    "team_pos":"ten te"
+  },
+  {
+    "espn_player_id":14005,
+    "full_name":"DeMarco Murray",
+    "team_pos":"phi rb"
+  },
+  {
+    "espn_player_id":13216,
+    "full_name":"Demaryius Thomas",
+    "team_pos":"den wr"
+  },
+  {
+    "espn_player_id":17189,
+    "full_name":"Demetrius Harris",
+    "team_pos":"kc te"
+  },
+  {
+    "espn_player_id":15951,
+    "full_name":"Denard Robinson",
+    "team_pos":"jax rb"
+  },
+  {
+    "espn_player_id":14153,
+    "full_name":"Denarius Moore",
+    "team_pos":"buf wr"
+  },
+  {
+    "espn_player_id":13231,
+    "full_name":"Dennis Pitta",
+    "team_pos":"bal te"
+  },
+  {
+    "espn_player_id":15503,
+    "full_name":"Deonte Thompson",
+    "team_pos":"chi wr"
+  },
+  {
+    "espn_player_id":8627,
+    "full_name":"Derek Anderson",
+    "team_pos":"car qb"
+  },
+  {
+    "espn_player_id":16757,
+    "full_name":"Derek Carr",
+    "team_pos":"oak qb"
+  },
+  {
+    "espn_player_id":15403,
+    "full_name":"Derek Carrier",
+    "team_pos":"wsh te"
+  },
+  {
+    "espn_player_id":15351,
+    "full_name":"Derrick Coleman",
+    "team_pos":"sea rb"
+  },
+  {
+    "espn_player_id":11283,
+    "full_name":"DeSean Jackson",
+    "team_pos":"wsh wr"
+  },
+  {
+    "espn_player_id":17593,
+    "full_name":"DeVante Parker",
+    "team_pos":"mia wr"
+  },
+  {
+    "espn_player_id":17682,
+    "full_name":"Devin Funchess",
+    "team_pos":"car wr"
+  },
+  {
+    "espn_player_id":9643,
+    "full_name":"Devin Hester",
+    "team_pos":"atl wr"
+  },
+  {
+    "espn_player_id":17584,
+    "full_name":"Devin Smith",
+    "team_pos":"nyj wr"
+  },
+  {
+    "espn_player_id":17135,
+    "full_name":"Devin Street",
+    "team_pos":"dal wr"
+  },
+  {
+    "espn_player_id":16944,
+    "full_name":"Devonta Freeman",
+    "team_pos":"atl rb"
+  },
+  {
+    "espn_player_id":13207,
+    "full_name":"Dexter McCluster",
+    "team_pos":"ten wr,"
+  },
+  {
+    "espn_player_id":13215,
+    "full_name":"Dez Bryant",
+    "team_pos":"dal wr"
+  },
+  {
+    "espn_player_id":14198,
+    "full_name":"Dion Lewis",
+    "team_pos":"ne rb"
+  },
+  {
+    "espn_player_id":15974,
+    "full_name":"Dion Sims",
+    "team_pos":"mia te"
+  },
+  {
+    "espn_player_id":12489,
+    "full_name":"Donald Brown",
+    "team_pos":"sd rb"
+  },
+  {
+    "espn_player_id":16791,
+    "full_name":"Donte Moncrief",
+    "team_pos":"ind wr"
+  },
+  {
+    "espn_player_id":17780,
+    "full_name":"Donteea Dye",
+    "team_pos":"tb wr"
+  },
+  {
+    "espn_player_id":17136,
+    "full_name":"Dontrelle Inman",
+    "team_pos":"sd wr"
+  },
+  {
+    "espn_player_id":17665,
+    "full_name":"Dorial Green-Beckham",
+    "team_pos":"ten wr"
+  },
+  {
+    "espn_player_id":13353,
+    "full_name":"Dorin Dickerson",
+    "team_pos":"ten te"
+  },
+  {
+    "espn_player_id":14221,
+    "full_name":"Doug Baldwin",
+    "team_pos":"sea wr"
+  },
+  {
+    "espn_player_id":14885,
+    "full_name":"Doug Martin",
+    "team_pos":"tb rb"
+  },
+  {
+    "espn_player_id":2580,
+    "full_name":"Drew Brees",
+    "team_pos":"no qb"
+  },
+  {
+    "espn_player_id":10487,
+    "full_name":"Drew Stanton",
+    "team_pos":"ari qb"
+  },
+  {
+    "espn_player_id":16755,
+    "full_name":"Dri Archer",
+    "team_pos":"pit rb"
+  },
+  {
+    "espn_player_id":17658,
+    "full_name":"Duke Johnson Jr.",
+    "team_pos":"cle rb"
+  },
+  {
+    "espn_player_id":15965,
+    "full_name":"Dustin Hopkins",
+    "team_pos":"wsh k"
+  },
+  {
+    "espn_player_id":14901,
+    "full_name":"Dwayne Allen",
+    "team_pos":"ind te"
+  },
+  {
+    "espn_player_id":10467,
+    "full_name":"Dwayne Bowe",
+    "team_pos":"cle wr"
+  },
+  {
+    "espn_player_id":14100,
+    "full_name":"Dwayne Harris",
+    "team_pos":"nyg wr"
+  },
+  {
+    "espn_player_id":17527,
+    "full_name":"Dylan Thompson",
+    "team_pos":"sf qb"
+  },
+  {
+    "espn_player_id":13272,
+    "full_name":"Ed Dickson",
+    "team_pos":"car te"
+  },
+  {
+    "espn_player_id":15848,
+    "full_name":"Eddie Lacy",
+    "team_pos":"gb rb"
+  },
+  {
+    "espn_player_id":11276,
+    "full_name":"Eddie Royal",
+    "team_pos":"chi wr"
+  },
+  {
+    "espn_player_id":15803,
+    "full_name":"EJ Manuel",
+    "team_pos":"buf qb"
+  },
+  {
+    "espn_player_id":5526,
+    "full_name":"Eli Manning",
+    "team_pos":"nyg qb"
+  },
+  {
+    "espn_player_id":13295,
+    "full_name":"Emmanuel Sanders",
+    "team_pos":"den wr"
+  },
+  {
+    "espn_player_id":13271,
+    "full_name":"Eric Decker",
+    "team_pos":"nyj wr"
+  },
+  {
+    "espn_player_id":16732,
+    "full_name":"Eric Ebron",
+    "team_pos":"det te"
+  },
+  {
+    "espn_player_id":10770,
+    "full_name":"Eric Weems",
+    "team_pos":"atl wr"
+  },
+  {
+    "espn_player_id":17342,
+    "full_name":"Fitzgerald Toussaint",
+    "team_pos":"pit rb"
+  },
+  {
+    "espn_player_id":15755,
+    "full_name":"Fozzy Whittaker",
+    "team_pos":"car rb"
+  },
+  {
+    "espn_player_id":8479,
+    "full_name":"Frank Gore",
+    "team_pos":"ind rb"
+  },
+  {
+    "espn_player_id":17181,
+    "full_name":"Frankie Hammond",
+    "team_pos":"kc wr"
+  },
+  {
+    "espn_player_id":10195,
+    "full_name":"Fred Jackson",
+    "team_pos":"sea rb"
+  },
+  {
+    "espn_player_id":15204,
+    "full_name":"Garrett Celek",
+    "team_pos":"sf te"
+  },
+  {
+    "espn_player_id":13371,
+    "full_name":"Garrett Graham",
+    "team_pos":"hou te"
+  },
+  {
+    "espn_player_id":17572,
+    "full_name":"Garrett Grayson",
+    "team_pos":"no qb"
+  },
+  {
+    "espn_player_id":11364,
+    "full_name":"Gary Barnidge",
+    "team_pos":"cle te"
+  },
+  {
+    "espn_player_id":15836,
+    "full_name":"Gavin Escobar",
+    "team_pos":"dal te"
+  },
+  {
+    "espn_player_id":15864,
+    "full_name":"Geno Smith",
+    "team_pos":"nyj qb"
+  },
+  {
+    "espn_player_id":17713,
+    "full_name":"Geoff Swaim",
+    "team_pos":"dal te"
+  },
+  {
+    "espn_player_id":16488,
+    "full_name":"George Winn",
+    "team_pos":"det rb"
+  },
+  {
+    "espn_player_id":17478,
+    "full_name":"Geremy Davis",
+    "team_pos":"nyg wr"
+  },
+  {
+    "espn_player_id":15826,
+    "full_name":"Giovani Bernard",
+    "team_pos":"cin rb"
+  },
+  {
+    "espn_player_id":17210,
+    "full_name":"Glenn Winston",
+    "team_pos":"cle rb"
+  },
+  {
+    "espn_player_id":13217,
+    "full_name":"Golden Tate",
+    "team_pos":"det wr"
+  },
+  {
+    "espn_player_id":12460,
+    "full_name":"Graham Gano",
+    "team_pos":"car k"
+  },
+  {
+    "espn_player_id":9638,
+    "full_name":"Greg Jennings",
+    "team_pos":"mia wr"
+  },
+  {
+    "espn_player_id":14024,
+    "full_name":"Greg Little",
+    "team_pos":"cin wr"
+  },
+  {
+    "espn_player_id":10475,
+    "full_name":"Greg Olsen",
+    "team_pos":"car te"
+  },
+  {
+    "espn_player_id":14993,
+    "full_name":"Greg Zuerlein",
+    "team_pos":"stl k"
+  },
+  {
+    "espn_player_id":15360,
+    "full_name":"Griff Whalen",
+    "team_pos":"ind wr"
+  },
+  {
+    "espn_player_id":12586,
+    "full_name":"Hakeem Nicks",
+    "team_pos":"nyg wr"
+  },
+  {
+    "espn_player_id":11318,
+    "full_name":"Harry Douglas",
+    "team_pos":"ten wr"
+  },
+  {
+    "espn_player_id":8444,
+    "full_name":"Heath Miller",
+    "team_pos":"pit te"
+  },
+  {
+    "espn_player_id":17133,
+    "full_name":"Isaiah Crowell",
+    "team_pos":"cle rb"
+  },
+  {
+    "espn_player_id":14888,
+    "full_name":"Isaiah Pead",
+    "team_pos":"pit rb"
+  },
+  {
+    "espn_player_id":17514,
+    "full_name":"J.J. Nelson",
+    "team_pos":"ari wr"
+  },
+  {
+    "espn_player_id":16504,
+    "full_name":"Jack Doyle",
+    "team_pos":"ind te"
+  },
+  {
+    "espn_player_id":11373,
+    "full_name":"Jacob Tamme",
+    "team_pos":"atl te"
+  },
+  {
+    "espn_player_id":10517,
+    "full_name":"Jacoby Jones",
+    "team_pos":"pit wr"
+  },
+  {
+    "espn_player_id":14193,
+    "full_name":"Jacquizz Rodgers",
+    "team_pos":"chi rb"
+  },
+  {
+    "espn_player_id":17709,
+    "full_name":"Jaelen Strong",
+    "team_pos":"hou wr"
+  },
+  {
+    "espn_player_id":16493,
+    "full_name":"Jake Stoneburner",
+    "team_pos":"mia te"
+  },
+  {
+    "espn_player_id":17516,
+    "full_name":"Jalston Fowler",
+    "team_pos":"ten rb"
+  },
+  {
+    "espn_player_id":11307,
+    "full_name":"Jamaal Charles",
+    "team_pos":"kc rb"
+  },
+  {
+    "espn_player_id":17399,
+    "full_name":"Jameis Winston",
+    "team_pos":"tb qb"
+  },
+  {
+    "espn_player_id":12535,
+    "full_name":"James Casey",
+    "team_pos":"den te"
+  },
+  {
+    "espn_player_id":13940,
+    "full_name":"James Develin",
+    "team_pos":"ne rb"
+  },
+  {
+    "espn_player_id":14906,
+    "full_name":"James Hanna",
+    "team_pos":"dal te"
+  },
+  {
+    "espn_player_id":10522,
+    "full_name":"James Jones",
+    "team_pos":"gb wr"
+  },
+  {
+    "espn_player_id":17441,
+    "full_name":"James O'Shaughnessy",
+    "team_pos":"kc te"
+  },
+  {
+    "espn_player_id":13214,
+    "full_name":"James Starks",
+    "team_pos":"gb rb"
+  },
+  {
+    "espn_player_id":16913,
+    "full_name":"James White",
+    "team_pos":"ne rb"
+  },
+  {
+    "espn_player_id":17600,
+    "full_name":"Jamison Crowder",
+    "team_pos":"wsh wr"
+  },
+  {
+    "espn_player_id":15653,
+    "full_name":"Jamize Olawale",
+    "team_pos":"oak rb"
+  },
+  {
+    "espn_player_id":16836,
+    "full_name":"Jared Abbrederis",
+    "team_pos":"gb wr"
+  },
+  {
+    "espn_player_id":12537,
+    "full_name":"Jared Cook",
+    "team_pos":"stl te"
+  },
+  {
+    "espn_player_id":14918,
+    "full_name":"Jarius Wright",
+    "team_pos":"min wr"
+  },
+  {
+    "espn_player_id":16172,
+    "full_name":"Jaron Brown",
+    "team_pos":"ari wr"
+  },
+  {
+    "espn_player_id":17745,
+    "full_name":"Jarryd Hayne",
+    "team_pos":"sf rb"
+  },
+  {
+    "espn_player_id":16790,
+    "full_name":"Jarvis Landry",
+    "team_pos":"mia wr"
+  },
+  {
+    "espn_player_id":9695,
+    "full_name":"Jason Avant",
+    "team_pos":"kc wr"
+  },
+  {
+    "espn_player_id":17438,
+    "full_name":"Jason Myers",
+    "team_pos":"jax k"
+  },
+  {
+    "espn_player_id":4527,
+    "full_name":"Jason Witten",
+    "team_pos":"dal te"
+  },
+  {
+    "espn_player_id":17783,
+    "full_name":"Javontee Herndon",
+    "team_pos":"sd wr"
+  },
+  {
+    "espn_player_id":17616,
+    "full_name":"Javorius Allen",
+    "team_pos":"bal rb"
+  },
+  {
+    "espn_player_id":17556,
+    "full_name":"Jay Ajayi",
+    "team_pos":"mia rb"
+  },
+  {
+    "espn_player_id":9597,
+    "full_name":"Jay Cutler",
+    "team_pos":"chi qb"
+  },
+  {
+    "espn_player_id":17191,
+    "full_name":"Jay Prosch",
+    "team_pos":"hou rb"
+  },
+  {
+    "espn_player_id":13555,
+    "full_name":"Jeff Cumberland",
+    "team_pos":"nyj te"
+  },
+  {
+    "espn_player_id":17137,
+    "full_name":"Jeff Janis",
+    "team_pos":"gb wr"
+  },
+  {
+    "espn_player_id":17197,
+    "full_name":"Jeremy Butler",
+    "team_pos":"bal wr"
+  },
+  {
+    "espn_player_id":16803,
+    "full_name":"Jeremy Hill",
+    "team_pos":"cin rb"
+  },
+  {
+    "espn_player_id":14151,
+    "full_name":"Jeremy Kerley",
+    "team_pos":"nyj wr"
+  },
+  {
+    "espn_player_id":17505,
+    "full_name":"Jeremy Langford",
+    "team_pos":"chi rb"
+  },
+  {
+    "espn_player_id":12579,
+    "full_name":"Jeremy Maclin",
+    "team_pos":"kc wr"
+  },
+  {
+    "espn_player_id":14500,
+    "full_name":"Jeremy Ross",
+    "team_pos":"oak wr"
+  },
+  {
+    "espn_player_id":16782,
+    "full_name":"Jerick McKinnon",
+    "team_pos":"min rb"
+  },
+  {
+    "espn_player_id":13228,
+    "full_name":"Jermaine Gresham",
+    "team_pos":"ari te"
+  },
+  {
+    "espn_player_id":15428,
+    "full_name":"Jermaine Kearse",
+    "team_pos":"sea wr"
+  },
+  {
+    "espn_player_id":17759,
+    "full_name":"Jerome Cunningham",
+    "team_pos":"nyg te"
+  },
+  {
+    "espn_player_id":11369,
+    "full_name":"Jerome Felton",
+    "team_pos":"buf rb"
+  },
+  {
+    "espn_player_id":11280,
+    "full_name":"Jerome Simpson",
+    "team_pos":"sf wr"
+  },
+  {
+    "espn_player_id":5633,
+    "full_name":"Jerricho Cotchery",
+    "team_pos":"car wr"
+  },
+  {
+    "espn_player_id":17690,
+    "full_name":"Jesse James",
+    "team_pos":"pit te"
+  },
+  {
+    "espn_player_id":13357,
+    "full_name":"Jim Dray",
+    "team_pos":"cle te"
+  },
+  {
+    "espn_player_id":13198,
+    "full_name":"Jimmy Clausen",
+    "team_pos":"bal qb"
+  },
+  {
+    "espn_player_id":16760,
+    "full_name":"Jimmy Garoppolo",
+    "team_pos":"ne qb"
+  },
+  {
+    "espn_player_id":13232,
+    "full_name":"Jimmy Graham",
+    "team_pos":"sea te"
+  },
+  {
+    "espn_player_id":11252,
+    "full_name":"Joe Flacco",
+    "team_pos":"bal qb"
+  },
+  {
+    "espn_player_id":13209,
+    "full_name":"Joe McKnight",
+    "team_pos":"kc rb"
+  },
+  {
+    "espn_player_id":14424,
+    "full_name":"Joe Morgan",
+    "team_pos":"bal wr"
+  },
+  {
+    "espn_player_id":13484,
+    "full_name":"Joe Webb",
+    "team_pos":"car qb"
+  },
+  {
+    "espn_player_id":16804,
+    "full_name":"John Brown",
+    "team_pos":"ari wr"
+  },
+  {
+    "espn_player_id":9530,
+    "full_name":"John Kuhn",
+    "team_pos":"gb rb"
+  },
+  {
+    "espn_player_id":12550,
+    "full_name":"John Phillips",
+    "team_pos":"sd te"
+  },
+  {
+    "espn_player_id":16736,
+    "full_name":"Johnny Manziel",
+    "team_pos":"cle qb"
+  },
+  {
+    "espn_player_id":13536,
+    "full_name":"Joique Bell",
+    "team_pos":"det rb"
+  },
+  {
+    "espn_player_id":15364,
+    "full_name":"Jonas Gray",
+    "team_pos":"mia rb"
+  },
+  {
+    "espn_player_id":15632,
+    "full_name":"Jonathan Grimes",
+    "team_pos":"hou rb"
+  },
+  {
+    "espn_player_id":11247,
+    "full_name":"Jonathan Stewart",
+    "team_pos":"car rb"
+  },
+  {
+    "espn_player_id":14189,
+    "full_name":"Jordan Cameron",
+    "team_pos":"mia te"
+  },
+  {
+    "espn_player_id":16763,
+    "full_name":"Jordan Matthews",
+    "team_pos":"phi wr"
+  },
+  {
+    "espn_player_id":12587,
+    "full_name":"Jordan Norwood",
+    "team_pos":"den wr"
+  },
+  {
+    "espn_player_id":15860,
+    "full_name":"Jordan Reed",
+    "team_pos":"wsh te"
+  },
+  {
+    "espn_player_id":14186,
+    "full_name":"Jordan Todman",
+    "team_pos":"pit rb"
+  },
+  {
+    "espn_player_id":11270,
+    "full_name":"Jordy Nelson",
+    "team_pos":"gb wr"
+  },
+  {
+    "espn_player_id":12510,
+    "full_name":"Jorvorskie Lane",
+    "team_pos":"tb rb"
+  },
+  {
+    "espn_player_id":16013,
+    "full_name":"Joseph Randle",
+    "team_pos":"fa rb"
+  },
+  {
+    "espn_player_id":4680,
+    "full_name":"Josh Brown",
+    "team_pos":"nyg k"
+  },
+  {
+    "espn_player_id":16143,
+    "full_name":"Josh Hill",
+    "team_pos":"no te"
+  },
+  {
+    "espn_player_id":16779,
+    "full_name":"Josh Huff",
+    "team_pos":"phi wr"
+  },
+  {
+    "espn_player_id":11394,
+    "full_name":"Josh Johnson",
+    "team_pos":"buf qb"
+  },
+  {
+    "espn_player_id":17746,
+    "full_name":"Josh Lambo",
+    "team_pos":"sd k"
+  },
+  {
+    "espn_player_id":3609,
+    "full_name":"Josh McCown",
+    "team_pos":"cle qb"
+  },
+  {
+    "espn_player_id":17622,
+    "full_name":"Josh Robinson",
+    "team_pos":"ind rb"
+  },
+  {
+    "espn_player_id":5662,
+    "full_name":"Josh Scobee",
+    "team_pos":"pit k"
+  },
+  {
+    "espn_player_id":15555,
+    "full_name":"Joshua Bellamy",
+    "team_pos":"chi wr"
+  },
+  {
+    "espn_player_id":12649,
+    "full_name":"Julian Edelman",
+    "team_pos":"ne wr"
+  },
+  {
+    "espn_player_id":13982,
+    "full_name":"Julio Jones",
+    "team_pos":"atl wr"
+  },
+  {
+    "espn_player_id":14204,
+    "full_name":"Julius Thomas",
+    "team_pos":"jax te"
+  },
+  {
+    "espn_player_id":15991,
+    "full_name":"Justice Cunningham",
+    "team_pos":"stl te"
+  },
+  {
+    "espn_player_id":14907,
+    "full_name":"Justin Blackmon",
+    "team_pos":"jax wr"
+  },
+  {
+    "espn_player_id":11467,
+    "full_name":"Justin Forsett",
+    "team_pos":"bal rb"
+  },
+  {
+    "espn_player_id":17542,
+    "full_name":"Justin Hardy",
+    "team_pos":"atl wr"
+  },
+  {
+    "espn_player_id":15845,
+    "full_name":"Justin Hunter",
+    "team_pos":"ten wr"
+  },
+  {
+    "espn_player_id":17392,
+    "full_name":"Justin Perillo",
+    "team_pos":"gb te"
+  },
+  {
+    "espn_player_id":15683,
+    "full_name":"Justin Tucker",
+    "team_pos":"bal k"
+  },
+  {
+    "espn_player_id":17140,
+    "full_name":"Juwan Thompson",
+    "team_pos":"den rb"
+  },
+  {
+    "espn_player_id":16942,
+    "full_name":"Ka'Deem Carey",
+    "team_pos":"chi rb"
+  },
+  {
+    "espn_player_id":17530,
+    "full_name":"Kaelin Clay",
+    "team_pos":"bal wr"
+  },
+  {
+    "espn_player_id":14816,
+    "full_name":"Kai Forbath",
+    "team_pos":"no k"
+  },
+  {
+    "espn_player_id":14583,
+    "full_name":"Kamar Aiken",
+    "team_pos":"bal wr"
+  },
+  {
+    "espn_player_id":17141,
+    "full_name":"Kapri Bibbs",
+    "team_pos":"den rb"
+  },
+  {
+    "espn_player_id":17605,
+    "full_name":"Karlos Williams",
+    "team_pos":"buf rb"
+  },
+  {
+    "espn_player_id":15818,
+    "full_name":"Keenan Allen",
+    "team_pos":"sd wr"
+  },
+  {
+    "espn_player_id":17507,
+    "full_name":"Keith Mumphery",
+    "team_pos":"hou wr"
+  },
+  {
+    "espn_player_id":9635,
+    "full_name":"Kellen Clemens",
+    "team_pos":"sd qb"
+  },
+  {
+    "espn_player_id":11392,
+    "full_name":"Kellen Davis",
+    "team_pos":"nyj te"
+  },
+  {
+    "espn_player_id":14882,
+    "full_name":"Kellen Moore",
+    "team_pos":"dal qb"
+  },
+  {
+    "espn_player_id":16381,
+    "full_name":"Kenbrell Thompkins",
+    "team_pos":"nyj wr"
+  },
+  {
+    "espn_player_id":16066,
+    "full_name":"Kendall Gaskins",
+    "team_pos":"sf rb"
+  },
+  {
+    "espn_player_id":14909,
+    "full_name":"Kendall Wright",
+    "team_pos":"ten wr"
+  },
+  {
+    "espn_player_id":15921,
+    "full_name":"Kenjon Barner",
+    "team_pos":"phi rb"
+  },
+  {
+    "espn_player_id":17649,
+    "full_name":"Kennard Backman",
+    "team_pos":"gb te"
+  },
+  {
+    "espn_player_id":12556,
+    "full_name":"Kenny Britt",
+    "team_pos":"stl wr"
+  },
+  {
+    "espn_player_id":16016,
+    "full_name":"Kenny Stills",
+    "team_pos":"mia wr"
+  },
+  {
+    "espn_player_id":16024,
+    "full_name":"Kerwynn Williams",
+    "team_pos":"ari rb"
+  },
+  {
+    "espn_player_id":14916,
+    "full_name":"Keshawn Martin",
+    "team_pos":"ne wr"
+  },
+  {
+    "espn_player_id":12874,
+    "full_name":"Kevin Brock",
+    "team_pos":"no te"
+  },
+  {
+    "espn_player_id":16841,
+    "full_name":"Kevin Norwood",
+    "team_pos":"car wr"
+  },
+  {
+    "espn_player_id":17419,
+    "full_name":"Kevin Smith",
+    "team_pos":"sea wr"
+  },
+  {
+    "espn_player_id":17754,
+    "full_name":"Khari Lee",
+    "team_pos":"chi te"
+  },
+  {
+    "espn_player_id":16530,
+    "full_name":"Khiry Robinson",
+    "team_pos":"no rb"
+  },
+  {
+    "espn_player_id":14880,
+    "full_name":"Kirk Cousins",
+    "team_pos":"wsh qb"
+  },
+  {
+    "espn_player_id":15832,
+    "full_name":"Knile Davis",
+    "team_pos":"kc rb"
+  },
+  {
+    "espn_player_id":14434,
+    "full_name":"Konrad Reuland",
+    "team_pos":"bal te"
+  },
+  {
+    "espn_player_id":17743,
+    "full_name":"Kyle Brindza",
+    "team_pos":"tb k"
+  },
+  {
+    "espn_player_id":16002,
+    "full_name":"Kyle Juszczyk",
+    "team_pos":"bal rb"
+  },
+  {
+    "espn_player_id":14289,
+    "full_name":"Kyle Miller",
+    "team_pos":"sd te"
+  },
+  {
+    "espn_player_id":14054,
+    "full_name":"Kyle Rudolph",
+    "team_pos":"min te"
+  },
+  {
+    "espn_player_id":13488,
+    "full_name":"Kyle Williams",
+    "team_pos":"den wr"
+  },
+  {
+    "espn_player_id":14904,
+    "full_name":"Ladarius Green",
+    "team_pos":"sd te"
+  },
+  {
+    "espn_player_id":14886,
+    "full_name":"Lamar Miller",
+    "team_pos":"mia rb"
+  },
+  {
+    "espn_player_id":14890,
+    "full_name":"LaMike James",
+    "team_pos":"mia rb"
+  },
+  {
+    "espn_player_id":15369,
+    "full_name":"Lance Dunbar",
+    "team_pos":"dal rb"
+  },
+  {
+    "espn_player_id":14007,
+    "full_name":"Lance Kendricks",
+    "team_pos":"stl te"
+  },
+  {
+    "espn_player_id":9400,
+    "full_name":"Lance Moore",
+    "team_pos":"det wr"
+  },
+  {
+    "espn_player_id":15904,
+    "full_name":"Landry Jones",
+    "team_pos":"pit qb"
+  },
+  {
+    "espn_player_id":15707,
+    "full_name":"Larry Donnell",
+    "team_pos":"nyg te"
+  },
+  {
+    "espn_player_id":5528,
+    "full_name":"Larry Fitzgerald",
+    "team_pos":"ari wr"
+  },
+  {
+    "espn_player_id":15920,
+    "full_name":"Latavius Murray",
+    "team_pos":"oak rb"
+  },
+  {
+    "espn_player_id":14215,
+    "full_name":"Lee Smith",
+    "team_pos":"oak te"
+  },
+  {
+    "espn_player_id":13213,
+    "full_name":"LeGarrette Blount",
+    "team_pos":"ne rb"
+  },
+  {
+    "espn_player_id":14021,
+    "full_name":"Leonard Hankerson",
+    "team_pos":"atl wr"
+  },
+  {
+    "espn_player_id":12514,
+    "full_name":"LeSean McCoy",
+    "team_pos":"buf rb"
+  },
+  {
+    "espn_player_id":15825,
+    "full_name":"Le'Veon Bell",
+    "team_pos":"pit rb"
+  },
+  {
+    "espn_player_id":15980,
+    "full_name":"Levine Toilolo",
+    "team_pos":"atl te"
+  },
+  {
+    "espn_player_id":13726,
+    "full_name":"Logan Paulsen",
+    "team_pos":"wsh te"
+  },
+  {
+    "espn_player_id":16950,
+    "full_name":"Lorenzo Taliaferro",
+    "team_pos":"bal rb"
+  },
+  {
+    "espn_player_id":12585,
+    "full_name":"Louis Murphy",
+    "team_pos":"tb wr"
+  },
+  {
+    "espn_player_id":17755,
+    "full_name":"Lucky Whitehead",
+    "team_pos":"dal wr"
+  },
+  {
+    "espn_player_id":5631,
+    "full_name":"Luke McCown",
+    "team_pos":"no qb"
+  },
+  {
+    "espn_player_id":14099,
+    "full_name":"Luke Stocker",
+    "team_pos":"tb te"
+  },
+  {
+    "espn_player_id":16121,
+    "full_name":"Luke Willson",
+    "team_pos":"sea te"
+  },
+  {
+    "espn_player_id":17524,
+    "full_name":"Malcolm Johnson",
+    "team_pos":"cle te,"
+  },
+  {
+    "espn_player_id":6016,
+    "full_name":"Malcom Floyd",
+    "team_pos":"sd wr"
+  },
+  {
+    "espn_player_id":13409,
+    "full_name":"Marc Mariani",
+    "team_pos":"chi wr"
+  },
+  {
+    "espn_player_id":9614,
+    "full_name":"Marcedes Lewis",
+    "team_pos":"jax te"
+  },
+  {
+    "espn_player_id":11717,
+    "full_name":"Marcel Reece",
+    "team_pos":"oak rb"
+  },
+  {
+    "espn_player_id":13224,
+    "full_name":"Marcus Easley",
+    "team_pos":"buf wr"
+  },
+  {
+    "espn_player_id":17610,
+    "full_name":"Marcus Mariota",
+    "team_pos":"ten qb"
+  },
+  {
+    "espn_player_id":17486,
+    "full_name":"Marcus Murphy",
+    "team_pos":"no rb"
+  },
+  {
+    "espn_player_id":12524,
+    "full_name":"Marcus Thigpen",
+    "team_pos":"buf rb"
+  },
+  {
+    "espn_player_id":17717,
+    "full_name":"Mario Alford",
+    "team_pos":"cin wr"
+  },
+  {
+    "espn_player_id":13981,
+    "full_name":"Mark Ingram",
+    "team_pos":"no rb"
+  },
+  {
+    "espn_player_id":12482,
+    "full_name":"Mark Sanchez",
+    "team_pos":"phi qb"
+  },
+  {
+    "espn_player_id":15873,
+    "full_name":"Markus Wheaton",
+    "team_pos":"pit wr"
+  },
+  {
+    "espn_player_id":16581,
+    "full_name":"Marlon Brown",
+    "team_pos":"bal wr"
+  },
+  {
+    "espn_player_id":13616,
+    "full_name":"Marlon Moore",
+    "team_pos":"cle wr"
+  },
+  {
+    "espn_player_id":16787,
+    "full_name":"Marqise Lee",
+    "team_pos":"jax wr"
+  },
+  {
+    "espn_player_id":16323,
+    "full_name":"MarQueis Gray",
+    "team_pos":"buf te"
+  },
+  {
+    "espn_player_id":9838,
+    "full_name":"Marques Colston",
+    "team_pos":"no wr"
+  },
+  {
+    "espn_player_id":16023,
+    "full_name":"Marquess Wilson",
+    "team_pos":"chi wr"
+  },
+  {
+    "espn_player_id":15839,
+    "full_name":"Marquise Goodwin",
+    "team_pos":"buf wr"
+  },
+  {
+    "espn_player_id":10456,
+    "full_name":"Marshawn Lynch",
+    "team_pos":"sea rb"
+  },
+  {
+    "espn_player_id":16886,
+    "full_name":"Martavis Bryant",
+    "team_pos":"pit wr"
+  },
+  {
+    "espn_player_id":11295,
+    "full_name":"Martellus Bennett",
+    "team_pos":"chi te"
+  },
+  {
+    "espn_player_id":15072,
+    "full_name":"Marvin Jones",
+    "team_pos":"cin wr"
+  },
+  {
+    "espn_player_id":10636,
+    "full_name":"Mason Crosby",
+    "team_pos":"gb k"
+  },
+  {
+    "espn_player_id":14360,
+    "full_name":"Matt Asiata",
+    "team_pos":"min rb"
+  },
+  {
+    "espn_player_id":4333,
+    "full_name":"Matt Bryant",
+    "team_pos":"atl k"
+  },
+  {
+    "espn_player_id":8644,
+    "full_name":"Matt Cassel",
+    "team_pos":"dal qb"
+  },
+  {
+    "espn_player_id":11443,
+    "full_name":"Matt Flynn",
+    "team_pos":"no qb"
+  },
+  {
+    "espn_player_id":11278,
+    "full_name":"Matt Forte",
+    "team_pos":"chi rb"
+  },
+  {
+    "espn_player_id":1575,
+    "full_name":"Matt Hasselbeck",
+    "team_pos":"ind qb"
+  },
+  {
+    "espn_player_id":17695,
+    "full_name":"Matt Jones",
+    "team_pos":"wsh rb"
+  },
+  {
+    "espn_player_id":16593,
+    "full_name":"Matt McGloin",
+    "team_pos":"oak qb"
+  },
+  {
+    "espn_player_id":11128,
+    "full_name":"Matt Moore",
+    "team_pos":"mia qb"
+  },
+  {
+    "espn_player_id":11122,
+    "full_name":"Matt Prater",
+    "team_pos":"det k"
+  },
+  {
+    "espn_player_id":11237,
+    "full_name":"Matt Ryan",
+    "team_pos":"atl qb"
+  },
+  {
+    "espn_player_id":5615,
+    "full_name":"Matt Schaub",
+    "team_pos":"bal qb"
+  },
+  {
+    "espn_player_id":10521,
+    "full_name":"Matt Spaeth",
+    "team_pos":"pit te"
+  },
+  {
+    "espn_player_id":11708,
+    "full_name":"Matthew Mulligan",
+    "team_pos":"buf te"
+  },
+  {
+    "espn_player_id":11387,
+    "full_name":"Matthew Slater",
+    "team_pos":"ne wr"
+  },
+  {
+    "espn_player_id":12483,
+    "full_name":"Matthew Stafford",
+    "team_pos":"det qb"
+  },
+  {
+    "espn_player_id":17660,
+    "full_name":"Maxx Williams",
+    "team_pos":"bal te"
+  },
+  {
+    "espn_player_id":17586,
+    "full_name":"Melvin Gordon",
+    "team_pos":"sd rb"
+  },
+  {
+    "espn_player_id":17502,
+    "full_name":"Michael Burton",
+    "team_pos":"det rb"
+  },
+  {
+    "espn_player_id":17148,
+    "full_name":"Michael Campanaro",
+    "team_pos":"bal wr"
+  },
+  {
+    "espn_player_id":12563,
+    "full_name":"Michael Crabtree",
+    "team_pos":"oak wr"
+  },
+  {
+    "espn_player_id":14908,
+    "full_name":"Michael Floyd",
+    "team_pos":"ari wr"
+  },
+  {
+    "espn_player_id":13387,
+    "full_name":"Michael Hoomanawanui",
+    "team_pos":"no te"
+  },
+  {
+    "espn_player_id":15910,
+    "full_name":"Michael Williams",
+    "team_pos":"ne te"
+  },
+  {
+    "espn_player_id":13456,
+    "full_name":"Mickey Charles Shuler",
+    "team_pos":"atl te"
+  },
+  {
+    "espn_player_id":17700,
+    "full_name":"Mike Davis",
+    "team_pos":"sf rb"
+  },
+  {
+    "espn_player_id":16737,
+    "full_name":"Mike Evans",
+    "team_pos":"tb wr"
+  },
+  {
+    "espn_player_id":15837,
+    "full_name":"Mike Glennon",
+    "team_pos":"tb qb"
+  },
+  {
+    "espn_player_id":15968,
+    "full_name":"Mike James",
+    "team_pos":"tb rb"
+  },
+  {
+    "espn_player_id":8461,
+    "full_name":"Mike Nugent",
+    "team_pos":"cin k"
+  },
+  {
+    "espn_player_id":11658,
+    "full_name":"Mike Tolbert",
+    "team_pos":"car rb"
+  },
+  {
+    "espn_player_id":2549,
+    "full_name":"Mike Vick",
+    "team_pos":"pit qb"
+  },
+  {
+    "espn_player_id":12601,
+    "full_name":"Mike Wallace",
+    "team_pos":"min wr"
+  },
+  {
+    "espn_player_id":10147,
+    "full_name":"Miles Austin",
+    "team_pos":"phi wr"
+  },
+  {
+    "espn_player_id":14922,
+    "full_name":"Mohamed Sanu",
+    "team_pos":"cin wr"
+  },
+  {
+    "espn_player_id":15923,
+    "full_name":"Mychal Rivera",
+    "team_pos":"oak te"
+  },
+  {
+    "espn_player_id":17444,
+    "full_name":"MyCole Pruitt",
+    "team_pos":"min te"
+  },
+  {
+    "espn_player_id":16569,
+    "full_name":"Myles White",
+    "team_pos":"nyg wr"
+  },
+  {
+    "espn_player_id":9307,
+    "full_name":"Nate Washington",
+    "team_pos":"hou wr"
+  },
+  {
+    "espn_player_id":17668,
+    "full_name":"Nelson Agholor",
+    "team_pos":"phi wr"
+  },
+  {
+    "espn_player_id":17356,
+    "full_name":"Nic Jacobs",
+    "team_pos":"jax te"
+  },
+  {
+    "espn_player_id":17567,
+    "full_name":"Nick Boyle",
+    "team_pos":"bal te"
+  },
+  {
+    "espn_player_id":14877,
+    "full_name":"Nick Foles",
+    "team_pos":"stl qb"
+  },
+  {
+    "espn_player_id":10621,
+    "full_name":"Nick Folk",
+    "team_pos":"nyj k"
+  },
+  {
+    "espn_player_id":9329,
+    "full_name":"Nick Novak",
+    "team_pos":"hou k"
+  },
+  {
+    "espn_player_id":16345,
+    "full_name":"Nick Williams",
+    "team_pos":"atl wr"
+  },
+  {
+    "espn_player_id":17757,
+    "full_name":"Nikita Whitlock",
+    "team_pos":"nyg rb"
+  },
+  {
+    "espn_player_id":14156,
+    "full_name":"Niles Paul",
+    "team_pos":"wsh te"
+  },
+  {
+    "espn_player_id":16733,
+    "full_name":"Odell Beckham Jr.",
+    "team_pos":"nyg wr"
+  },
+  {
+    "espn_player_id":17208,
+    "full_name":"Orleans Darkwa",
+    "team_pos":"nyg rb"
+  },
+  {
+    "espn_player_id":9684,
+    "full_name":"Owen Daniels",
+    "team_pos":"den te"
+  },
+  {
+    "espn_player_id":14332,
+    "full_name":"Patrick DiMarco",
+    "team_pos":"atl rb"
+  },
+  {
+    "espn_player_id":16781,
+    "full_name":"Paul Richardson",
+    "team_pos":"sea wr"
+  },
+  {
+    "espn_player_id":12569,
+    "full_name":"Percy Harvin",
+    "team_pos":"buf wr"
+  },
+  {
+    "espn_player_id":11461,
+    "full_name":"Peyton Hillis",
+    "team_pos":"nyg rb"
+  },
+  {
+    "espn_player_id":1428,
+    "full_name":"Peyton Manning",
+    "team_pos":"den qb"
+  },
+  {
+    "espn_player_id":1440,
+    "full_name":"Phil Dawson",
+    "team_pos":"sf k"
+  },
+  {
+    "espn_player_id":5529,
+    "full_name":"Philip Rivers",
+    "team_pos":"sd qb"
+  },
+  {
+    "espn_player_id":17643,
+    "full_name":"Phillip Dorsett",
+    "team_pos":"ind wr"
+  },
+  {
+    "espn_player_id":15257,
+    "full_name":"Phillip Supernaw",
+    "team_pos":"ten te"
+  },
+  {
+    "espn_player_id":11439,
+    "full_name":"Pierre Garcon",
+    "team_pos":"wsh wr"
+  },
+  {
+    "espn_player_id":10713,
+    "full_name":"Pierre Thomas",
+    "team_pos":"fa rb"
+  },
+  {
+    "espn_player_id":13703,
+    "full_name":"Preston Parker",
+    "team_pos":"fa wr"
+  },
+  {
+    "espn_player_id":17561,
+    "full_name":"Quan Bray",
+    "team_pos":"ind rb"
+  },
+  {
+    "espn_player_id":17758,
+    "full_name":"Quincy Enunwa",
+    "team_pos":"nyj wr"
+  },
+  {
+    "espn_player_id":16026,
+    "full_name":"Quinton Patton",
+    "team_pos":"sf wr"
+  },
+  {
+    "espn_player_id":17767,
+    "full_name":"Raheem Mostert",
+    "team_pos":"bal rb"
+  },
+  {
+    "espn_player_id":14053,
+    "full_name":"Randall Cobb",
+    "team_pos":"gb wr"
+  },
+  {
+    "espn_player_id":15091,
+    "full_name":"Randy Bullock",
+    "team_pos":"nyj k"
+  },
+  {
+    "espn_player_id":17601,
+    "full_name":"Rashad Greene",
+    "team_pos":"jax wr"
+  },
+  {
+    "espn_player_id":12503,
+    "full_name":"Rashad Jennings",
+    "team_pos":"nyg rb"
+  },
+  {
+    "espn_player_id":17355,
+    "full_name":"Rashad Ross",
+    "team_pos":"wsh wr"
+  },
+  {
+    "espn_player_id":9588,
+    "full_name":"Reggie Bush",
+    "team_pos":"sf rb"
+  },
+  {
+    "espn_player_id":15971,
+    "full_name":"Rex Burkhead",
+    "team_pos":"cin rb"
+  },
+  {
+    "espn_player_id":15003,
+    "full_name":"Rhett Ellison",
+    "team_pos":"min te"
+  },
+  {
+    "espn_player_id":14280,
+    "full_name":"Ricardo Lockette",
+    "team_pos":"sea wr"
+  },
+  {
+    "espn_player_id":14211,
+    "full_name":"Richard Gordon",
+    "team_pos":"den te"
+  },
+  {
+    "espn_player_id":16786,
+    "full_name":"Richard Rodgers",
+    "team_pos":"gb te"
+  },
+  {
+    "espn_player_id":13538,
+    "full_name":"Richie Brockel",
+    "team_pos":"car te"
+  },
+  {
+    "espn_player_id":14080,
+    "full_name":"Ricky Stanzi",
+    "team_pos":"nyg qb"
+  },
+  {
+    "espn_player_id":13225,
+    "full_name":"Riley Cooper",
+    "team_pos":"phi wr"
+  },
+  {
+    "espn_player_id":15102,
+    "full_name":"Rishard Matthews",
+    "team_pos":"mia wr"
+  },
+  {
+    "espn_player_id":13229,
+    "full_name":"Rob Gronkowski",
+    "team_pos":"ne te"
+  },
+  {
+    "espn_player_id":14009,
+    "full_name":"Rob Housler",
+    "team_pos":"cle te"
+  },
+  {
+    "espn_player_id":9354,
+    "full_name":"Robbie Gould",
+    "team_pos":"chi k"
+  },
+  {
+    "espn_player_id":14875,
+    "full_name":"Robert Griffin",
+    "team_pos":"wsh qb"
+  },
+  {
+    "espn_player_id":14266,
+    "full_name":"Robert Hughes",
+    "team_pos":"ari rb"
+  },
+  {
+    "espn_player_id":14894,
+    "full_name":"Robert Turbin",
+    "team_pos":"dal rb"
+  },
+  {
+    "espn_player_id":15880,
+    "full_name":"Robert Woods",
+    "team_pos":"buf wr"
+  },
+  {
+    "espn_player_id":17781,
+    "full_name":"Rod Smith",
+    "team_pos":"dal rb"
+  },
+  {
+    "espn_player_id":15391,
+    "full_name":"Rod Streater",
+    "team_pos":"oak wr"
+  },
+  {
+    "espn_player_id":8442,
+    "full_name":"Roddy White",
+    "team_pos":"atl wr"
+  },
+  {
+    "espn_player_id":14895,
+    "full_name":"Ronnie Hillman",
+    "team_pos":"den rb"
+  },
+  {
+    "espn_player_id":14192,
+    "full_name":"Roy Helu",
+    "team_pos":"oak rb"
+  },
+  {
+    "espn_player_id":14911,
+    "full_name":"Rueben Randle",
+    "team_pos":"nyg wr"
+  },
+  {
+    "espn_player_id":16227,
+    "full_name":"Russell Shepard",
+    "team_pos":"tb wr"
+  },
+  {
+    "espn_player_id":14881,
+    "full_name":"Russell Wilson",
+    "team_pos":"sea qb"
+  },
+  {
+    "espn_player_id":8664,
+    "full_name":"Ryan Fitzpatrick",
+    "team_pos":"nyj qb"
+  },
+  {
+    "espn_player_id":17179,
+    "full_name":"Ryan Grant",
+    "team_pos":"wsh wr"
+  },
+  {
+    "espn_player_id":15887,
+    "full_name":"Ryan Griffin",
+    "team_pos":"hou te"
+  },
+  {
+    "espn_player_id":17170,
+    "full_name":"Ryan Hewitt",
+    "team_pos":"cin te"
+  },
+  {
+    "espn_player_id":14037,
+    "full_name":"Ryan Mallett",
+    "team_pos":"hou qb"
+  },
+  {
+    "espn_player_id":13204,
+    "full_name":"Ryan Mathews",
+    "team_pos":"phi rb"
+  },
+  {
+    "espn_player_id":15891,
+    "full_name":"Ryan Nassib",
+    "team_pos":"nyg qb"
+  },
+  {
+    "espn_player_id":12731,
+    "full_name":"Ryan Succop",
+    "team_pos":"ten k"
+  },
+  {
+    "espn_player_id":14876,
+    "full_name":"Ryan Tannehill",
+    "team_pos":"mia qb"
+  },
+  {
+    "espn_player_id":13197,
+    "full_name":"Sam Bradford",
+    "team_pos":"phi qb"
+  },
+  {
+    "espn_player_id":17562,
+    "full_name":"Sammie Coates",
+    "team_pos":"pit wr"
+  },
+  {
+    "espn_player_id":16725,
+    "full_name":"Sammy Watkins",
+    "team_pos":"buf wr"
+  },
+  {
+    "espn_player_id":10572,
+    "full_name":"Scott Chandler",
+    "team_pos":"ne te"
+  },
+  {
+    "espn_player_id":14353,
+    "full_name":"Scott Tolzien",
+    "team_pos":"gb qb"
+  },
+  {
+    "espn_player_id":15894,
+    "full_name":"Sean Renfree",
+    "team_pos":"atl qb"
+  },
+  {
+    "espn_player_id":2148,
+    "full_name":"Sebastian Janikowski",
+    "team_pos":"oak k"
+  },
+  {
+    "espn_player_id":17761,
+    "full_name":"Seth Roberts",
+    "team_pos":"oak wr"
+  },
+  {
+    "espn_player_id":13524,
+    "full_name":"Seyi Ajirotutu",
+    "team_pos":"phi wr"
+  },
+  {
+    "espn_player_id":14017,
+    "full_name":"Shane Vereen",
+    "team_pos":"nyg rb"
+  },
+  {
+    "espn_player_id":14518,
+    "full_name":"Shaun Draughn",
+    "team_pos":"sf rb"
+  },
+  {
+    "espn_player_id":4260,
+    "full_name":"Shaun Hill",
+    "team_pos":"min qb"
+  },
+  {
+    "espn_player_id":3504,
+    "full_name":"Shayne Graham",
+    "team_pos":"atl k"
+  },
+  {
+    "espn_player_id":16020,
+    "full_name":"Spencer Ware",
+    "team_pos":"kc rb"
+  },
+  {
+    "espn_player_id":15822,
+    "full_name":"Stedman Bailey",
+    "team_pos":"stl wr"
+  },
+  {
+    "espn_player_id":17676,
+    "full_name":"Stefon Diggs",
+    "team_pos":"min wr"
+  },
+  {
+    "espn_player_id":15981,
+    "full_name":"Stepfan Taylor",
+    "team_pos":"ari rb"
+  },
+  {
+    "espn_player_id":9704,
+    "full_name":"Stephen Gostkowski",
+    "team_pos":"ne k"
+  },
+  {
+    "espn_player_id":14910,
+    "full_name":"Stephen Hill",
+    "team_pos":"car wr"
+  },
+  {
+    "espn_player_id":14028,
+    "full_name":"Stevan Ridley",
+    "team_pos":"nyj rb"
+  },
+  {
+    "espn_player_id":2622,
+    "full_name":"Steve Smith Sr.",
+    "team_pos":"bal wr"
+  },
+  {
+    "espn_player_id":11923,
+    "full_name":"Steven Hauschka",
+    "team_pos":"sea k"
+  },
+  {
+    "espn_player_id":11458,
+    "full_name":"Stevie Johnson",
+    "team_pos":"sd wr"
+  },
+  {
+    "espn_player_id":14920,
+    "full_name":"T.J. Graham",
+    "team_pos":"no wr"
+  },
+  {
+    "espn_player_id":14114,
+    "full_name":"T.J. Yates",
+    "team_pos":"hou qb"
+  },
+  {
+    "espn_player_id":17678,
+    "full_name":"T.J. Yeldon",
+    "team_pos":"jax rb"
+  },
+  {
+    "espn_player_id":14924,
+    "full_name":"T.Y. Hilton",
+    "team_pos":"ind wr"
+  },
+  {
+    "espn_player_id":14167,
+    "full_name":"Taiwan Jones",
+    "team_pos":"oak rb,"
+  },
+  {
+    "espn_player_id":9650,
+    "full_name":"Tarvaris Jackson",
+    "team_pos":"sea qb"
+  },
+  {
+    "espn_player_id":15786,
+    "full_name":"Tavon Austin",
+    "team_pos":"stl wr"
+  },
+  {
+    "espn_player_id":17177,
+    "full_name":"Taylor Gabriel",
+    "team_pos":"cle wr"
+  },
+  {
+    "espn_player_id":10453,
+    "full_name":"Ted Ginn Jr.",
+    "team_pos":"car wr"
+  },
+  {
+    "espn_player_id":16728,
+    "full_name":"Teddy Bridgewater",
+    "team_pos":"min qb"
+  },
+  {
+    "espn_player_id":16783,
+    "full_name":"Terrance West",
+    "team_pos":"bal rb"
+  },
+  {
+    "espn_player_id":15878,
+    "full_name":"Terrance Williams",
+    "team_pos":"dal wr"
+  },
+  {
+    "espn_player_id":14851,
+    "full_name":"Terrelle Pryor",
+    "team_pos":"cle wr"
+  },
+  {
+    "espn_player_id":17737,
+    "full_name":"Terrence Magee",
+    "team_pos":"bal rb"
+  },
+  {
+    "espn_player_id":17744,
+    "full_name":"Terron Ward",
+    "team_pos":"atl rb"
+  },
+  {
+    "espn_player_id":17689,
+    "full_name":"Tevin Coleman",
+    "team_pos":"atl rb"
+  },
+  {
+    "espn_player_id":13606,
+    "full_name":"Thaddeus Lewis",
+    "team_pos":"phi qb"
+  },
+  {
+    "espn_player_id":15994,
+    "full_name":"Theo Riddick",
+    "team_pos":"det rb"
+  },
+  {
+    "espn_player_id":17739,
+    "full_name":"Thomas Rawls",
+    "team_pos":"sea rb"
+  },
+  {
+    "espn_player_id":11383,
+    "full_name":"Tim Hightower",
+    "team_pos":"no rb"
+  },
+  {
+    "espn_player_id":16285,
+    "full_name":"Timothy Wright",
+    "team_pos":"det te"
+  },
+  {
+    "espn_player_id":17192,
+    "full_name":"TJ Jones",
+    "team_pos":"det wr"
+  },
+  {
+    "espn_player_id":13211,
+    "full_name":"Toby Gerhart",
+    "team_pos":"jax rb"
+  },
+  {
+    "espn_player_id":17683,
+    "full_name":"Todd Gurley",
+    "team_pos":"stl rb"
+  },
+  {
+    "espn_player_id":2330,
+    "full_name":"Tom Brady",
+    "team_pos":"ne qb"
+  },
+  {
+    "espn_player_id":15973,
+    "full_name":"Tommy Bohanon",
+    "team_pos":"nyj rb"
+  },
+  {
+    "espn_player_id":13289,
+    "full_name":"Tony Moeaki",
+    "team_pos":"atl te"
+  },
+  {
+    "espn_player_id":5209,
+    "full_name":"Tony Romo",
+    "team_pos":"dal qb"
+  },
+  {
+    "espn_player_id":14032,
+    "full_name":"Torrey Smith",
+    "team_pos":"sf wr"
+  },
+  {
+    "espn_player_id":15457,
+    "full_name":"Travaris Cadet",
+    "team_pos":"sf rb"
+  },
+  {
+    "espn_player_id":15062,
+    "full_name":"Travis Benjamin",
+    "team_pos":"cle wr"
+  },
+  {
+    "espn_player_id":17157,
+    "full_name":"Travis Coons",
+    "team_pos":"cle k"
+  },
+  {
+    "espn_player_id":15847,
+    "full_name":"Travis Kelce",
+    "team_pos":"kc te"
+  },
+  {
+    "espn_player_id":16784,
+    "full_name":"Tre Mason",
+    "team_pos":"stl rb"
+  },
+  {
+    "espn_player_id":17550,
+    "full_name":"Tre McBride",
+    "team_pos":"ten wr"
+  },
+  {
+    "espn_player_id":17455,
+    "full_name":"Trevor Siemian",
+    "team_pos":"den qb"
+  },
+  {
+    "espn_player_id":17195,
+    "full_name":"Trey Burton",
+    "team_pos":"phi te"
+  },
+  {
+    "espn_player_id":16797,
+    "full_name":"Troy Niklas",
+    "team_pos":"ari te"
+  },
+  {
+    "espn_player_id":17611,
+    "full_name":"Ty Montgomery",
+    "team_pos":"gb wr"
+  },
+  {
+    "espn_player_id":13945,
+    "full_name":"Tyler Clutts",
+    "team_pos":"dal rb"
+  },
+  {
+    "espn_player_id":15788,
+    "full_name":"Tyler Eifert",
+    "team_pos":"cin te"
+  },
+  {
+    "espn_player_id":17650,
+    "full_name":"Tyler Kroft",
+    "team_pos":"cin te"
+  },
+  {
+    "espn_player_id":17619,
+    "full_name":"Tyler Lockett",
+    "team_pos":"sea wr"
+  },
+  {
+    "espn_player_id":17653,
+    "full_name":"Tyler Varga",
+    "team_pos":"ind rb"
+  },
+  {
+    "espn_player_id":17762,
+    "full_name":"Tyrell Williams",
+    "team_pos":"sd wr"
+  },
+  {
+    "espn_player_id":14163,
+    "full_name":"Tyrod Taylor",
+    "team_pos":"buf qb"
+  },
+  {
+    "espn_player_id":15853,
+    "full_name":"Vance McDonald",
+    "team_pos":"sf te"
+  },
+  {
+    "espn_player_id":9592,
+    "full_name":"Vernon Davis",
+    "team_pos":"den te"
+  },
+  {
+    "espn_player_id":13553,
+    "full_name":"Victor Cruz",
+    "team_pos":"nyg wr"
+  },
+  {
+    "espn_player_id":17715,
+    "full_name":"Vince Mayle",
+    "team_pos":"dal wr"
+  },
+  {
+    "espn_player_id":8475,
+    "full_name":"Vincent Jackson",
+    "team_pos":"tb wr"
+  },
+  {
+    "espn_player_id":14085,
+    "full_name":"Virgil Green",
+    "team_pos":"den te"
+  },
+  {
+    "espn_player_id":5941,
+    "full_name":"Wes Welker",
+    "team_pos":"stl wr"
+  },
+  {
+    "espn_player_id":14870,
+    "full_name":"Will Johnson",
+    "team_pos":"pit rb"
+  },
+  {
+    "espn_player_id":17777,
+    "full_name":"Will Tye",
+    "team_pos":"nyg te"
+  },
+  {
+    "espn_player_id":17184,
+    "full_name":"Willie Snead",
+    "team_pos":"no wr"
+  },
+  {
+    "espn_player_id":15996,
+    "full_name":"Zac Stacy",
+    "team_pos":"nyj rb"
+  },
+  {
+    "espn_player_id":15835,
+    "full_name":"Zach Ertz",
+    "team_pos":"phi te"
+  },
+  {
+    "espn_player_id":16916,
+    "full_name":"Zach Hocker",
+    "team_pos":"stl k"
+  },
+  {
+    "espn_player_id":16366,
+    "full_name":"Zach Line",
+    "team_pos":"min rb"
+  },
+  {
+    "espn_player_id":16814,
+    "full_name":"Zach Mettenberger",
+    "team_pos":"ten qb"
+  },
+  {
+    "espn_player_id":10482,
+    "full_name":"Zach Miller",
+    "team_pos":"sea te"
+  },
+  {
+    "espn_player_id":12699,
+    "full_name":"Zach Miller",
+    "team_pos":"chi te"
+  },
+  {
+    "espn_player_id":17741,
+    "full_name":"Zach Zenner",
+    "team_pos":"det rb"
+  },
+  {
+    "espn_player_id":17211,
+    "full_name":"Zurlon Tipton",
+    "team_pos":"ind rb"
+  }
+]

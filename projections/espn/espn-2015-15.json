@@ -1,0 +1,3809 @@
+[
+    {
+        "vend_player_id": "1097",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Adam Vinatieri",
+        "team_pos": "ind k",
+        "opponent": "HOU",
+        "points": "7.7"
+    },
+    {
+        "vend_player_id": "1440",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Phil Dawson",
+        "team_pos": "sf k",
+        "opponent": "CIN",
+        "points": "6.6"
+    },
+    {
+        "vend_player_id": "1575",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Matt Hasselbeck",
+        "team_pos": "ind qb",
+        "opponent": "HOU",
+        "points": "12.9"
+    },
+    {
+        "vend_player_id": "2148",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Sebastian Janikowski",
+        "team_pos": "oak k",
+        "opponent": "GB",
+        "points": "7.7"
+    },
+    {
+        "vend_player_id": "2330",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Tom Brady",
+        "team_pos": "ne qb",
+        "opponent": "TEN",
+        "points": "20.2"
+    },
+    {
+        "vend_player_id": "2580",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Drew Brees",
+        "team_pos": "no qb",
+        "opponent": "DET",
+        "points": "18.3"
+    },
+    {
+        "vend_player_id": "3504",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Shayne Graham",
+        "team_pos": "atl k",
+        "opponent": "JAX",
+        "points": "8.6"
+    },
+    {
+        "vend_player_id": "4459",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Carson Palmer",
+        "team_pos": "ari qb",
+        "opponent": "PHI",
+        "points": "19.9"
+    },
+    {
+        "vend_player_id": "4461",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Andre Johnson",
+        "team_pos": "ind wr",
+        "opponent": "HOU",
+        "points": "2.9"
+    },
+    {
+        "vend_player_id": "4512",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Anquan Boldin",
+        "team_pos": "sf wr",
+        "opponent": "CIN",
+        "points": "7.5"
+    },
+    {
+        "vend_player_id": "4527",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Jason Witten",
+        "team_pos": "dal te",
+        "opponent": "NYJ",
+        "points": "6.4"
+    },
+    {
+        "vend_player_id": "4680",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Josh Brown",
+        "team_pos": "nyg k",
+        "opponent": "CAR",
+        "points": "7.8"
+    },
+    {
+        "vend_player_id": "5362",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Antonio Gates",
+        "team_pos": "sd te",
+        "opponent": "MIA",
+        "points": "7.6"
+    },
+    {
+        "vend_player_id": "5526",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Eli Manning",
+        "team_pos": "nyg qb",
+        "opponent": "CAR",
+        "points": "16.6"
+    },
+    {
+        "vend_player_id": "5528",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Larry Fitzgerald",
+        "team_pos": "ari wr",
+        "opponent": "PHI",
+        "points": "12.5"
+    },
+    {
+        "vend_player_id": "5529",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Philip Rivers",
+        "team_pos": "sd qb",
+        "opponent": "MIA",
+        "points": "17.9"
+    },
+    {
+        "vend_player_id": "5536",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Ben Roethlisberger",
+        "team_pos": "pit qb",
+        "opponent": "DEN",
+        "points": "16.9"
+    },
+    {
+        "vend_player_id": "5557",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Benjamin Watson",
+        "team_pos": "no te",
+        "opponent": "DET",
+        "points": "6.5"
+    },
+    {
+        "vend_player_id": "5615",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Matt Schaub",
+        "team_pos": "bal qb",
+        "opponent": "KC",
+        "points": "11"
+    },
+    {
+        "vend_player_id": "5633",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Jerricho Cotchery",
+        "team_pos": "car wr",
+        "opponent": "NYG",
+        "points": "3.3"
+    },
+    {
+        "vend_player_id": "5941",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Wes Welker",
+        "team_pos": "stl wr",
+        "opponent": "TB",
+        "points": "1.1"
+    },
+    {
+        "vend_player_id": "6016",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Malcom Floyd",
+        "team_pos": "sd wr",
+        "opponent": "MIA",
+        "points": "6"
+    },
+    {
+        "vend_player_id": "8416",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Alex Smith",
+        "team_pos": "kc qb",
+        "opponent": "BAL",
+        "points": "15.4"
+    },
+    {
+        "vend_player_id": "8439",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Aaron Rodgers",
+        "team_pos": "gb qb",
+        "opponent": "OAK",
+        "points": "18"
+    },
+    {
+        "vend_player_id": "8442",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Roddy White",
+        "team_pos": "atl wr",
+        "opponent": "JAX",
+        "points": "4.2"
+    },
+    {
+        "vend_player_id": "8444",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Heath Miller",
+        "team_pos": "pit te",
+        "opponent": "DEN",
+        "points": "5.6"
+    },
+    {
+        "vend_player_id": "8461",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Mike Nugent",
+        "team_pos": "cin k",
+        "opponent": "SF",
+        "points": "8"
+    },
+    {
+        "vend_player_id": "8479",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Frank Gore",
+        "team_pos": "ind rb",
+        "opponent": "HOU",
+        "points": "10.6"
+    },
+    {
+        "vend_player_id": "8544",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Darren Sproles",
+        "team_pos": "phi rb",
+        "opponent": "ARI",
+        "points": "7.7"
+    },
+    {
+        "vend_player_id": "8644",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Matt Cassel",
+        "team_pos": "dal qb",
+        "opponent": "NYJ",
+        "points": "11.4"
+    },
+    {
+        "vend_player_id": "8664",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Ryan Fitzpatrick",
+        "team_pos": "nyj qb",
+        "opponent": "DAL",
+        "points": "14.3"
+    },
+    {
+        "vend_player_id": "9307",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Nate Washington",
+        "team_pos": "hou wr",
+        "opponent": "IND",
+        "points": "6.4"
+    },
+    {
+        "vend_player_id": "9329",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Nick Novak",
+        "team_pos": "hou k",
+        "opponent": "IND",
+        "points": "8.5"
+    },
+    {
+        "vend_player_id": "9354",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Robbie Gould",
+        "team_pos": "chi k",
+        "opponent": "MIN",
+        "points": "7.4"
+    },
+    {
+        "vend_player_id": "9400",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Lance Moore",
+        "team_pos": "det wr",
+        "opponent": "NO",
+        "points": "4.5"
+    },
+    {
+        "vend_player_id": "9530",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "John Kuhn",
+        "team_pos": "gb rb",
+        "opponent": "OAK",
+        "points": "0.2"
+    },
+    {
+        "vend_player_id": "9592",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Vernon Davis",
+        "team_pos": "den te",
+        "opponent": "PIT",
+        "points": "5.1"
+    },
+    {
+        "vend_player_id": "9597",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Jay Cutler",
+        "team_pos": "chi qb",
+        "opponent": "MIN",
+        "points": "12.5"
+    },
+    {
+        "vend_player_id": "9613",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "DeAngelo Williams",
+        "team_pos": "pit rb",
+        "opponent": "DEN",
+        "points": "13.9"
+    },
+    {
+        "vend_player_id": "9614",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Marcedes Lewis",
+        "team_pos": "jax te",
+        "opponent": "ATL",
+        "points": "1.8"
+    },
+    {
+        "vend_player_id": "9638",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Greg Jennings",
+        "team_pos": "mia wr",
+        "opponent": "SD",
+        "points": "0.2"
+    },
+    {
+        "vend_player_id": "9639",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Anthony Fasano",
+        "team_pos": "ten te",
+        "opponent": "NE",
+        "points": "1.7"
+    },
+    {
+        "vend_player_id": "9643",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Devin Hester",
+        "team_pos": "atl wr",
+        "opponent": "JAX",
+        "points": "0.3"
+    },
+    {
+        "vend_player_id": "9684",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Owen Daniels",
+        "team_pos": "den te",
+        "opponent": "PIT",
+        "points": "3"
+    },
+    {
+        "vend_player_id": "9695",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Jason Avant",
+        "team_pos": "kc wr",
+        "opponent": "BAL",
+        "points": "0.3"
+    },
+    {
+        "vend_player_id": "9704",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Stephen Gostkowski",
+        "team_pos": "ne k",
+        "opponent": "TEN",
+        "points": "9"
+    },
+    {
+        "vend_player_id": "9705",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Brandon Marshall",
+        "team_pos": "nyj wr",
+        "opponent": "DAL",
+        "points": "9.9"
+    },
+    {
+        "vend_player_id": "9761",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Delanie Walker",
+        "team_pos": "ten te",
+        "opponent": "NE",
+        "points": "7.8"
+    },
+    {
+        "vend_player_id": "9838",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Marques Colston",
+        "team_pos": "no wr",
+        "opponent": "DET",
+        "points": "5.7"
+    },
+    {
+        "vend_player_id": "10195",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Fred Jackson",
+        "team_pos": "sea rb",
+        "opponent": "CLE",
+        "points": "6.9"
+    },
+    {
+        "vend_player_id": "10447",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Calvin Johnson",
+        "team_pos": "det wr",
+        "opponent": "NO",
+        "points": "12.8"
+    },
+    {
+        "vend_player_id": "10452",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Adrian Peterson",
+        "team_pos": "min rb",
+        "opponent": "CHI",
+        "points": "15.4"
+    },
+    {
+        "vend_player_id": "10453",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Ted Ginn Jr.",
+        "team_pos": "car wr",
+        "opponent": "NYG",
+        "points": "6.6"
+    },
+    {
+        "vend_player_id": "10475",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Greg Olsen",
+        "team_pos": "car te",
+        "opponent": "NYG",
+        "points": "10.8"
+    },
+    {
+        "vend_player_id": "10521",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Matt Spaeth",
+        "team_pos": "pit te",
+        "opponent": "DEN",
+        "points": "0.1"
+    },
+    {
+        "vend_player_id": "10522",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "James Jones",
+        "team_pos": "gb wr",
+        "opponent": "OAK",
+        "points": "5.9"
+    },
+    {
+        "vend_player_id": "10572",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Scott Chandler",
+        "team_pos": "ne te",
+        "opponent": "TEN",
+        "points": "3.7"
+    },
+    {
+        "vend_player_id": "10605",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Brent Celek",
+        "team_pos": "phi te",
+        "opponent": "ARI",
+        "points": "1.7"
+    },
+    {
+        "vend_player_id": "10636",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Mason Crosby",
+        "team_pos": "gb k",
+        "opponent": "OAK",
+        "points": "7.4"
+    },
+    {
+        "vend_player_id": "10713",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Pierre Thomas",
+        "team_pos": "wsh rb",
+        "opponent": "BUF",
+        "points": "2.6"
+    },
+    {
+        "vend_player_id": "10770",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Eric Weems",
+        "team_pos": "atl wr",
+        "opponent": "JAX",
+        "points": "0.1"
+    },
+    {
+        "vend_player_id": "11122",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Matt Prater",
+        "team_pos": "det k",
+        "opponent": "NO",
+        "points": "7.8"
+    },
+    {
+        "vend_player_id": "11237",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Matt Ryan",
+        "team_pos": "atl qb",
+        "opponent": "JAX",
+        "points": "14.9"
+    },
+    {
+        "vend_player_id": "11238",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Darren McFadden",
+        "team_pos": "dal rb",
+        "opponent": "NYJ",
+        "points": "8.3"
+    },
+    {
+        "vend_player_id": "11276",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Eddie Royal",
+        "team_pos": "chi wr",
+        "opponent": "MIN",
+        "points": "3.9"
+    },
+    {
+        "vend_player_id": "11278",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Matt Forte",
+        "team_pos": "chi rb",
+        "opponent": "MIN",
+        "points": "9.9"
+    },
+    {
+        "vend_player_id": "11280",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Jerome Simpson",
+        "team_pos": "sf wr",
+        "opponent": "CIN",
+        "points": "0.1"
+    },
+    {
+        "vend_player_id": "11283",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "DeSean Jackson",
+        "team_pos": "wsh wr",
+        "opponent": "BUF",
+        "points": "7.8"
+    },
+    {
+        "vend_player_id": "11318",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Harry Douglas",
+        "team_pos": "ten wr",
+        "opponent": "NE",
+        "points": "3"
+    },
+    {
+        "vend_player_id": "11319",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Craig Stevens",
+        "team_pos": "ten te",
+        "opponent": "NE",
+        "points": "0.3"
+    },
+    {
+        "vend_player_id": "11364",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Gary Barnidge",
+        "team_pos": "cle te",
+        "opponent": "SEA",
+        "points": "7.6"
+    },
+    {
+        "vend_player_id": "11373",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Jacob Tamme",
+        "team_pos": "atl te",
+        "opponent": "JAX",
+        "points": "5.5"
+    },
+    {
+        "vend_player_id": "11383",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Tim Hightower",
+        "team_pos": "no rb",
+        "opponent": "DET",
+        "points": "11.5"
+    },
+    {
+        "vend_player_id": "11392",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Kellen Davis",
+        "team_pos": "nyj te",
+        "opponent": "DAL",
+        "points": "0.2"
+    },
+    {
+        "vend_player_id": "11439",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Pierre Garcon",
+        "team_pos": "wsh wr",
+        "opponent": "BUF",
+        "points": "5.6"
+    },
+    {
+        "vend_player_id": "11458",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Stevie Johnson",
+        "team_pos": "sd wr",
+        "opponent": "MIA",
+        "points": "9.6"
+    },
+    {
+        "vend_player_id": "11658",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Mike Tolbert",
+        "team_pos": "car rb",
+        "opponent": "NYG",
+        "points": "5.5"
+    },
+    {
+        "vend_player_id": "11674",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Danny Amendola",
+        "team_pos": "ne wr",
+        "opponent": "TEN",
+        "points": "9.1"
+    },
+    {
+        "vend_player_id": "11688",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Dan Carpenter",
+        "team_pos": "buf k",
+        "opponent": "WSH",
+        "points": "7.9"
+    },
+    {
+        "vend_player_id": "11717",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Marcel Reece",
+        "team_pos": "oak rb",
+        "opponent": "GB",
+        "points": "1.8"
+    },
+    {
+        "vend_player_id": "11737",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Connor Barth",
+        "team_pos": "tb k",
+        "opponent": "STL",
+        "points": "8.8"
+    },
+    {
+        "vend_player_id": "11788",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Danny Woodhead",
+        "team_pos": "sd rb",
+        "opponent": "MIA",
+        "points": "8.3"
+    },
+    {
+        "vend_player_id": "11923",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Steven Hauschka",
+        "team_pos": "sea k",
+        "opponent": "CLE",
+        "points": "7.8"
+    },
+    {
+        "vend_player_id": "12460",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Graham Gano",
+        "team_pos": "car k",
+        "opponent": "NYG",
+        "points": "7.9"
+    },
+    {
+        "vend_player_id": "12483",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Matthew Stafford",
+        "team_pos": "det qb",
+        "opponent": "NO",
+        "points": "19"
+    },
+    {
+        "vend_player_id": "12489",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Donald Brown",
+        "team_pos": "sd rb",
+        "opponent": "MIA",
+        "points": "1.2"
+    },
+    {
+        "vend_player_id": "12503",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Rashad Jennings",
+        "team_pos": "nyg rb",
+        "opponent": "CAR",
+        "points": "4.8"
+    },
+    {
+        "vend_player_id": "12514",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "LeSean McCoy",
+        "team_pos": "buf rb",
+        "opponent": "WSH",
+        "points": "13"
+    },
+    {
+        "vend_player_id": "12524",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Marcus Thigpen",
+        "team_pos": "buf rb",
+        "opponent": "WSH",
+        "points": "0.3"
+    },
+    {
+        "vend_player_id": "12537",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Jared Cook",
+        "team_pos": "stl te",
+        "opponent": "TB",
+        "points": "3.6"
+    },
+    {
+        "vend_player_id": "12556",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Kenny Britt",
+        "team_pos": "stl wr",
+        "opponent": "TB",
+        "points": "4.8"
+    },
+    {
+        "vend_player_id": "12563",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Michael Crabtree",
+        "team_pos": "oak wr",
+        "opponent": "GB",
+        "points": "10.7"
+    },
+    {
+        "vend_player_id": "12570",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Darrius Heyward-Bey",
+        "team_pos": "pit wr",
+        "opponent": "DEN",
+        "points": "0.1"
+    },
+    {
+        "vend_player_id": "12576",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Brandon LaFell",
+        "team_pos": "ne wr",
+        "opponent": "TEN",
+        "points": "8.3"
+    },
+    {
+        "vend_player_id": "12579",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Jeremy Maclin",
+        "team_pos": "kc wr",
+        "opponent": "BAL",
+        "points": "9.7"
+    },
+    {
+        "vend_player_id": "12586",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Hakeem Nicks",
+        "team_pos": "nyg wr",
+        "opponent": "CAR",
+        "points": "1.5"
+    },
+    {
+        "vend_player_id": "12587",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Jordan Norwood",
+        "team_pos": "den wr",
+        "opponent": "PIT",
+        "points": "1.4"
+    },
+    {
+        "vend_player_id": "12597",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Brandon Tate",
+        "team_pos": "cin wr",
+        "opponent": "SF",
+        "points": "0.2"
+    },
+    {
+        "vend_player_id": "12601",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Mike Wallace",
+        "team_pos": "min wr",
+        "opponent": "CHI",
+        "points": "3.8"
+    },
+    {
+        "vend_player_id": "12699",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Zach Miller",
+        "team_pos": "chi te",
+        "opponent": "MIN",
+        "points": "5.6"
+    },
+    {
+        "vend_player_id": "12731",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Ryan Succop",
+        "team_pos": "ten k",
+        "opponent": "NE",
+        "points": "6.8"
+    },
+    {
+        "vend_player_id": "13097",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Darrel Young",
+        "team_pos": "wsh rb",
+        "opponent": "BUF",
+        "points": "0.1"
+    },
+    {
+        "vend_player_id": "13197",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Sam Bradford",
+        "team_pos": "phi qb",
+        "opponent": "ARI",
+        "points": "14.2"
+    },
+    {
+        "vend_player_id": "13203",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "C.J. Spiller",
+        "team_pos": "no rb",
+        "opponent": "DET",
+        "points": "6.2"
+    },
+    {
+        "vend_player_id": "13204",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Ryan Mathews",
+        "team_pos": "phi rb",
+        "opponent": "ARI",
+        "points": "6.5"
+    },
+    {
+        "vend_player_id": "13207",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Dexter McCluster",
+        "team_pos": "ten wr,",
+        "opponent": "NE",
+        "points": "0.2"
+    },
+    {
+        "vend_player_id": "13214",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "James Starks",
+        "team_pos": "gb rb",
+        "opponent": "OAK",
+        "points": "5.3"
+    },
+    {
+        "vend_player_id": "13215",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Dez Bryant",
+        "team_pos": "dal wr",
+        "opponent": "NYJ",
+        "points": "7.5"
+    },
+    {
+        "vend_player_id": "13216",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Demaryius Thomas",
+        "team_pos": "den wr",
+        "opponent": "PIT",
+        "points": "9.4"
+    },
+    {
+        "vend_player_id": "13217",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Golden Tate",
+        "team_pos": "det wr",
+        "opponent": "NO",
+        "points": "9.1"
+    },
+    {
+        "vend_player_id": "13225",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Riley Cooper",
+        "team_pos": "phi wr",
+        "opponent": "ARI",
+        "points": "3"
+    },
+    {
+        "vend_player_id": "13226",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Andre Roberts",
+        "team_pos": "wsh wr",
+        "opponent": "BUF",
+        "points": "0.1"
+    },
+    {
+        "vend_player_id": "13228",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Jermaine Gresham",
+        "team_pos": "ari te",
+        "opponent": "PHI",
+        "points": "2.1"
+    },
+    {
+        "vend_player_id": "13229",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Rob Gronkowski",
+        "team_pos": "ne te",
+        "opponent": "TEN",
+        "points": "10.8"
+    },
+    {
+        "vend_player_id": "13271",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Eric Decker",
+        "team_pos": "nyj wr",
+        "opponent": "DAL",
+        "points": "9.2"
+    },
+    {
+        "vend_player_id": "13272",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Ed Dickson",
+        "team_pos": "car te",
+        "opponent": "NYG",
+        "points": "1.8"
+    },
+    {
+        "vend_player_id": "13295",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Emmanuel Sanders",
+        "team_pos": "den wr",
+        "opponent": "PIT",
+        "points": "7.8"
+    },
+    {
+        "vend_player_id": "13357",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Jim Dray",
+        "team_pos": "cle te",
+        "opponent": "SEA",
+        "points": "0.1"
+    },
+    {
+        "vend_player_id": "13376",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Clay Harbor",
+        "team_pos": "jax te",
+        "opponent": "ATL",
+        "points": "0.3"
+    },
+    {
+        "vend_player_id": "13387",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Michael Hoomanawanui",
+        "team_pos": "no te",
+        "opponent": "DET",
+        "points": "0.3"
+    },
+    {
+        "vend_player_id": "13409",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Marc Mariani",
+        "team_pos": "chi wr",
+        "opponent": "MIN",
+        "points": "2.6"
+    },
+    {
+        "vend_player_id": "13524",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Seyi Ajirotutu",
+        "team_pos": "phi wr",
+        "opponent": "ARI",
+        "points": "0.1"
+    },
+    {
+        "vend_player_id": "13536",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Joique Bell",
+        "team_pos": "det rb",
+        "opponent": "NO",
+        "points": "4.4"
+    },
+    {
+        "vend_player_id": "13587",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Chris Ivory",
+        "team_pos": "nyj rb",
+        "opponent": "DAL",
+        "points": "10.8"
+    },
+    {
+        "vend_player_id": "13616",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Marlon Moore",
+        "team_pos": "cle wr",
+        "opponent": "SEA",
+        "points": "3.6"
+    },
+    {
+        "vend_player_id": "13662",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Bryan Walters",
+        "team_pos": "jax wr",
+        "opponent": "ATL",
+        "points": "1.5"
+    },
+    {
+        "vend_player_id": "13934",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Antonio Brown",
+        "team_pos": "pit wr",
+        "opponent": "DEN",
+        "points": "13.2"
+    },
+    {
+        "vend_player_id": "13982",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Julio Jones",
+        "team_pos": "atl wr",
+        "opponent": "JAX",
+        "points": "11.9"
+    },
+    {
+        "vend_player_id": "13983",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "A.J. Green",
+        "team_pos": "cin wr",
+        "opponent": "SF",
+        "points": "9.9"
+    },
+    {
+        "vend_player_id": "13987",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Blaine Gabbert",
+        "team_pos": "sf qb",
+        "opponent": "CIN",
+        "points": "9.6"
+    },
+    {
+        "vend_player_id": "13994",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Cam Newton",
+        "team_pos": "car qb",
+        "opponent": "NYG",
+        "points": "21.9"
+    },
+    {
+        "vend_player_id": "14005",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "DeMarco Murray",
+        "team_pos": "phi rb",
+        "opponent": "ARI",
+        "points": "6.2"
+    },
+    {
+        "vend_player_id": "14007",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Lance Kendricks",
+        "team_pos": "stl te",
+        "opponent": "TB",
+        "points": "1.4"
+    },
+    {
+        "vend_player_id": "14017",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Shane Vereen",
+        "team_pos": "nyg rb",
+        "opponent": "CAR",
+        "points": "5.2"
+    },
+    {
+        "vend_player_id": "14028",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Stevan Ridley",
+        "team_pos": "nyj rb",
+        "opponent": "DAL",
+        "points": "1.5"
+    },
+    {
+        "vend_player_id": "14032",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Torrey Smith",
+        "team_pos": "sf wr",
+        "opponent": "CIN",
+        "points": "2.6"
+    },
+    {
+        "vend_player_id": "14053",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Randall Cobb",
+        "team_pos": "gb wr",
+        "opponent": "OAK",
+        "points": "8.4"
+    },
+    {
+        "vend_player_id": "14054",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Kyle Rudolph",
+        "team_pos": "min te",
+        "opponent": "CHI",
+        "points": "4.2"
+    },
+    {
+        "vend_player_id": "14083",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Bruce Miller",
+        "team_pos": "sf rb",
+        "opponent": "CIN",
+        "points": "0.3"
+    },
+    {
+        "vend_player_id": "14085",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Virgil Green",
+        "team_pos": "den te",
+        "opponent": "PIT",
+        "points": "0.2"
+    },
+    {
+        "vend_player_id": "14099",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Luke Stocker",
+        "team_pos": "tb te",
+        "opponent": "STL",
+        "points": "0.1"
+    },
+    {
+        "vend_player_id": "14100",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Dwayne Harris",
+        "team_pos": "nyg wr",
+        "opponent": "CAR",
+        "points": "4.6"
+    },
+    {
+        "vend_player_id": "14114",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "T.J. Yates",
+        "team_pos": "hou qb",
+        "opponent": "IND",
+        "points": "14.8"
+    },
+    {
+        "vend_player_id": "14129",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Bilal Powell",
+        "team_pos": "nyj rb",
+        "opponent": "DAL",
+        "points": "6.3"
+    },
+    {
+        "vend_player_id": "14145",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Charles Clay",
+        "team_pos": "buf te",
+        "opponent": "WSH",
+        "points": "5.8"
+    },
+    {
+        "vend_player_id": "14151",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Jeremy Kerley",
+        "team_pos": "nyj wr",
+        "opponent": "DAL",
+        "points": "0.3"
+    },
+    {
+        "vend_player_id": "14163",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Tyrod Taylor",
+        "team_pos": "buf qb",
+        "opponent": "WSH",
+        "points": "16.1"
+    },
+    {
+        "vend_player_id": "14167",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Taiwan Jones",
+        "team_pos": "oak rb,",
+        "opponent": "GB",
+        "points": "0.1"
+    },
+    {
+        "vend_player_id": "14184",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Cecil Shorts III",
+        "team_pos": "hou wr",
+        "opponent": "IND",
+        "points": "5.9"
+    },
+    {
+        "vend_player_id": "14189",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Jordan Cameron",
+        "team_pos": "mia te",
+        "opponent": "SD",
+        "points": "3.4"
+    },
+    {
+        "vend_player_id": "14204",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Julius Thomas",
+        "team_pos": "jax te",
+        "opponent": "ATL",
+        "points": "7.8"
+    },
+    {
+        "vend_player_id": "14215",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Lee Smith",
+        "team_pos": "oak te",
+        "opponent": "GB",
+        "points": "0.6"
+    },
+    {
+        "vend_player_id": "14221",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Doug Baldwin",
+        "team_pos": "sea wr",
+        "opponent": "CLE",
+        "points": "10.3"
+    },
+    {
+        "vend_player_id": "14322",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Dan Bailey",
+        "team_pos": "dal k",
+        "opponent": "NYJ",
+        "points": "7.7"
+    },
+    {
+        "vend_player_id": "14332",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Patrick DiMarco",
+        "team_pos": "atl rb",
+        "opponent": "JAX",
+        "points": "0.3"
+    },
+    {
+        "vend_player_id": "14360",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Matt Asiata",
+        "team_pos": "min rb",
+        "opponent": "CHI",
+        "points": "0.6"
+    },
+    {
+        "vend_player_id": "14402",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Chris Hogan",
+        "team_pos": "buf wr",
+        "opponent": "WSH",
+        "points": "3.6"
+    },
+    {
+        "vend_player_id": "14403",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Andre Holmes",
+        "team_pos": "oak wr",
+        "opponent": "GB",
+        "points": "1.7"
+    },
+    {
+        "vend_player_id": "14434",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Konrad Reuland",
+        "team_pos": "bal te",
+        "opponent": "KC",
+        "points": "0.1"
+    },
+    {
+        "vend_player_id": "14500",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Jeremy Ross",
+        "team_pos": "oak wr",
+        "opponent": "GB",
+        "points": "0.2"
+    },
+    {
+        "vend_player_id": "14518",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Shaun Draughn",
+        "team_pos": "sf rb",
+        "opponent": "CIN",
+        "points": "7.6"
+    },
+    {
+        "vend_player_id": "14583",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Kamar Aiken",
+        "team_pos": "bal wr",
+        "opponent": "KC",
+        "points": "8.4"
+    },
+    {
+        "vend_player_id": "14816",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Kai Forbath",
+        "team_pos": "no k",
+        "opponent": "DET",
+        "points": "8.4"
+    },
+    {
+        "vend_player_id": "14851",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Terrelle Pryor",
+        "team_pos": "cle wr",
+        "opponent": "SEA",
+        "points": "1.2"
+    },
+    {
+        "vend_player_id": "14876",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Ryan Tannehill",
+        "team_pos": "mia qb",
+        "opponent": "SD",
+        "points": "14.1"
+    },
+    {
+        "vend_player_id": "14879",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Brock Osweiler",
+        "team_pos": "den qb",
+        "opponent": "PIT",
+        "points": "12.8"
+    },
+    {
+        "vend_player_id": "14880",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Kirk Cousins",
+        "team_pos": "wsh qb",
+        "opponent": "BUF",
+        "points": "12.7"
+    },
+    {
+        "vend_player_id": "14881",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Russell Wilson",
+        "team_pos": "sea qb",
+        "opponent": "CLE",
+        "points": "21.2"
+    },
+    {
+        "vend_player_id": "14885",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Doug Martin",
+        "team_pos": "tb rb",
+        "opponent": "STL",
+        "points": "12.3"
+    },
+    {
+        "vend_player_id": "14886",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Lamar Miller",
+        "team_pos": "mia rb",
+        "opponent": "SD",
+        "points": "10.9"
+    },
+    {
+        "vend_player_id": "14889",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Chris Polk",
+        "team_pos": "hou rb",
+        "opponent": "IND",
+        "points": "6.5"
+    },
+    {
+        "vend_player_id": "14894",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Robert Turbin",
+        "team_pos": "dal rb",
+        "opponent": "NYJ",
+        "points": "3.8"
+    },
+    {
+        "vend_player_id": "14895",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Ronnie Hillman",
+        "team_pos": "den rb",
+        "opponent": "PIT",
+        "points": "5.7"
+    },
+    {
+        "vend_player_id": "14900",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Coby Fleener",
+        "team_pos": "ind te",
+        "opponent": "HOU",
+        "points": "5.6"
+    },
+    {
+        "vend_player_id": "14901",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Dwayne Allen",
+        "team_pos": "ind te",
+        "opponent": "HOU",
+        "points": "1.6"
+    },
+    {
+        "vend_player_id": "14904",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Ladarius Green",
+        "team_pos": "sd te",
+        "opponent": "MIA",
+        "points": "3.1"
+    },
+    {
+        "vend_player_id": "14906",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "James Hanna",
+        "team_pos": "dal te",
+        "opponent": "NYJ",
+        "points": "0.1"
+    },
+    {
+        "vend_player_id": "14908",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Michael Floyd",
+        "team_pos": "ari wr",
+        "opponent": "PHI",
+        "points": "9.3"
+    },
+    {
+        "vend_player_id": "14909",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Kendall Wright",
+        "team_pos": "ten wr",
+        "opponent": "NE",
+        "points": "5.3"
+    },
+    {
+        "vend_player_id": "14911",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Rueben Randle",
+        "team_pos": "nyg wr",
+        "opponent": "CAR",
+        "points": "6.8"
+    },
+    {
+        "vend_player_id": "14912",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Alshon Jeffery",
+        "team_pos": "chi wr",
+        "opponent": "MIN",
+        "points": "11.3"
+    },
+    {
+        "vend_player_id": "14914",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Brian Quick",
+        "team_pos": "stl wr",
+        "opponent": "TB",
+        "points": "2.5"
+    },
+    {
+        "vend_player_id": "14916",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Keshawn Martin",
+        "team_pos": "ne wr",
+        "opponent": "TEN",
+        "points": "3.8"
+    },
+    {
+        "vend_player_id": "14918",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Jarius Wright",
+        "team_pos": "min wr",
+        "opponent": "CHI",
+        "points": "2.5"
+    },
+    {
+        "vend_player_id": "14922",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Mohamed Sanu",
+        "team_pos": "cin wr",
+        "opponent": "SF",
+        "points": "3.2"
+    },
+    {
+        "vend_player_id": "14924",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "T.Y. Hilton",
+        "team_pos": "ind wr",
+        "opponent": "HOU",
+        "points": "7.7"
+    },
+    {
+        "vend_player_id": "15003",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Rhett Ellison",
+        "team_pos": "min te",
+        "opponent": "CHI",
+        "points": "0.2"
+    },
+    {
+        "vend_player_id": "15009",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Alfred Morris",
+        "team_pos": "wsh rb",
+        "opponent": "BUF",
+        "points": "6.4"
+    },
+    {
+        "vend_player_id": "15041",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Daniel Herron",
+        "team_pos": "ind rb",
+        "opponent": "HOU",
+        "points": "2.3"
+    },
+    {
+        "vend_player_id": "15058",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Blair Walsh",
+        "team_pos": "min k",
+        "opponent": "CHI",
+        "points": "7.8"
+    },
+    {
+        "vend_player_id": "15062",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Travis Benjamin",
+        "team_pos": "cle wr",
+        "opponent": "SEA",
+        "points": "7.4"
+    },
+    {
+        "vend_player_id": "15072",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Marvin Jones",
+        "team_pos": "cin wr",
+        "opponent": "SF",
+        "points": "7.2"
+    },
+    {
+        "vend_player_id": "15078",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Chris Givens",
+        "team_pos": "bal wr",
+        "opponent": "KC",
+        "points": "4.7"
+    },
+    {
+        "vend_player_id": "15091",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Randy Bullock",
+        "team_pos": "nyj k",
+        "opponent": "DAL",
+        "points": "7.5"
+    },
+    {
+        "vend_player_id": "15092",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Bryce Brown",
+        "team_pos": "sea rb",
+        "opponent": "CLE",
+        "points": "8.1"
+    },
+    {
+        "vend_player_id": "15102",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Rishard Matthews",
+        "team_pos": "mia wr",
+        "opponent": "SD",
+        "points": "4.3"
+    },
+    {
+        "vend_player_id": "15168",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Case Keenum",
+        "team_pos": "stl qb",
+        "opponent": "TB",
+        "points": "8.6"
+    },
+    {
+        "vend_player_id": "15257",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Phillip Supernaw",
+        "team_pos": "ten te",
+        "opponent": "NE",
+        "points": "0.1"
+    },
+    {
+        "vend_player_id": "15349",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Cole Beasley",
+        "team_pos": "dal wr",
+        "opponent": "NYJ",
+        "points": "2.6"
+    },
+    {
+        "vend_player_id": "15351",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Derrick Coleman",
+        "team_pos": "sea rb",
+        "opponent": "CLE",
+        "points": "0.4"
+    },
+    {
+        "vend_player_id": "15360",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Griff Whalen",
+        "team_pos": "ind wr",
+        "opponent": "HOU",
+        "points": "0.1"
+    },
+    {
+        "vend_player_id": "15364",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Jonas Gray",
+        "team_pos": "jax rb",
+        "opponent": "ATL",
+        "points": "3.1"
+    },
+    {
+        "vend_player_id": "15428",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Jermaine Kearse",
+        "team_pos": "sea wr",
+        "opponent": "CLE",
+        "points": "5.7"
+    },
+    {
+        "vend_player_id": "15457",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Travaris Cadet",
+        "team_pos": "sf rb",
+        "opponent": "CIN",
+        "points": "2.4"
+    },
+    {
+        "vend_player_id": "15478",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Brandon Bolden",
+        "team_pos": "ne rb",
+        "opponent": "TEN",
+        "points": "10.1"
+    },
+    {
+        "vend_player_id": "15501",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Bobby Rainey",
+        "team_pos": "tb rb",
+        "opponent": "STL",
+        "points": "0.2"
+    },
+    {
+        "vend_player_id": "15503",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Deonte Thompson",
+        "team_pos": "chi wr",
+        "opponent": "MIN",
+        "points": "0.1"
+    },
+    {
+        "vend_player_id": "15555",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Joshua Bellamy",
+        "team_pos": "chi wr",
+        "opponent": "MIN",
+        "points": "0.1"
+    },
+    {
+        "vend_player_id": "15632",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Jonathan Grimes",
+        "team_pos": "hou rb",
+        "opponent": "IND",
+        "points": "4.9"
+    },
+    {
+        "vend_player_id": "15653",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Jamize Olawale",
+        "team_pos": "oak rb",
+        "opponent": "GB",
+        "points": "1.1"
+    },
+    {
+        "vend_player_id": "15670",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Cooper Helfet",
+        "team_pos": "sea te",
+        "opponent": "CLE",
+        "points": "2.3"
+    },
+    {
+        "vend_player_id": "15683",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Justin Tucker",
+        "team_pos": "bal k",
+        "opponent": "KC",
+        "points": "7.4"
+    },
+    {
+        "vend_player_id": "15755",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Fozzy Whittaker",
+        "team_pos": "car rb",
+        "opponent": "NYG",
+        "points": "7"
+    },
+    {
+        "vend_player_id": "15786",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Tavon Austin",
+        "team_pos": "stl wr",
+        "opponent": "TB",
+        "points": "6.5"
+    },
+    {
+        "vend_player_id": "15795",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "DeAndre Hopkins",
+        "team_pos": "hou wr",
+        "opponent": "IND",
+        "points": "12.1"
+    },
+    {
+        "vend_player_id": "15807",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Cordarrelle Patterson",
+        "team_pos": "min wr",
+        "opponent": "CHI",
+        "points": "0.1"
+    },
+    {
+        "vend_player_id": "15826",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Giovani Bernard",
+        "team_pos": "cin rb",
+        "opponent": "SF",
+        "points": "7.2"
+    },
+    {
+        "vend_player_id": "15832",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Knile Davis",
+        "team_pos": "kc rb",
+        "opponent": "BAL",
+        "points": "2.4"
+    },
+    {
+        "vend_player_id": "15835",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Zach Ertz",
+        "team_pos": "phi te",
+        "opponent": "ARI",
+        "points": "7"
+    },
+    {
+        "vend_player_id": "15836",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Gavin Escobar",
+        "team_pos": "dal te",
+        "opponent": "NYJ",
+        "points": "0.1"
+    },
+    {
+        "vend_player_id": "15847",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Travis Kelce",
+        "team_pos": "kc te",
+        "opponent": "BAL",
+        "points": "6.2"
+    },
+    {
+        "vend_player_id": "15848",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Eddie Lacy",
+        "team_pos": "gb rb",
+        "opponent": "OAK",
+        "points": "9.8"
+    },
+    {
+        "vend_player_id": "15853",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Vance McDonald",
+        "team_pos": "sf te",
+        "opponent": "CIN",
+        "points": "5"
+    },
+    {
+        "vend_player_id": "15855",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Christine Michael",
+        "team_pos": "sea rb",
+        "opponent": "CLE",
+        "points": "1.7"
+    },
+    {
+        "vend_player_id": "15860",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Jordan Reed",
+        "team_pos": "wsh te",
+        "opponent": "BUF",
+        "points": "7.7"
+    },
+    {
+        "vend_player_id": "15873",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Markus Wheaton",
+        "team_pos": "pit wr",
+        "opponent": "DEN",
+        "points": "5.3"
+    },
+    {
+        "vend_player_id": "15878",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Terrance Williams",
+        "team_pos": "dal wr",
+        "opponent": "NYJ",
+        "points": "5.1"
+    },
+    {
+        "vend_player_id": "15880",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Robert Woods",
+        "team_pos": "buf wr",
+        "opponent": "WSH",
+        "points": "6.3"
+    },
+    {
+        "vend_player_id": "15887",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Ryan Griffin",
+        "team_pos": "hou te",
+        "opponent": "IND",
+        "points": "4.9"
+    },
+    {
+        "vend_player_id": "15893",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Andre Ellington",
+        "team_pos": "ari rb",
+        "opponent": "PHI",
+        "points": "6.9"
+    },
+    {
+        "vend_player_id": "15918",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Caleb Sturgis",
+        "team_pos": "phi k",
+        "opponent": "ARI",
+        "points": "7.9"
+    },
+    {
+        "vend_player_id": "15920",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Latavius Murray",
+        "team_pos": "oak rb",
+        "opponent": "GB",
+        "points": "10.8"
+    },
+    {
+        "vend_player_id": "15921",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Kenjon Barner",
+        "team_pos": "phi rb",
+        "opponent": "ARI",
+        "points": "0.2"
+    },
+    {
+        "vend_player_id": "15923",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Mychal Rivera",
+        "team_pos": "oak te",
+        "opponent": "GB",
+        "points": "3.2"
+    },
+    {
+        "vend_player_id": "15951",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Denard Robinson",
+        "team_pos": "jax rb",
+        "opponent": "ATL",
+        "points": "10.8"
+    },
+    {
+        "vend_player_id": "15965",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Dustin Hopkins",
+        "team_pos": "wsh k",
+        "opponent": "BUF",
+        "points": "7.7"
+    },
+    {
+        "vend_player_id": "15971",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Rex Burkhead",
+        "team_pos": "cin rb",
+        "opponent": "SF",
+        "points": "1.4"
+    },
+    {
+        "vend_player_id": "15973",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Tommy Bohanon",
+        "team_pos": "nyj rb",
+        "opponent": "DAL",
+        "points": "0.1"
+    },
+    {
+        "vend_player_id": "15974",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Dion Sims",
+        "team_pos": "mia te",
+        "opponent": "SD",
+        "points": "2"
+    },
+    {
+        "vend_player_id": "15980",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Levine Toilolo",
+        "team_pos": "atl te",
+        "opponent": "JAX",
+        "points": "0.1"
+    },
+    {
+        "vend_player_id": "15981",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Stepfan Taylor",
+        "team_pos": "ari rb",
+        "opponent": "PHI",
+        "points": "0.1"
+    },
+    {
+        "vend_player_id": "15994",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Theo Riddick",
+        "team_pos": "det rb",
+        "opponent": "NO",
+        "points": "6.8"
+    },
+    {
+        "vend_player_id": "16002",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Kyle Juszczyk",
+        "team_pos": "bal rb",
+        "opponent": "KC",
+        "points": "1.4"
+    },
+    {
+        "vend_player_id": "16016",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Kenny Stills",
+        "team_pos": "mia wr",
+        "opponent": "SD",
+        "points": "1.5"
+    },
+    {
+        "vend_player_id": "16024",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Kerwynn Williams",
+        "team_pos": "ari rb",
+        "opponent": "PHI",
+        "points": "0.1"
+    },
+    {
+        "vend_player_id": "16026",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Quinton Patton",
+        "team_pos": "sf wr",
+        "opponent": "CIN",
+        "points": "1.4"
+    },
+    {
+        "vend_player_id": "16040",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "C.J. Anderson",
+        "team_pos": "den rb",
+        "opponent": "PIT",
+        "points": "7.7"
+    },
+    {
+        "vend_player_id": "16055",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Benjamin Cunningham",
+        "team_pos": "stl rb",
+        "opponent": "TB",
+        "points": "0.3"
+    },
+    {
+        "vend_player_id": "16121",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Luke Willson",
+        "team_pos": "sea te",
+        "opponent": "CLE",
+        "points": "4.1"
+    },
+    {
+        "vend_player_id": "16143",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Josh Hill",
+        "team_pos": "no te",
+        "opponent": "DET",
+        "points": "2"
+    },
+    {
+        "vend_player_id": "16172",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Jaron Brown",
+        "team_pos": "ari wr",
+        "opponent": "PHI",
+        "points": "0.1"
+    },
+    {
+        "vend_player_id": "16227",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Russell Shepard",
+        "team_pos": "tb wr",
+        "opponent": "STL",
+        "points": "0.1"
+    },
+    {
+        "vend_player_id": "16285",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Timothy Wright",
+        "team_pos": "det te",
+        "opponent": "NO",
+        "points": "0.4"
+    },
+    {
+        "vend_player_id": "16345",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Nick Williams",
+        "team_pos": "atl wr",
+        "opponent": "JAX",
+        "points": "1.6"
+    },
+    {
+        "vend_player_id": "16366",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Zach Line",
+        "team_pos": "min rb",
+        "opponent": "CHI",
+        "points": "0.1"
+    },
+    {
+        "vend_player_id": "16381",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Kenbrell Thompkins",
+        "team_pos": "nyj wr",
+        "opponent": "DAL",
+        "points": "1.4"
+    },
+    {
+        "vend_player_id": "16504",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Jack Doyle",
+        "team_pos": "ind te",
+        "opponent": "HOU",
+        "points": "0.1"
+    },
+    {
+        "vend_player_id": "16569",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Myles White",
+        "team_pos": "nyg wr",
+        "opponent": "CAR",
+        "points": "1.5"
+    },
+    {
+        "vend_player_id": "16581",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Marlon Brown",
+        "team_pos": "bal wr",
+        "opponent": "KC",
+        "points": "3.6"
+    },
+    {
+        "vend_player_id": "16724",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Blake Bortles",
+        "team_pos": "jax qb",
+        "opponent": "ATL",
+        "points": "17.4"
+    },
+    {
+        "vend_player_id": "16725",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Sammy Watkins",
+        "team_pos": "buf wr",
+        "opponent": "WSH",
+        "points": "9"
+    },
+    {
+        "vend_player_id": "16728",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Teddy Bridgewater",
+        "team_pos": "min qb",
+        "opponent": "CHI",
+        "points": "10.6"
+    },
+    {
+        "vend_player_id": "16731",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Brandin Cooks",
+        "team_pos": "no wr",
+        "opponent": "DET",
+        "points": "8.4"
+    },
+    {
+        "vend_player_id": "16732",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Eric Ebron",
+        "team_pos": "det te",
+        "opponent": "NO",
+        "points": "5.1"
+    },
+    {
+        "vend_player_id": "16733",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Odell Beckham Jr.",
+        "team_pos": "nyg wr",
+        "opponent": "CAR",
+        "points": "13"
+    },
+    {
+        "vend_player_id": "16736",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Johnny Manziel",
+        "team_pos": "cle qb",
+        "opponent": "SEA",
+        "points": "13.4"
+    },
+    {
+        "vend_player_id": "16737",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Mike Evans",
+        "team_pos": "tb wr",
+        "opponent": "STL",
+        "points": "10.4"
+    },
+    {
+        "vend_player_id": "16749",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Charles Sims",
+        "team_pos": "tb rb",
+        "opponent": "STL",
+        "points": "4.9"
+    },
+    {
+        "vend_player_id": "16757",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Derek Carr",
+        "team_pos": "oak qb",
+        "opponent": "GB",
+        "points": "19.5"
+    },
+    {
+        "vend_player_id": "16763",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Jordan Matthews",
+        "team_pos": "phi wr",
+        "opponent": "ARI",
+        "points": "7.1"
+    },
+    {
+        "vend_player_id": "16766",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "C.J. Fiedorowicz",
+        "team_pos": "hou te",
+        "opponent": "IND",
+        "points": "0.5"
+    },
+    {
+        "vend_player_id": "16779",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Josh Huff",
+        "team_pos": "phi wr",
+        "opponent": "ARI",
+        "points": "2"
+    },
+    {
+        "vend_player_id": "16782",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Jerick McKinnon",
+        "team_pos": "min rb",
+        "opponent": "CHI",
+        "points": "1.5"
+    },
+    {
+        "vend_player_id": "16783",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Terrance West",
+        "team_pos": "bal rb",
+        "opponent": "KC",
+        "points": "2.4"
+    },
+    {
+        "vend_player_id": "16784",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Tre Mason",
+        "team_pos": "stl rb",
+        "opponent": "TB",
+        "points": "1.7"
+    },
+    {
+        "vend_player_id": "16786",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Richard Rodgers",
+        "team_pos": "gb te",
+        "opponent": "OAK",
+        "points": "6.5"
+    },
+    {
+        "vend_player_id": "16787",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Marqise Lee",
+        "team_pos": "jax wr",
+        "opponent": "ATL",
+        "points": "1.9"
+    },
+    {
+        "vend_player_id": "16790",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Jarvis Landry",
+        "team_pos": "mia wr",
+        "opponent": "SD",
+        "points": "9.4"
+    },
+    {
+        "vend_player_id": "16791",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Donte Moncrief",
+        "team_pos": "ind wr",
+        "opponent": "HOU",
+        "points": "5.7"
+    },
+    {
+        "vend_player_id": "16793",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Cody Latimer",
+        "team_pos": "den wr",
+        "opponent": "PIT",
+        "points": "0.1"
+    },
+    {
+        "vend_player_id": "16794",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Bishop Sankey",
+        "team_pos": "ten rb",
+        "opponent": "NE",
+        "points": "2.6"
+    },
+    {
+        "vend_player_id": "16795",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Austin Seferian-Jenkins",
+        "team_pos": "tb te",
+        "opponent": "STL",
+        "points": "5.6"
+    },
+    {
+        "vend_player_id": "16799",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Allen Robinson",
+        "team_pos": "jax wr",
+        "opponent": "ATL",
+        "points": "10.6"
+    },
+    {
+        "vend_player_id": "16800",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Davante Adams",
+        "team_pos": "gb wr",
+        "opponent": "OAK",
+        "points": "7.2"
+    },
+    {
+        "vend_player_id": "16803",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Jeremy Hill",
+        "team_pos": "cin rb",
+        "opponent": "SF",
+        "points": "10.3"
+    },
+    {
+        "vend_player_id": "16804",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "John Brown",
+        "team_pos": "ari wr",
+        "opponent": "PHI",
+        "points": "8.8"
+    },
+    {
+        "vend_player_id": "16810",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "AJ McCarron",
+        "team_pos": "cin qb",
+        "opponent": "SF",
+        "points": "14.6"
+    },
+    {
+        "vend_player_id": "16836",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Jared Abbrederis",
+        "team_pos": "gb wr",
+        "opponent": "OAK",
+        "points": "0.2"
+    },
+    {
+        "vend_player_id": "16886",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Martavis Bryant",
+        "team_pos": "pit wr",
+        "opponent": "DEN",
+        "points": "10.1"
+    },
+    {
+        "vend_player_id": "16889",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Andre Williams",
+        "team_pos": "nyg rb",
+        "opponent": "CAR",
+        "points": "1.3"
+    },
+    {
+        "vend_player_id": "16913",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "James White",
+        "team_pos": "ne rb",
+        "opponent": "TEN",
+        "points": "6.2"
+    },
+    {
+        "vend_player_id": "16916",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Zach Hocker",
+        "team_pos": "stl k",
+        "opponent": "TB",
+        "points": "7.2"
+    },
+    {
+        "vend_player_id": "16942",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Ka'Deem Carey",
+        "team_pos": "chi rb",
+        "opponent": "MIN",
+        "points": "0.2"
+    },
+    {
+        "vend_player_id": "16944",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Devonta Freeman",
+        "team_pos": "atl rb",
+        "opponent": "JAX",
+        "points": "13.7"
+    },
+    {
+        "vend_player_id": "16945",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "De'Anthony Thomas",
+        "team_pos": "kc rb,",
+        "opponent": "BAL",
+        "points": "0.5"
+    },
+    {
+        "vend_player_id": "16946",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Bruce Ellington",
+        "team_pos": "sf wr",
+        "opponent": "CIN",
+        "points": "0.3"
+    },
+    {
+        "vend_player_id": "17133",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Isaiah Crowell",
+        "team_pos": "cle rb",
+        "opponent": "SEA",
+        "points": "3.8"
+    },
+    {
+        "vend_player_id": "17134",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Alfred Blue",
+        "team_pos": "hou rb",
+        "opponent": "IND",
+        "points": "1.5"
+    },
+    {
+        "vend_player_id": "17135",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Devin Street",
+        "team_pos": "dal wr",
+        "opponent": "NYJ",
+        "points": "0.2"
+    },
+    {
+        "vend_player_id": "17136",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Dontrelle Inman",
+        "team_pos": "sd wr",
+        "opponent": "MIA",
+        "points": "6.8"
+    },
+    {
+        "vend_player_id": "17137",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Jeff Janis",
+        "team_pos": "gb wr",
+        "opponent": "OAK",
+        "points": "0.1"
+    },
+    {
+        "vend_player_id": "17138",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Damien Williams",
+        "team_pos": "mia rb",
+        "opponent": "SD",
+        "points": "1.5"
+    },
+    {
+        "vend_player_id": "17145",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Brandon Coleman",
+        "team_pos": "no wr",
+        "opponent": "DET",
+        "points": "2.9"
+    },
+    {
+        "vend_player_id": "17149",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Antonio Andrews",
+        "team_pos": "ten rb",
+        "opponent": "NE",
+        "points": "4.4"
+    },
+    {
+        "vend_player_id": "17157",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Travis Coons",
+        "team_pos": "cle k",
+        "opponent": "SEA",
+        "points": "6.4"
+    },
+    {
+        "vend_player_id": "17163",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Allen Hurns",
+        "team_pos": "jax wr",
+        "opponent": "ATL",
+        "points": "7.5"
+    },
+    {
+        "vend_player_id": "17167",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Corey Brown",
+        "team_pos": "car wr",
+        "opponent": "NYG",
+        "points": "3.5"
+    },
+    {
+        "vend_player_id": "17169",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Chandler Catanzaro",
+        "team_pos": "ari k",
+        "opponent": "PHI",
+        "points": "7.7"
+    },
+    {
+        "vend_player_id": "17170",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Ryan Hewitt",
+        "team_pos": "cin te",
+        "opponent": "SF",
+        "points": "1.6"
+    },
+    {
+        "vend_player_id": "17171",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Brandon McManus",
+        "team_pos": "den k",
+        "opponent": "PIT",
+        "points": "8.1"
+    },
+    {
+        "vend_player_id": "17172",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Cairo Santos",
+        "team_pos": "kc k",
+        "opponent": "BAL",
+        "points": "7.7"
+    },
+    {
+        "vend_player_id": "17175",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Chris Boswell",
+        "team_pos": "pit k",
+        "opponent": "DEN",
+        "points": "7.7"
+    },
+    {
+        "vend_player_id": "17177",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Taylor Gabriel",
+        "team_pos": "cle wr",
+        "opponent": "SEA",
+        "points": "4.9"
+    },
+    {
+        "vend_player_id": "17178",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Adam Thielen",
+        "team_pos": "min wr",
+        "opponent": "CHI",
+        "points": "0.1"
+    },
+    {
+        "vend_player_id": "17179",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Ryan Grant",
+        "team_pos": "wsh wr",
+        "opponent": "BUF",
+        "points": "0.1"
+    },
+    {
+        "vend_player_id": "17181",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Frankie Hammond",
+        "team_pos": "kc wr",
+        "opponent": "BAL",
+        "points": "0.2"
+    },
+    {
+        "vend_player_id": "17182",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Albert Wilson",
+        "team_pos": "kc wr",
+        "opponent": "BAL",
+        "points": "4.3"
+    },
+    {
+        "vend_player_id": "17184",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Willie Snead",
+        "team_pos": "no wr",
+        "opponent": "DET",
+        "points": "7"
+    },
+    {
+        "vend_player_id": "17186",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Austin Johnson",
+        "team_pos": "no rb",
+        "opponent": "DET",
+        "points": "0.1"
+    },
+    {
+        "vend_player_id": "17187",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Darren Fells",
+        "team_pos": "ari te",
+        "opponent": "PHI",
+        "points": "1.8"
+    },
+    {
+        "vend_player_id": "17189",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Demetrius Harris",
+        "team_pos": "kc te",
+        "opponent": "BAL",
+        "points": "0.3"
+    },
+    {
+        "vend_player_id": "17192",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "TJ Jones",
+        "team_pos": "det wr",
+        "opponent": "NO",
+        "points": "0.2"
+    },
+    {
+        "vend_player_id": "17197",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Jeremy Butler",
+        "team_pos": "bal wr",
+        "opponent": "KC",
+        "points": "3.5"
+    },
+    {
+        "vend_player_id": "17208",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Orleans Darkwa",
+        "team_pos": "nyg rb",
+        "opponent": "CAR",
+        "points": "1.3"
+    },
+    {
+        "vend_player_id": "17211",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Zurlon Tipton",
+        "team_pos": "ind rb",
+        "opponent": "HOU",
+        "points": "0.3"
+    },
+    {
+        "vend_player_id": "17342",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Fitzgerald Toussaint",
+        "team_pos": "pit rb",
+        "opponent": "DEN",
+        "points": "1.7"
+    },
+    {
+        "vend_player_id": "17355",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Rashad Ross",
+        "team_pos": "wsh wr",
+        "opponent": "BUF",
+        "points": "0.1"
+    },
+    {
+        "vend_player_id": "17384",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Charcandrick West",
+        "team_pos": "kc rb",
+        "opponent": "BAL",
+        "points": "14.4"
+    },
+    {
+        "vend_player_id": "17392",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Justin Perillo",
+        "team_pos": "gb te",
+        "opponent": "OAK",
+        "points": "0.5"
+    },
+    {
+        "vend_player_id": "17399",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Jameis Winston",
+        "team_pos": "tb qb",
+        "opponent": "STL",
+        "points": "13"
+    },
+    {
+        "vend_player_id": "17419",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Kevin Smith",
+        "team_pos": "sea wr",
+        "opponent": "CLE",
+        "points": "0.6"
+    },
+    {
+        "vend_player_id": "17438",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Jason Myers",
+        "team_pos": "jax k",
+        "opponent": "ATL",
+        "points": "7"
+    },
+    {
+        "vend_player_id": "17442",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "David Johnson",
+        "team_pos": "ari rb",
+        "opponent": "PHI",
+        "points": "11.8"
+    },
+    {
+        "vend_player_id": "17444",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "MyCole Pruitt",
+        "team_pos": "min te",
+        "opponent": "CHI",
+        "points": "0.2"
+    },
+    {
+        "vend_player_id": "17475",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Clive Walford",
+        "team_pos": "oak te",
+        "opponent": "GB",
+        "points": "3.7"
+    },
+    {
+        "vend_player_id": "17486",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Marcus Murphy",
+        "team_pos": "no rb",
+        "opponent": "DET",
+        "points": "0.2"
+    },
+    {
+        "vend_player_id": "17490",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Blake Bell",
+        "team_pos": "sf te",
+        "opponent": "CIN",
+        "points": "1.4"
+    },
+    {
+        "vend_player_id": "17502",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Michael Burton",
+        "team_pos": "det rb",
+        "opponent": "NO",
+        "points": "0.2"
+    },
+    {
+        "vend_player_id": "17505",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Jeremy Langford",
+        "team_pos": "chi rb",
+        "opponent": "MIN",
+        "points": "8.9"
+    },
+    {
+        "vend_player_id": "17514",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "J.J. Nelson",
+        "team_pos": "ari wr",
+        "opponent": "PHI",
+        "points": "1.7"
+    },
+    {
+        "vend_player_id": "17516",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Jalston Fowler",
+        "team_pos": "ten rb",
+        "opponent": "NE",
+        "points": "0.1"
+    },
+    {
+        "vend_player_id": "17530",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Kaelin Clay",
+        "team_pos": "bal wr",
+        "opponent": "KC",
+        "points": "0.2"
+    },
+    {
+        "vend_player_id": "17542",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Justin Hardy",
+        "team_pos": "atl wr",
+        "opponent": "JAX",
+        "points": "2.9"
+    },
+    {
+        "vend_player_id": "17550",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Tre McBride",
+        "team_pos": "ten wr",
+        "opponent": "NE",
+        "points": "0.1"
+    },
+    {
+        "vend_player_id": "17556",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Jay Ajayi",
+        "team_pos": "mia rb",
+        "opponent": "SD",
+        "points": "2.9"
+    },
+    {
+        "vend_player_id": "17561",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Quan Bray",
+        "team_pos": "ind rb",
+        "opponent": "HOU",
+        "points": "0.3"
+    },
+    {
+        "vend_player_id": "17564",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "C.J. Uzomah",
+        "team_pos": "cin te",
+        "opponent": "SF",
+        "points": "0.2"
+    },
+    {
+        "vend_player_id": "17578",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "David Cobb",
+        "team_pos": "ten rb",
+        "opponent": "NE",
+        "points": "1.8"
+    },
+    {
+        "vend_player_id": "17580",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Ameer Abdullah",
+        "team_pos": "det rb",
+        "opponent": "NO",
+        "points": "6.2"
+    },
+    {
+        "vend_player_id": "17586",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Melvin Gordon",
+        "team_pos": "sd rb",
+        "opponent": "MIA",
+        "points": "7.7"
+    },
+    {
+        "vend_player_id": "17593",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "DeVante Parker",
+        "team_pos": "mia wr",
+        "opponent": "SD",
+        "points": "4.3"
+    },
+    {
+        "vend_player_id": "17600",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Jamison Crowder",
+        "team_pos": "wsh wr",
+        "opponent": "BUF",
+        "points": "3"
+    },
+    {
+        "vend_player_id": "17601",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Rashad Greene",
+        "team_pos": "jax wr",
+        "opponent": "ATL",
+        "points": "2"
+    },
+    {
+        "vend_player_id": "17605",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Karlos Williams",
+        "team_pos": "buf rb",
+        "opponent": "WSH",
+        "points": "3.1"
+    },
+    {
+        "vend_player_id": "17610",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Marcus Mariota",
+        "team_pos": "ten qb",
+        "opponent": "NE",
+        "points": "13.6"
+    },
+    {
+        "vend_player_id": "17611",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Ty Montgomery",
+        "team_pos": "gb wr",
+        "opponent": "OAK",
+        "points": "1.4"
+    },
+    {
+        "vend_player_id": "17616",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Javorius Allen",
+        "team_pos": "bal rb",
+        "opponent": "KC",
+        "points": "9.6"
+    },
+    {
+        "vend_player_id": "17619",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Tyler Lockett",
+        "team_pos": "sea wr",
+        "opponent": "CLE",
+        "points": "7.2"
+    },
+    {
+        "vend_player_id": "17638",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Chris Conley",
+        "team_pos": "kc wr",
+        "opponent": "BAL",
+        "points": "0.2"
+    },
+    {
+        "vend_player_id": "17643",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Phillip Dorsett",
+        "team_pos": "ind wr",
+        "opponent": "HOU",
+        "points": "2.6"
+    },
+    {
+        "vend_player_id": "17650",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Tyler Kroft",
+        "team_pos": "cin te",
+        "opponent": "SF",
+        "points": "1.7"
+    },
+    {
+        "vend_player_id": "17658",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Duke Johnson Jr.",
+        "team_pos": "cle rb",
+        "opponent": "SEA",
+        "points": "3.8"
+    },
+    {
+        "vend_player_id": "17660",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Maxx Williams",
+        "team_pos": "bal te",
+        "opponent": "KC",
+        "points": "2.5"
+    },
+    {
+        "vend_player_id": "17665",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Dorial Green-Beckham",
+        "team_pos": "ten wr",
+        "opponent": "NE",
+        "points": "5.4"
+    },
+    {
+        "vend_player_id": "17668",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Nelson Agholor",
+        "team_pos": "phi wr",
+        "opponent": "ARI",
+        "points": "4"
+    },
+    {
+        "vend_player_id": "17676",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Stefon Diggs",
+        "team_pos": "min wr",
+        "opponent": "CHI",
+        "points": "6.1"
+    },
+    {
+        "vend_player_id": "17677",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Amari Cooper",
+        "team_pos": "oak wr",
+        "opponent": "GB",
+        "points": "10"
+    },
+    {
+        "vend_player_id": "17682",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Devin Funchess",
+        "team_pos": "car wr",
+        "opponent": "NYG",
+        "points": "5"
+    },
+    {
+        "vend_player_id": "17683",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Todd Gurley",
+        "team_pos": "stl rb",
+        "opponent": "TB",
+        "points": "12"
+    },
+    {
+        "vend_player_id": "17689",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Tevin Coleman",
+        "team_pos": "atl rb",
+        "opponent": "JAX",
+        "points": "1.6"
+    },
+    {
+        "vend_player_id": "17690",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Jesse James",
+        "team_pos": "pit te",
+        "opponent": "DEN",
+        "points": "0.1"
+    },
+    {
+        "vend_player_id": "17695",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Matt Jones",
+        "team_pos": "wsh rb",
+        "opponent": "BUF",
+        "points": "8"
+    },
+    {
+        "vend_player_id": "17704",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Cameron Artis-Payne",
+        "team_pos": "car rb",
+        "opponent": "NYG",
+        "points": "1.6"
+    },
+    {
+        "vend_player_id": "17709",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Jaelen Strong",
+        "team_pos": "hou wr",
+        "opponent": "IND",
+        "points": "1.6"
+    },
+    {
+        "vend_player_id": "17746",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Josh Lambo",
+        "team_pos": "sd k",
+        "opponent": "MIA",
+        "points": "7.6"
+    },
+    {
+        "vend_player_id": "17747",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Andrew Franks",
+        "team_pos": "mia k",
+        "opponent": "SD",
+        "points": "7.7"
+    },
+    {
+        "vend_player_id": "17751",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Bennie Fowler",
+        "team_pos": "den wr",
+        "opponent": "PIT",
+        "points": "0.1"
+    },
+    {
+        "vend_player_id": "17754",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Khari Lee",
+        "team_pos": "chi te",
+        "opponent": "MIN",
+        "points": "0.2"
+    },
+    {
+        "vend_player_id": "17755",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Lucky Whitehead",
+        "team_pos": "dal wr",
+        "opponent": "NYJ",
+        "points": "0.5"
+    },
+    {
+        "vend_player_id": "17756",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Adam Humphries",
+        "team_pos": "tb wr",
+        "opponent": "STL",
+        "points": "2.6"
+    },
+    {
+        "vend_player_id": "17758",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Quincy Enunwa",
+        "team_pos": "nyj wr",
+        "opponent": "DAL",
+        "points": "2.7"
+    },
+    {
+        "vend_player_id": "17759",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Jerome Cunningham",
+        "team_pos": "nyg te",
+        "opponent": "CAR",
+        "points": "1.6"
+    },
+    {
+        "vend_player_id": "17761",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Seth Roberts",
+        "team_pos": "oak wr",
+        "opponent": "GB",
+        "points": "5.1"
+    },
+    {
+        "vend_player_id": "17767",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Raheem Mostert",
+        "team_pos": "cle rb",
+        "opponent": "SEA",
+        "points": "0.1"
+    },
+    {
+        "vend_player_id": "17771",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Bradley Marquez",
+        "team_pos": "stl wr",
+        "opponent": "TB",
+        "points": "1.2"
+    },
+    {
+        "vend_player_id": "17777",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Will Tye",
+        "team_pos": "nyg te",
+        "opponent": "CAR",
+        "points": "4.8"
+    },
+    {
+        "vend_player_id": "17780",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Donteea Dye",
+        "team_pos": "tb wr",
+        "opponent": "STL",
+        "points": "2.8"
+    },
+    {
+        "vend_player_id": "17783",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Javontee Herndon",
+        "team_pos": "sd wr",
+        "opponent": "MIA",
+        "points": "0.4"
+    },
+    {
+        "vend_player_id": "17784",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Cameron Brate",
+        "team_pos": "tb te",
+        "opponent": "STL",
+        "points": "1.4"
+    },
+    {
+        "vend_player_id": "17789",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Akeem Hunt",
+        "team_pos": "hou rb",
+        "opponent": "IND",
+        "points": "0.3"
+    },
+    {
+        "vend_player_id": "17790",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Daniel Brown",
+        "team_pos": "bal wr",
+        "opponent": "KC",
+        "points": "1.2"
+    },
+    {
+        "vend_player_id": "60001",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Falcons D/ST",
+        "team_pos": "d/st undefined",
+        "opponent": "JAX",
+        "points": "5.2"
+    },
+    {
+        "vend_player_id": "60002",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Bills D/ST",
+        "team_pos": "d/st undefined",
+        "opponent": "WSH",
+        "points": "5.7"
+    },
+    {
+        "vend_player_id": "60003",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Bears D/ST",
+        "team_pos": "d/st undefined",
+        "opponent": "MIN",
+        "points": "6.4"
+    },
+    {
+        "vend_player_id": "60004",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Bengals D/ST",
+        "team_pos": "d/st undefined",
+        "opponent": "SF",
+        "points": "5.6"
+    },
+    {
+        "vend_player_id": "60005",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Browns D/ST",
+        "team_pos": "d/st undefined",
+        "opponent": "SEA",
+        "points": "6.7"
+    },
+    {
+        "vend_player_id": "60006",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Cowboys D/ST",
+        "team_pos": "d/st undefined",
+        "opponent": "NYJ",
+        "points": "4.9"
+    },
+    {
+        "vend_player_id": "60007",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Broncos D/ST",
+        "team_pos": "d/st undefined",
+        "opponent": "PIT",
+        "points": "8.8"
+    },
+    {
+        "vend_player_id": "60008",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Lions D/ST",
+        "team_pos": "d/st undefined",
+        "opponent": "NO",
+        "points": "6.1"
+    },
+    {
+        "vend_player_id": "60009",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Packers D/ST",
+        "team_pos": "d/st undefined",
+        "opponent": "OAK",
+        "points": "6.5"
+    },
+    {
+        "vend_player_id": "60010",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Titans D/ST",
+        "team_pos": "d/st undefined",
+        "opponent": "NE",
+        "points": "5"
+    },
+    {
+        "vend_player_id": "60011",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Colts D/ST",
+        "team_pos": "d/st undefined",
+        "opponent": "HOU",
+        "points": "5.8"
+    },
+    {
+        "vend_player_id": "60012",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Chiefs D/ST",
+        "team_pos": "d/st undefined",
+        "opponent": "BAL",
+        "points": "7.3"
+    },
+    {
+        "vend_player_id": "60013",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Raiders D/ST",
+        "team_pos": "d/st undefined",
+        "opponent": "GB",
+        "points": "5.3"
+    },
+    {
+        "vend_player_id": "60014",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Rams D/ST",
+        "team_pos": "d/st undefined",
+        "opponent": "TB",
+        "points": "7.7"
+    },
+    {
+        "vend_player_id": "60015",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Dolphins D/ST",
+        "team_pos": "d/st undefined",
+        "opponent": "SD",
+        "points": "6"
+    },
+    {
+        "vend_player_id": "60016",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Vikings D/ST",
+        "team_pos": "d/st undefined",
+        "opponent": "CHI",
+        "points": "6.2"
+    },
+    {
+        "vend_player_id": "60017",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Patriots D/ST",
+        "team_pos": "d/st undefined",
+        "opponent": "TEN",
+        "points": "6.1"
+    },
+    {
+        "vend_player_id": "60018",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Saints D/ST",
+        "team_pos": "d/st undefined",
+        "opponent": "DET",
+        "points": "5.7"
+    },
+    {
+        "vend_player_id": "60019",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Giants D/ST",
+        "team_pos": "d/st undefined",
+        "opponent": "CAR",
+        "points": "7.6"
+    },
+    {
+        "vend_player_id": "60020",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Jets D/ST",
+        "team_pos": "d/st undefined",
+        "opponent": "DAL",
+        "points": "7.7"
+    },
+    {
+        "vend_player_id": "60021",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Eagles D/ST",
+        "team_pos": "d/st undefined",
+        "opponent": "ARI",
+        "points": "7.9"
+    },
+    {
+        "vend_player_id": "60022",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Cardinals D/ST",
+        "team_pos": "d/st undefined",
+        "opponent": "PHI",
+        "points": "7.6"
+    },
+    {
+        "vend_player_id": "60023",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Steelers D/ST",
+        "team_pos": "d/st undefined",
+        "opponent": "DEN",
+        "points": "9.7"
+    },
+    {
+        "vend_player_id": "60024",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Chargers D/ST",
+        "team_pos": "d/st undefined",
+        "opponent": "MIA",
+        "points": "4.1"
+    },
+    {
+        "vend_player_id": "60025",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "49ers D/ST",
+        "team_pos": "d/st undefined",
+        "opponent": "CIN",
+        "points": "5"
+    },
+    {
+        "vend_player_id": "60026",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Seahawks D/ST",
+        "team_pos": "d/st undefined",
+        "opponent": "CLE",
+        "points": "8.2"
+    },
+    {
+        "vend_player_id": "60027",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Buccaneers D/ST",
+        "team_pos": "d/st undefined",
+        "opponent": "STL",
+        "points": "6.3"
+    },
+    {
+        "vend_player_id": "60028",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Redskins D/ST",
+        "team_pos": "d/st undefined",
+        "opponent": "BUF",
+        "points": "5.7"
+    },
+    {
+        "vend_player_id": "60029",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Panthers D/ST",
+        "team_pos": "d/st undefined",
+        "opponent": "NYG",
+        "points": "9.4"
+    },
+    {
+        "vend_player_id": "60030",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Jaguars D/ST",
+        "team_pos": "d/st undefined",
+        "opponent": "ATL",
+        "points": "9.6"
+    },
+    {
+        "vend_player_id": "60033",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Ravens D/ST",
+        "team_pos": "d/st undefined",
+        "opponent": "KC",
+        "points": "5.6"
+    },
+    {
+        "vend_player_id": "60034",
+        "season_year": "2015",
+        "week": "15",
+        "full_name": "Texans D/ST",
+        "team_pos": "d/st undefined",
+        "opponent": "IND",
+        "points": "4.4"
+    }
+]

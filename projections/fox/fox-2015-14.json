@@ -1,0 +1,3224 @@
+[
+    {
+        "fox_player_id": "5024",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Cam Newton",
+        "team_pos": "(Car - QB)",
+        "opponent": "ATL",
+        "points": "21.1"
+    },
+    {
+        "fox_player_id": "5544",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Jameis Winston",
+        "team_pos": "(TB - QB)",
+        "opponent": "NO",
+        "points": "20.8"
+    },
+    {
+        "fox_player_id": "4822",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Aaron Rodgers",
+        "team_pos": "(GB - QB)",
+        "opponent": "DAL",
+        "points": "20.8"
+    },
+    {
+        "fox_player_id": "5087",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Russell Wilson",
+        "team_pos": "(Sea - QB)",
+        "opponent": "BAL",
+        "points": "20.7"
+    },
+    {
+        "fox_player_id": "4840",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Alex Smith",
+        "team_pos": "(KC - QB)",
+        "opponent": "SD",
+        "points": "19.9"
+    },
+    {
+        "fox_player_id": "4787",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Drew Brees",
+        "team_pos": "(NO - QB)",
+        "opponent": "TB",
+        "points": "19.4"
+    },
+    {
+        "fox_player_id": "4783",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Matt Hasselbeck",
+        "team_pos": "(Ind - QB)",
+        "opponent": "JAC",
+        "points": "19.4"
+    },
+    {
+        "fox_player_id": "4863",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Philip Rivers",
+        "team_pos": "(SD - QB)",
+        "opponent": "KC",
+        "points": "18.8"
+    },
+    {
+        "fox_player_id": "4955",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Matthew Stafford",
+        "team_pos": "(Det - QB)",
+        "opponent": "STL",
+        "points": "18.4"
+    },
+    {
+        "fox_player_id": "4949",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Andy Dalton",
+        "team_pos": "(Cin - QB)",
+        "opponent": "PIT",
+        "points": "18.1"
+    },
+    {
+        "fox_player_id": "5025",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Ryan Tannehill",
+        "team_pos": "(Mia - QB)",
+        "opponent": "NYG",
+        "points": "17.8"
+    },
+    {
+        "fox_player_id": "4799",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Jay Cutler",
+        "team_pos": "(Chi - QB)",
+        "opponent": "WAS",
+        "points": "17.5"
+    },
+    {
+        "fox_player_id": "5068",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Tyrod Taylor",
+        "team_pos": "(Buf - QB)",
+        "opponent": "PHI",
+        "points": "17.2"
+    },
+    {
+        "fox_player_id": "5100",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Kirk Cousins",
+        "team_pos": "(Was - QB)",
+        "opponent": "CHI",
+        "points": "17.0"
+    },
+    {
+        "fox_player_id": "4959",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Shaun Draughn",
+        "team_pos": "(SF - RB)",
+        "opponent": "CLE",
+        "points": "16.8"
+    },
+    {
+        "fox_player_id": "5453",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Blake Bortles",
+        "team_pos": "(Jac - QB)",
+        "opponent": "IND",
+        "points": "16.7"
+    },
+    {
+        "fox_player_id": "4816",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Carson Palmer",
+        "team_pos": "(Ari - QB)",
+        "opponent": "MIN",
+        "points": "16.5"
+    },
+    {
+        "fox_player_id": "4861",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Eli Manning",
+        "team_pos": "(NYG - QB)",
+        "opponent": "MIA",
+        "points": "16.3"
+    },
+    {
+        "fox_player_id": "4864",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Ben Roethlisberger",
+        "team_pos": "(Pit - QB)",
+        "opponent": "CIN",
+        "points": "16.0"
+    },
+    {
+        "fox_player_id": "5479",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Johnny Manziel",
+        "team_pos": "(Cle - QB)",
+        "opponent": "SF",
+        "points": "15.9"
+    },
+    {
+        "fox_player_id": "5014",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Case Keenum",
+        "team_pos": "(StL - QB)",
+        "opponent": "DET",
+        "points": "15.8"
+    },
+    {
+        "fox_player_id": "4839",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "DeAngelo Williams",
+        "team_pos": "(Pit - RB)",
+        "opponent": "CIN",
+        "points": "15.7"
+    },
+    {
+        "fox_player_id": "4922",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Jonathan Stewart",
+        "team_pos": "(Car - RB)",
+        "opponent": "ATL",
+        "points": "15.2"
+    },
+    {
+        "fox_player_id": "5054",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "LeSean McCoy",
+        "team_pos": "(Buf - RB)",
+        "opponent": "PHI",
+        "points": "15.1"
+    },
+    {
+        "fox_player_id": "5034",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Doug Martin",
+        "team_pos": "(TB - RB)",
+        "opponent": "NO",
+        "points": "14.9"
+    },
+    {
+        "fox_player_id": "5009",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Chris Ivory",
+        "team_pos": "(NYJ - RB)",
+        "opponent": "TEN",
+        "points": "14.8"
+    },
+    {
+        "fox_player_id": "5542",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Marcus Mariota",
+        "team_pos": "(Ten - QB)",
+        "opponent": "NYJ",
+        "points": "14.7"
+    },
+    {
+        "fox_player_id": "4892",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Adrian Peterson",
+        "team_pos": "(Min - RB)",
+        "opponent": "ARI",
+        "points": "14.6"
+    },
+    {
+        "fox_player_id": "5240",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Brock Osweiler",
+        "team_pos": "(Den - QB)",
+        "opponent": "OAK",
+        "points": "14.4"
+    },
+    {
+        "fox_player_id": "4992",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "DeMarco Murray",
+        "team_pos": "(Phi - RB)",
+        "opponent": "BUF",
+        "points": "14.4"
+    },
+    {
+        "fox_player_id": "5558",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "David Johnson",
+        "team_pos": "(Ari - RB)",
+        "opponent": "MIN",
+        "points": "14.3"
+    },
+    {
+        "fox_player_id": "4914",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Darren McFadden",
+        "team_pos": "(Dal - RB)",
+        "opponent": "GB",
+        "points": "14.3"
+    },
+    {
+        "fox_player_id": "5550",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Todd Gurley",
+        "team_pos": "(StL - RB)",
+        "opponent": "DET",
+        "points": "14.2"
+    },
+    {
+        "fox_player_id": "4803",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Ryan Fitzpatrick",
+        "team_pos": "(NYJ - QB)",
+        "opponent": "TEN",
+        "points": "14.2"
+    },
+    {
+        "fox_player_id": "5237",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Derek Carr",
+        "team_pos": "(Oak - QB)",
+        "opponent": "DEN",
+        "points": "14.0"
+    },
+    {
+        "fox_player_id": "4866",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Matt Schaub",
+        "team_pos": "(Bal - QB)",
+        "opponent": "SEA",
+        "points": "13.8"
+    },
+    {
+        "fox_player_id": "4993",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Sam Bradford",
+        "team_pos": "(Phi - QB)",
+        "opponent": "BUF",
+        "points": "13.8"
+    },
+    {
+        "fox_player_id": "5472",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Teddy Bridgewater",
+        "team_pos": "(Min - QB)",
+        "opponent": "ARI",
+        "points": "13.7"
+    },
+    {
+        "fox_player_id": "5295",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Lamar Miller",
+        "team_pos": "(Mia - RB)",
+        "opponent": "NYG",
+        "points": "13.6"
+    },
+    {
+        "fox_player_id": "5532",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Charcandrick West",
+        "team_pos": "(KC - RB)",
+        "opponent": "SD",
+        "points": "13.4"
+    },
+    {
+        "fox_player_id": "4893",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Matt Forte",
+        "team_pos": "(Chi - RB)",
+        "opponent": "WAS",
+        "points": "13.4"
+    },
+    {
+        "fox_player_id": "5166",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Blaine Gabbert",
+        "team_pos": "(SF - QB)",
+        "opponent": "CLE",
+        "points": "13.2"
+    },
+    {
+        "fox_player_id": "4785",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Tom Brady",
+        "team_pos": "(NE - QB)",
+        "opponent": "HOU",
+        "points": "13.2"
+    },
+    {
+        "fox_player_id": "4792",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Matt Cassel",
+        "team_pos": "(Dal - QB)",
+        "opponent": "GB",
+        "points": "13.0"
+    },
+    {
+        "fox_player_id": "5131",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Mark Ingram",
+        "team_pos": "(NO - RB)",
+        "opponent": "TB",
+        "points": "12.7"
+    },
+    {
+        "fox_player_id": "5135",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "A.J. Green",
+        "team_pos": "(Cin - WR)",
+        "opponent": "PIT",
+        "points": "12.1"
+    },
+    {
+        "fox_player_id": "5386",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Giovani Bernard",
+        "team_pos": "(Cin - RB)",
+        "opponent": "PIT",
+        "points": "11.8"
+    },
+    {
+        "fox_player_id": "4881",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Brian Hoyer",
+        "team_pos": "(Hou - QB)",
+        "opponent": "NE",
+        "points": "11.7"
+    },
+    {
+        "fox_player_id": "4999",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Jeremy Maclin",
+        "team_pos": "(KC - WR)",
+        "opponent": "SD",
+        "points": "11.7"
+    },
+    {
+        "fox_player_id": "5657",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Thomas Rawls",
+        "team_pos": "(Sea - RB)",
+        "opponent": "BAL",
+        "points": "11.5"
+    },
+    {
+        "fox_player_id": "4798",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Frank Gore",
+        "team_pos": "(Ind - RB)",
+        "opponent": "JAC",
+        "points": "11.5"
+    },
+    {
+        "fox_player_id": "5500",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "C.J. Anderson",
+        "team_pos": "(Den - RB)",
+        "opponent": "OAK",
+        "points": "11.5"
+    },
+    {
+        "fox_player_id": "5480",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Mike Evans",
+        "team_pos": "(TB - WR)",
+        "opponent": "NO",
+        "points": "11.4"
+    },
+    {
+        "fox_player_id": "4888",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Calvin Johnson",
+        "team_pos": "(Det - WR)",
+        "opponent": "STL",
+        "points": "11.3"
+    },
+    {
+        "fox_player_id": "4862",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Larry Fitzgerald",
+        "team_pos": "(Ari - WR)",
+        "opponent": "MIN",
+        "points": "11.3"
+    },
+    {
+        "fox_player_id": "5596",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Javorius Allen",
+        "team_pos": "(Bal - RB)",
+        "opponent": "SEA",
+        "points": "11.2"
+    },
+    {
+        "fox_player_id": "5107",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Antonio Brown",
+        "team_pos": "(Pit - WR)",
+        "opponent": "CIN",
+        "points": "11.2"
+    },
+    {
+        "fox_player_id": "5474",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Devonta Freeman",
+        "team_pos": "(Atl - RB)",
+        "opponent": "CAR",
+        "points": "11.2"
+    },
+    {
+        "fox_player_id": "5127",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "LeGarrette Blount",
+        "team_pos": "(NE - RB)",
+        "opponent": "HOU",
+        "points": "10.9"
+    },
+    {
+        "fox_player_id": "4815",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Brandon Marshall",
+        "team_pos": "(NYJ - WR)",
+        "opponent": "TEN",
+        "points": "10.7"
+    },
+    {
+        "fox_player_id": "5506",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Allen Robinson",
+        "team_pos": "(Jac - WR)",
+        "opponent": "IND",
+        "points": "10.7"
+    },
+    {
+        "fox_player_id": "4847",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Vincent Jackson",
+        "team_pos": "(TB - WR)",
+        "opponent": "NO",
+        "points": "10.6"
+    },
+    {
+        "fox_player_id": "5048",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Dez Bryant",
+        "team_pos": "(Dal - WR)",
+        "opponent": "GB",
+        "points": "10.6"
+    },
+    {
+        "fox_player_id": "5554",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "T.J. Yeldon",
+        "team_pos": "(Jac - RB)",
+        "opponent": "IND",
+        "points": "10.6"
+    },
+    {
+        "fox_player_id": "4936",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "DeSean Jackson",
+        "team_pos": "(Was - WR)",
+        "opponent": "CHI",
+        "points": "10.4"
+    },
+    {
+        "fox_player_id": "4835",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Matt Ryan",
+        "team_pos": "(Atl - QB)",
+        "opponent": "CAR",
+        "points": "10.2"
+    },
+    {
+        "fox_player_id": "5208",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "T.Y. Hilton",
+        "team_pos": "(Ind - WR)",
+        "opponent": "JAC",
+        "points": "10.2"
+    },
+    {
+        "fox_player_id": "5467",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Odell Beckham Jr.",
+        "team_pos": "(NYG - WR)",
+        "opponent": "MIA",
+        "points": "10.1"
+    },
+    {
+        "fox_player_id": "5075",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Kamar Aiken",
+        "team_pos": "(Bal - WR)",
+        "opponent": "SEA",
+        "points": "10.0"
+    },
+    {
+        "fox_player_id": "5201",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Randall Cobb",
+        "team_pos": "(GB - WR)",
+        "opponent": "DAL",
+        "points": "9.9"
+    },
+    {
+        "fox_player_id": "5547",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Melvin Gordon",
+        "team_pos": "(SD - RB)",
+        "opponent": "KC",
+        "points": "9.9"
+    },
+    {
+        "fox_player_id": "5270",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Alshon Jeffery",
+        "team_pos": "(Chi - WR)",
+        "opponent": "WAS",
+        "points": "9.9"
+    },
+    {
+        "fox_player_id": "5468",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Jarvis Landry",
+        "team_pos": "(Mia - WR)",
+        "opponent": "NYG",
+        "points": "9.5"
+    },
+    {
+        "fox_player_id": "5002",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Stevie Johnson",
+        "team_pos": "(SD - WR)",
+        "opponent": "KC",
+        "points": "9.5"
+    },
+    {
+        "fox_player_id": "5077",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Golden Tate",
+        "team_pos": "(Det - WR)",
+        "opponent": "STL",
+        "points": "9.4"
+    },
+    {
+        "fox_player_id": "5357",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Spencer Ware",
+        "team_pos": "(KC - RB)",
+        "opponent": "SD",
+        "points": "9.4"
+    },
+    {
+        "fox_player_id": "5503",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Brandin Cooks",
+        "team_pos": "(NO - WR)",
+        "opponent": "TB",
+        "points": "9.3"
+    },
+    {
+        "fox_player_id": "5332",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Ronnie Hillman",
+        "team_pos": "(Den - RB)",
+        "opponent": "OAK",
+        "points": "9.2"
+    },
+    {
+        "fox_player_id": "4806",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Marques Colston",
+        "team_pos": "(NO - WR)",
+        "opponent": "TB",
+        "points": "9.1"
+    },
+    {
+        "fox_player_id": "5288",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Eddie Lacy",
+        "team_pos": "(GB - RB)",
+        "opponent": "DAL",
+        "points": "9.1"
+    },
+    {
+        "fox_player_id": "4818",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Anquan Boldin",
+        "team_pos": "(SF - WR)",
+        "opponent": "CLE",
+        "points": "9.0"
+    },
+    {
+        "fox_player_id": "4971",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Michael Crabtree",
+        "team_pos": "(Oak - WR)",
+        "opponent": "DEN",
+        "points": "9.0"
+    },
+    {
+        "fox_player_id": "5207",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Latavius Murray",
+        "team_pos": "(Oak - RB)",
+        "opponent": "DEN",
+        "points": "8.9"
+    },
+    {
+        "fox_player_id": "4913",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "James Starks",
+        "team_pos": "(GB - RB)",
+        "opponent": "DAL",
+        "points": "8.8"
+    },
+    {
+        "fox_player_id": "5510",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Davante Adams",
+        "team_pos": "(GB - WR)",
+        "opponent": "DAL",
+        "points": "8.7"
+    },
+    {
+        "fox_player_id": "5010",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Demaryius Thomas",
+        "team_pos": "(Den - WR)",
+        "opponent": "OAK",
+        "points": "8.6"
+    },
+    {
+        "fox_player_id": "4943",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Brandon LaFell",
+        "team_pos": "(NE - WR)",
+        "opponent": "HOU",
+        "points": "8.5"
+    },
+    {
+        "fox_player_id": "4879",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Danny Amendola",
+        "team_pos": "(NE - WR)",
+        "opponent": "HOU",
+        "points": "8.4"
+    },
+    {
+        "fox_player_id": "5561",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Ameer Abdullah",
+        "team_pos": "(Det - RB)",
+        "opponent": "STL",
+        "points": "8.4"
+    },
+    {
+        "fox_player_id": "5574",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Jeremy Langford",
+        "team_pos": "(Chi - RB)",
+        "opponent": "WAS",
+        "points": "8.4"
+    },
+    {
+        "fox_player_id": "4843",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "James Jones",
+        "team_pos": "(GB - WR)",
+        "opponent": "DAL",
+        "points": "8.4"
+    },
+    {
+        "fox_player_id": "5132",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Julio Jones",
+        "team_pos": "(Atl - WR)",
+        "opponent": "CAR",
+        "points": "8.4"
+    },
+    {
+        "fox_player_id": "5069",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Doug Baldwin",
+        "team_pos": "(Sea - WR)",
+        "opponent": "BAL",
+        "points": "8.3"
+    },
+    {
+        "fox_player_id": "5543",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Amari Cooper",
+        "team_pos": "(Oak - WR)",
+        "opponent": "DEN",
+        "points": "8.1"
+    },
+    {
+        "fox_player_id": "5375",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Kenny Stills",
+        "team_pos": "(Mia - WR)",
+        "opponent": "NYG",
+        "points": "8.1"
+    },
+    {
+        "fox_player_id": "4933",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Eric Decker",
+        "team_pos": "(NYJ - WR)",
+        "opponent": "TEN",
+        "points": "8.0"
+    },
+    {
+        "fox_player_id": "4900",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Rashad Jennings",
+        "team_pos": "(NYG - RB)",
+        "opponent": "MIA",
+        "points": "7.9"
+    },
+    {
+        "fox_player_id": "5120",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Travis Kelce",
+        "team_pos": "(KC - TE)",
+        "opponent": "SD",
+        "points": "7.9"
+    },
+    {
+        "fox_player_id": "5416",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Jordan Matthews",
+        "team_pos": "(Phi - WR)",
+        "opponent": "BUF",
+        "points": "7.9"
+    },
+    {
+        "fox_player_id": "5604",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Stefon Diggs",
+        "team_pos": "(Min - WR)",
+        "opponent": "ARI",
+        "points": "7.8"
+    },
+    {
+        "fox_player_id": "5146",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Jermaine Kearse",
+        "team_pos": "(Sea - WR)",
+        "opponent": "BAL",
+        "points": "7.8"
+    },
+    {
+        "fox_player_id": "5190",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Travis Benjamin",
+        "team_pos": "(Cle - WR)",
+        "opponent": "SF",
+        "points": "7.8"
+    },
+    {
+        "fox_player_id": "5569",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Duke Johnson Jr.",
+        "team_pos": "(Cle - RB)",
+        "opponent": "SF",
+        "points": "7.8"
+    },
+    {
+        "fox_player_id": "5516",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Jeremy Hill",
+        "team_pos": "(Cin - RB)",
+        "opponent": "PIT",
+        "points": "7.8"
+    },
+    {
+        "fox_player_id": "5446",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "DeAndre Hopkins",
+        "team_pos": "(Hou - WR)",
+        "opponent": "NE",
+        "points": "7.7"
+    },
+    {
+        "fox_player_id": "5012",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Danny Woodhead",
+        "team_pos": "(SD - RB)",
+        "opponent": "KC",
+        "points": "7.7"
+    },
+    {
+        "fox_player_id": "4865",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Benjamin Watson",
+        "team_pos": "(NO - TE)",
+        "opponent": "TB",
+        "points": "7.7"
+    },
+    {
+        "fox_player_id": "4846",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Nate Washington",
+        "team_pos": "(Hou - WR)",
+        "opponent": "NE",
+        "points": "7.7"
+    },
+    {
+        "fox_player_id": "5484",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Martavis Bryant",
+        "team_pos": "(Pit - WR)",
+        "opponent": "CIN",
+        "points": "7.6"
+    },
+    {
+        "fox_player_id": "5354",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Alfred Blue",
+        "team_pos": "(Hou - RB)",
+        "opponent": "NE",
+        "points": "7.6"
+    },
+    {
+        "fox_player_id": "5496",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Donte Moncrief",
+        "team_pos": "(Ind - WR)",
+        "opponent": "JAC",
+        "points": "7.6"
+    },
+    {
+        "fox_player_id": "5220",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "John Brown",
+        "team_pos": "(Ari - WR)",
+        "opponent": "MIN",
+        "points": "7.5"
+    },
+    {
+        "fox_player_id": "5293",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Jordan Reed",
+        "team_pos": "(Was - TE)",
+        "opponent": "CHI",
+        "points": "7.5"
+    },
+    {
+        "fox_player_id": "4979",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Riley Cooper",
+        "team_pos": "(Phi - WR)",
+        "opponent": "BUF",
+        "points": "7.5"
+    },
+    {
+        "fox_player_id": "4852",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Harry Douglas",
+        "team_pos": "(Ten - WR)",
+        "opponent": "NYJ",
+        "points": "7.4"
+    },
+    {
+        "fox_player_id": "5147",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Kendall Wright",
+        "team_pos": "(Ten - WR)",
+        "opponent": "NYJ",
+        "points": "7.3"
+    },
+    {
+        "fox_player_id": "4927",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Jared Cook",
+        "team_pos": "(StL - TE)",
+        "opponent": "DET",
+        "points": "7.2"
+    },
+    {
+        "fox_player_id": "4855",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Greg Olsen",
+        "team_pos": "(Car - TE)",
+        "opponent": "ATL",
+        "points": "7.2"
+    },
+    {
+        "fox_player_id": "4967",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Emmanuel Sanders",
+        "team_pos": "(Den - WR)",
+        "opponent": "OAK",
+        "points": "7.2"
+    },
+    {
+        "fox_player_id": "5576",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Jamison Crowder",
+        "team_pos": "(Was - WR)",
+        "opponent": "CHI",
+        "points": "7.1"
+    },
+    {
+        "fox_player_id": "5157",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Marvin Jones",
+        "team_pos": "(Cin - WR)",
+        "opponent": "PIT",
+        "points": "7.1"
+    },
+    {
+        "fox_player_id": "5070",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Coby Fleener",
+        "team_pos": "(Ind - TE)",
+        "opponent": "JAC",
+        "points": "7.0"
+    },
+    {
+        "fox_player_id": "5485",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Sammy Watkins",
+        "team_pos": "(Buf - WR)",
+        "opponent": "PHI",
+        "points": "7.0"
+    },
+    {
+        "fox_player_id": "5362",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Allen Hurns",
+        "team_pos": "(Jac - WR)",
+        "opponent": "IND",
+        "points": "7.0"
+    },
+    {
+        "fox_player_id": "5039",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Alfred Morris",
+        "team_pos": "(Was - RB)",
+        "opponent": "CHI",
+        "points": "6.9"
+    },
+    {
+        "fox_player_id": "5247",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Rueben Randle",
+        "team_pos": "(NYG - WR)",
+        "opponent": "MIA",
+        "points": "6.9"
+    },
+    {
+        "fox_player_id": "5011",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Kenny Britt",
+        "team_pos": "(StL - WR)",
+        "opponent": "DET",
+        "points": "6.9"
+    },
+    {
+        "fox_player_id": "4868",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Jerricho Cotchery",
+        "team_pos": "(Car - WR)",
+        "opponent": "ATL",
+        "points": "6.8"
+    },
+    {
+        "fox_player_id": "5296",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Tyler Eifert",
+        "team_pos": "(Cin - TE)",
+        "opponent": "PIT",
+        "points": "6.8"
+    },
+    {
+        "fox_player_id": "4795",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Heath Miller",
+        "team_pos": "(Pit - TE)",
+        "opponent": "CIN",
+        "points": "6.8"
+    },
+    {
+        "fox_player_id": "5078",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Charles Clay",
+        "team_pos": "(Buf - TE)",
+        "opponent": "PHI",
+        "points": "6.7"
+    },
+    {
+        "fox_player_id": "4817",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Andre Johnson",
+        "team_pos": "(Ind - WR)",
+        "opponent": "JAC",
+        "points": "6.7"
+    },
+    {
+        "fox_player_id": "4874",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Malcom Floyd",
+        "team_pos": "(SD - WR)",
+        "opponent": "KC",
+        "points": "6.7"
+    },
+    {
+        "fox_player_id": "5058",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Jordan Cameron",
+        "team_pos": "(Mia - TE)",
+        "opponent": "NYG",
+        "points": "6.7"
+    },
+    {
+        "fox_player_id": "5546",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "DeVante Parker",
+        "team_pos": "(Mia - WR)",
+        "opponent": "NYG",
+        "points": "6.7"
+    },
+    {
+        "fox_player_id": "5570",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Matt Jones",
+        "team_pos": "(Was - RB)",
+        "opponent": "CHI",
+        "points": "6.7"
+    },
+    {
+        "fox_player_id": "4906",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Gary Barnidge",
+        "team_pos": "(Cle - TE)",
+        "opponent": "SF",
+        "points": "6.6"
+    },
+    {
+        "fox_player_id": "5495",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Isaiah Crowell",
+        "team_pos": "(Cle - RB)",
+        "opponent": "SF",
+        "points": "6.5"
+    },
+    {
+        "fox_player_id": "4969",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Dwayne Harris",
+        "team_pos": "(NYG - WR)",
+        "opponent": "MIA",
+        "points": "6.5"
+    },
+    {
+        "fox_player_id": "4809",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Roddy White",
+        "team_pos": "(Atl - WR)",
+        "opponent": "CAR",
+        "points": "6.4"
+    },
+    {
+        "fox_player_id": "5502",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "De'Anthony Thomas",
+        "team_pos": "(KC - RB)",
+        "opponent": "SD",
+        "points": "6.4"
+    },
+    {
+        "fox_player_id": "5420",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Robert Woods",
+        "team_pos": "(Buf - WR)",
+        "opponent": "PHI",
+        "points": "6.3"
+    },
+    {
+        "fox_player_id": "5148",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Terrance Williams",
+        "team_pos": "(Dal - WR)",
+        "opponent": "GB",
+        "points": "6.3"
+    },
+    {
+        "fox_player_id": "5243",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Markus Wheaton",
+        "team_pos": "(Pit - WR)",
+        "opponent": "CIN",
+        "points": "6.3"
+    },
+    {
+        "fox_player_id": "5899",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Wes Welker",
+        "team_pos": "(StL - WR)",
+        "opponent": "DET",
+        "points": "6.3"
+    },
+    {
+        "fox_player_id": "5204",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Luke Willson",
+        "team_pos": "(Sea - TE)",
+        "opponent": "BAL",
+        "points": "6.3"
+    },
+    {
+        "fox_player_id": "5071",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Pierre Garcon",
+        "team_pos": "(Was - WR)",
+        "opponent": "CHI",
+        "points": "6.2"
+    },
+    {
+        "fox_player_id": "5199",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Jarius Wright",
+        "team_pos": "(Min - WR)",
+        "opponent": "ARI",
+        "points": "6.2"
+    },
+    {
+        "fox_player_id": "5470",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Willie Snead",
+        "team_pos": "(NO - WR)",
+        "opponent": "TB",
+        "points": "6.2"
+    },
+    {
+        "fox_player_id": "5459",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Antonio Andrews",
+        "team_pos": "(Ten - RB)",
+        "opponent": "NYJ",
+        "points": "6.1"
+    },
+    {
+        "fox_player_id": "5444",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Marquess Wilson",
+        "team_pos": "(Chi - WR)",
+        "opponent": "WAS",
+        "points": "6.1"
+    },
+    {
+        "fox_player_id": "5396",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Julius Thomas",
+        "team_pos": "(Jac - TE)",
+        "opponent": "IND",
+        "points": "6.1"
+    },
+    {
+        "fox_player_id": "5175",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Chris Givens",
+        "team_pos": "(Bal - WR)",
+        "opponent": "SEA",
+        "points": "6.0"
+    },
+    {
+        "fox_player_id": "5066",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Dontrelle Inman",
+        "team_pos": "(SD - WR)",
+        "opponent": "KC",
+        "points": "6.0"
+    },
+    {
+        "fox_player_id": "4844",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Delanie Walker",
+        "team_pos": "(Ten - TE)",
+        "opponent": "NYJ",
+        "points": "6.0"
+    },
+    {
+        "fox_player_id": "5067",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Torrey Smith",
+        "team_pos": "(SF - WR)",
+        "opponent": "CLE",
+        "points": "5.9"
+    },
+    {
+        "fox_player_id": "5567",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Tyler Lockett",
+        "team_pos": "(Sea - WR)",
+        "opponent": "BAL",
+        "points": "5.9"
+    },
+    {
+        "fox_player_id": "5494",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Eric Ebron",
+        "team_pos": "(Det - TE)",
+        "opponent": "STL",
+        "points": "5.9"
+    },
+    {
+        "fox_player_id": "4819",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Jason Witten",
+        "team_pos": "(Dal - TE)",
+        "opponent": "GB",
+        "points": "5.8"
+    },
+    {
+        "fox_player_id": "5089",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Shane Vereen",
+        "team_pos": "(NYG - RB)",
+        "opponent": "MIA",
+        "points": "5.8"
+    },
+    {
+        "fox_player_id": "5461",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Chris Hogan",
+        "team_pos": "(Buf - WR)",
+        "opponent": "PHI",
+        "points": "5.7"
+    },
+    {
+        "fox_player_id": "5555",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Dorial Green-Beckham",
+        "team_pos": "(Ten - WR)",
+        "opponent": "NYJ",
+        "points": "5.7"
+    },
+    {
+        "fox_player_id": "5285",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Charles Sims",
+        "team_pos": "(TB - RB)",
+        "opponent": "NO",
+        "points": "5.6"
+    },
+    {
+        "fox_player_id": "4871",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Ted Ginn Jr.",
+        "team_pos": "(Car - WR)",
+        "opponent": "ATL",
+        "points": "5.6"
+    },
+    {
+        "fox_player_id": "5133",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Michael Floyd",
+        "team_pos": "(Ari - WR)",
+        "opponent": "MIN",
+        "points": "5.5"
+    },
+    {
+        "fox_player_id": "5079",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Travaris Cadet",
+        "team_pos": "(SF - RB)",
+        "opponent": "CLE",
+        "points": "5.5"
+    },
+    {
+        "fox_player_id": "5796",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Lance Moore",
+        "team_pos": "(Det - WR)",
+        "opponent": "STL",
+        "points": "5.4"
+    },
+    {
+        "fox_player_id": "4832",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Scott Chandler",
+        "team_pos": "(NE - TE)",
+        "opponent": "HOU",
+        "points": "5.3"
+    },
+    {
+        "fox_player_id": "5216",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Kyle Rudolph",
+        "team_pos": "(Min - TE)",
+        "opponent": "ARI",
+        "points": "5.2"
+    },
+    {
+        "fox_player_id": "5432",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Cecil Shorts III",
+        "team_pos": "(Hou - WR)",
+        "opponent": "NE",
+        "points": "5.2"
+    },
+    {
+        "fox_player_id": "4974",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Marc Mariani",
+        "team_pos": "(Chi - WR)",
+        "opponent": "WAS",
+        "points": "5.1"
+    },
+    {
+        "fox_player_id": "5525",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Seth Roberts",
+        "team_pos": "(Oak - WR)",
+        "opponent": "DEN",
+        "points": "5.1"
+    },
+    {
+        "fox_player_id": "5774",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Will Tye",
+        "team_pos": "(NYG - TE)",
+        "opponent": "MIA",
+        "points": "5.1"
+    },
+    {
+        "fox_player_id": "5501",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Richard Rodgers",
+        "team_pos": "(GB - TE)",
+        "opponent": "DAL",
+        "points": "5.0"
+    },
+    {
+        "fox_player_id": "5015",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Mike Wallace",
+        "team_pos": "(Min - WR)",
+        "opponent": "ARI",
+        "points": "5.0"
+    },
+    {
+        "fox_player_id": "5556",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Devin Funchess",
+        "team_pos": "(Car - WR)",
+        "opponent": "ATL",
+        "points": "4.9"
+    },
+    {
+        "fox_player_id": "5778",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Adam Humphries",
+        "team_pos": "(TB - WR)",
+        "opponent": "NO",
+        "points": "4.9"
+    },
+    {
+        "fox_player_id": "4990",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "C.J. Spiller",
+        "team_pos": "(NO - RB)",
+        "opponent": "TB",
+        "points": "4.8"
+    },
+    {
+        "fox_player_id": "5531",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Taylor Gabriel",
+        "team_pos": "(Cle - WR)",
+        "opponent": "SF",
+        "points": "4.8"
+    },
+    {
+        "fox_player_id": "5476",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Austin Seferian-Jenkins",
+        "team_pos": "(TB - TE)",
+        "opponent": "NO",
+        "points": "4.8"
+    },
+    {
+        "fox_player_id": "5342",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Tavon Austin",
+        "team_pos": "(StL - WR)",
+        "opponent": "DET",
+        "points": "4.7"
+    },
+    {
+        "fox_player_id": "4858",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Antonio Gates",
+        "team_pos": "(SD - TE)",
+        "opponent": "KC",
+        "points": "4.7"
+    },
+    {
+        "fox_player_id": "4849",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Jacob Tamme",
+        "team_pos": "(Atl - TE)",
+        "opponent": "CAR",
+        "points": "4.7"
+    },
+    {
+        "fox_player_id": "5263",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Zach Ertz",
+        "team_pos": "(Phi - TE)",
+        "opponent": "BUF",
+        "points": "4.6"
+    },
+    {
+        "fox_player_id": "5314",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Denard Robinson",
+        "team_pos": "(Jac - RB)",
+        "opponent": "IND",
+        "points": "4.6"
+    },
+    {
+        "fox_player_id": "5423",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "James White",
+        "team_pos": "(NE - RB)",
+        "opponent": "HOU",
+        "points": "4.5"
+    },
+    {
+        "fox_player_id": "5302",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Chris Thompson",
+        "team_pos": "(Was - RB)",
+        "opponent": "CHI",
+        "points": "4.5"
+    },
+    {
+        "fox_player_id": "4886",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Darren Fells",
+        "team_pos": "(Ari - TE)",
+        "opponent": "MIN",
+        "points": "4.5"
+    },
+    {
+        "fox_player_id": "5225",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Mohamed Sanu",
+        "team_pos": "(Cin - WR)",
+        "opponent": "PIT",
+        "points": "4.4"
+    },
+    {
+        "fox_player_id": "4929",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Brian Hartline",
+        "team_pos": "(Cle - WR)",
+        "opponent": "SF",
+        "points": "4.4"
+    },
+    {
+        "fox_player_id": "5365",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Crockett Gillmore",
+        "team_pos": "(Bal - TE)",
+        "opponent": "SEA",
+        "points": "4.4"
+    },
+    {
+        "fox_player_id": "5209",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Ladarius Green",
+        "team_pos": "(SD - TE)",
+        "opponent": "KC",
+        "points": "4.3"
+    },
+    {
+        "fox_player_id": "5298",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Theo Riddick",
+        "team_pos": "(Det - RB)",
+        "opponent": "STL",
+        "points": "4.3"
+    },
+    {
+        "fox_player_id": "5160",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Jonathan Grimes",
+        "team_pos": "(Hou - RB)",
+        "opponent": "NE",
+        "points": "4.2"
+    },
+    {
+        "fox_player_id": "5266",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Stepfan Taylor",
+        "team_pos": "(Ari - RB)",
+        "opponent": "MIN",
+        "points": "4.2"
+    },
+    {
+        "fox_player_id": "5006",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Dexter McCluster",
+        "team_pos": "(Ten - RB)",
+        "opponent": "NYJ",
+        "points": "4.1"
+    },
+    {
+        "fox_player_id": "5594",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Jay Ajayi",
+        "team_pos": "(Mia - RB)",
+        "opponent": "NYG",
+        "points": "4.1"
+    },
+    {
+        "fox_player_id": "4907",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Darrius Heyward-Bey",
+        "team_pos": "(Pit - WR)",
+        "opponent": "CIN",
+        "points": "4.1"
+    },
+    {
+        "fox_player_id": "5155",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Griff Whalen",
+        "team_pos": "(Ind - WR)",
+        "opponent": "JAC",
+        "points": "4.0"
+    },
+    {
+        "fox_player_id": "5096",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Bilal Powell",
+        "team_pos": "(NYJ - RB)",
+        "opponent": "TEN",
+        "points": "3.9"
+    },
+    {
+        "fox_player_id": "4807",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Darren Sproles",
+        "team_pos": "(Phi - RB)",
+        "opponent": "BUF",
+        "points": "3.8"
+    },
+    {
+        "fox_player_id": "5051",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Daniel Herron",
+        "team_pos": "(Ind - RB)",
+        "opponent": "JAC",
+        "points": "3.8"
+    },
+    {
+        "fox_player_id": "4796",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Owen Daniels",
+        "team_pos": "(Den - TE)",
+        "opponent": "OAK",
+        "points": "3.7"
+    },
+    {
+        "fox_player_id": "5183",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Keshawn Martin",
+        "team_pos": "(NE - WR)",
+        "opponent": "HOU",
+        "points": "3.7"
+    },
+    {
+        "fox_player_id": "5426",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Albert Wilson",
+        "team_pos": "(KC - WR)",
+        "opponent": "SD",
+        "points": "3.7"
+    },
+    {
+        "fox_player_id": "4985",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Boobie Dixon",
+        "team_pos": "(Buf - RB)",
+        "opponent": "PHI",
+        "points": "3.6"
+    },
+    {
+        "fox_player_id": "5309",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Joique Bell",
+        "team_pos": "(Det - RB)",
+        "opponent": "STL",
+        "points": "3.5"
+    },
+    {
+        "fox_player_id": "5575",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Justin Hardy",
+        "team_pos": "(Atl - WR)",
+        "opponent": "CAR",
+        "points": "3.5"
+    },
+    {
+        "fox_player_id": "5171",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Dwayne Allen",
+        "team_pos": "(Ind - TE)",
+        "opponent": "JAC",
+        "points": "3.4"
+    },
+    {
+        "fox_player_id": "5231",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Vance McDonald",
+        "team_pos": "(SF - TE)",
+        "opponent": "CLE",
+        "points": "3.4"
+    },
+    {
+        "fox_player_id": "5498",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Jeremy Butler",
+        "team_pos": "(Bal - WR)",
+        "opponent": "SEA",
+        "points": "3.3"
+    },
+    {
+        "fox_player_id": "5549",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Nelson Agholor",
+        "team_pos": "(Phi - WR)",
+        "opponent": "BUF",
+        "points": "3.2"
+    },
+    {
+        "fox_player_id": "4850",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Dwayne Bowe",
+        "team_pos": "(Cle - WR)",
+        "opponent": "SF",
+        "points": "3.2"
+    },
+    {
+        "fox_player_id": "4921",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Ed Dickson",
+        "team_pos": "(Car - TE)",
+        "opponent": "ATL",
+        "points": "3.1"
+    },
+    {
+        "fox_player_id": "5195",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Ryan Griffin",
+        "team_pos": "(Hou - TE)",
+        "opponent": "NE",
+        "points": "3.1"
+    },
+    {
+        "fox_player_id": "5360",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Quincy Enunwa",
+        "team_pos": "(NYJ - WR)",
+        "opponent": "TEN",
+        "points": "3.1"
+    },
+    {
+        "fox_player_id": "5505",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Cody Latimer",
+        "team_pos": "(Den - WR)",
+        "opponent": "OAK",
+        "points": "3.1"
+    },
+    {
+        "fox_player_id": "5413",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Javontee Herndon",
+        "team_pos": "(SD - WR)",
+        "opponent": "KC",
+        "points": "3.1"
+    },
+    {
+        "fox_player_id": "4981",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Fred Jackson",
+        "team_pos": "(Sea - RB)",
+        "opponent": "BAL",
+        "points": "3.1"
+    },
+    {
+        "fox_player_id": "4848",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Andre Caldwell",
+        "team_pos": "(Den - WR)",
+        "opponent": "OAK",
+        "points": "3.0"
+    },
+    {
+        "fox_player_id": "5597",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Rashad Greene",
+        "team_pos": "(Jac - WR)",
+        "opponent": "IND",
+        "points": "2.9"
+    },
+    {
+        "fox_player_id": "5390",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Orleans Darkwa",
+        "team_pos": "(NYG - RB)",
+        "opponent": "MIA",
+        "points": "2.9"
+    },
+    {
+        "fox_player_id": "5149",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Cole Beasley",
+        "team_pos": "(Dal - WR)",
+        "opponent": "GB",
+        "points": "2.9"
+    },
+    {
+        "fox_player_id": "5434",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Andre Holmes",
+        "team_pos": "(Oak - WR)",
+        "opponent": "DEN",
+        "points": "2.8"
+    },
+    {
+        "fox_player_id": "5217",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Josh Hill",
+        "team_pos": "(NO - TE)",
+        "opponent": "TB",
+        "points": "2.8"
+    },
+    {
+        "fox_player_id": "4960",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Hakeem Nicks",
+        "team_pos": "(NYG - WR)",
+        "opponent": "MIA",
+        "points": "2.8"
+    },
+    {
+        "fox_player_id": "5457",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Jerick McKinnon",
+        "team_pos": "(Min - RB)",
+        "opponent": "ARI",
+        "points": "2.8"
+    },
+    {
+        "fox_player_id": "5475",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Tre Mason",
+        "team_pos": "(StL - RB)",
+        "opponent": "DET",
+        "points": "2.7"
+    },
+    {
+        "fox_player_id": "5431",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Kevin Smith",
+        "team_pos": "(Sea - WR)",
+        "opponent": "BAL",
+        "points": "2.7"
+    },
+    {
+        "fox_player_id": "4853",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Brent Celek",
+        "team_pos": "(Phi - TE)",
+        "opponent": "BUF",
+        "points": "2.6"
+    },
+    {
+        "fox_player_id": "5481",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Terrance West",
+        "team_pos": "(Bal - RB)",
+        "opponent": "SEA",
+        "points": "2.6"
+    },
+    {
+        "fox_player_id": "5424",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Brandon Coleman",
+        "team_pos": "(NO - WR)",
+        "opponent": "TB",
+        "points": "2.6"
+    },
+    {
+        "fox_player_id": "4897",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Mike Tolbert",
+        "team_pos": "(Car - RB)",
+        "opponent": "ATL",
+        "points": "2.6"
+    },
+    {
+        "fox_player_id": "5397",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Cameron Brate",
+        "team_pos": "(TB - TE)",
+        "opponent": "NO",
+        "points": "2.6"
+    },
+    {
+        "fox_player_id": "4860",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Zach Miller",
+        "team_pos": "(Chi - TE)",
+        "opponent": "WAS",
+        "points": "2.6"
+    },
+    {
+        "fox_player_id": "4994",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Jeff Cumberland",
+        "team_pos": "(NYJ - TE)",
+        "opponent": "TEN",
+        "points": "2.5"
+    },
+    {
+        "fox_player_id": "5473",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Quinton Patton",
+        "team_pos": "(SF - WR)",
+        "opponent": "CLE",
+        "points": "2.5"
+    },
+    {
+        "fox_player_id": "5143",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Mychal Rivera",
+        "team_pos": "(Oak - TE)",
+        "opponent": "DEN",
+        "points": "2.4"
+    },
+    {
+        "fox_player_id": "4825",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Marcedes Lewis",
+        "team_pos": "(Jac - TE)",
+        "opponent": "IND",
+        "points": "2.4"
+    },
+    {
+        "fox_player_id": "5839",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Jermaine Gresham",
+        "team_pos": "(Ari - TE)",
+        "opponent": "MIN",
+        "points": "2.4"
+    },
+    {
+        "fox_player_id": "5590",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "J.J. Nelson",
+        "team_pos": "(Ari - WR)",
+        "opponent": "MIN",
+        "points": "2.3"
+    },
+    {
+        "fox_player_id": "5463",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Corey Brown",
+        "team_pos": "(Car - WR)",
+        "opponent": "ATL",
+        "points": "2.3"
+    },
+    {
+        "fox_player_id": "5046",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Brian Quick",
+        "team_pos": "(StL - WR)",
+        "opponent": "DET",
+        "points": "2.3"
+    },
+    {
+        "fox_player_id": "5318",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Dion Sims",
+        "team_pos": "(Mia - TE)",
+        "opponent": "NYG",
+        "points": "2.3"
+    },
+    {
+        "fox_player_id": "5559",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Clive Walford",
+        "team_pos": "(Oak - TE)",
+        "opponent": "DEN",
+        "points": "2.2"
+    },
+    {
+        "fox_player_id": "5402",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Andre Williams",
+        "team_pos": "(NYG - RB)",
+        "opponent": "MIA",
+        "points": "2.2"
+    },
+    {
+        "fox_player_id": "4875",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Brandon Pettigrew",
+        "team_pos": "(Det - TE)",
+        "opponent": "STL",
+        "points": "2.1"
+    },
+    {
+        "fox_player_id": "5136",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Chris Polk",
+        "team_pos": "(Hou - RB)",
+        "opponent": "NE",
+        "points": "2.1"
+    },
+    {
+        "fox_player_id": "4975",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Bryan Walters",
+        "team_pos": "(Jac - WR)",
+        "opponent": "IND",
+        "points": "2.0"
+    },
+    {
+        "fox_player_id": "5259",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Kyle Juszczyk",
+        "team_pos": "(Bal - RB)",
+        "opponent": "SEA",
+        "points": "2.0"
+    },
+    {
+        "fox_player_id": "5108",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Ryan Mathews",
+        "team_pos": "(Phi - RB)",
+        "opponent": "BUF",
+        "points": "2.0"
+    },
+    {
+        "fox_player_id": "5553",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Devin Smith",
+        "team_pos": "(NYJ - WR)",
+        "opponent": "TEN",
+        "points": "1.9"
+    },
+    {
+        "fox_player_id": "4983",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Lance Kendricks",
+        "team_pos": "(StL - TE)",
+        "opponent": "DET",
+        "points": "1.9"
+    },
+    {
+        "fox_player_id": "5562",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Chris Conley",
+        "team_pos": "(KC - WR)",
+        "opponent": "SD",
+        "points": "1.9"
+    },
+    {
+        "fox_player_id": "4831",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Vernon Davis",
+        "team_pos": "(Den - TE)",
+        "opponent": "OAK",
+        "points": "1.8"
+    },
+    {
+        "fox_player_id": "4841",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Anthony Fasano",
+        "team_pos": "(Ten - TE)",
+        "opponent": "NYJ",
+        "points": "1.7"
+    },
+    {
+        "fox_player_id": "5224",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Russell Shepard",
+        "team_pos": "(TB - WR)",
+        "opponent": "NO",
+        "points": "1.7"
+    },
+    {
+        "fox_player_id": "5518",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Derek Carrier",
+        "team_pos": "(Was - TE)",
+        "opponent": "CHI",
+        "points": "1.7"
+    },
+    {
+        "fox_player_id": "5338",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Jerome Cunningham",
+        "team_pos": "(NYG - TE)",
+        "opponent": "MIA",
+        "points": "1.7"
+    },
+    {
+        "fox_player_id": "5535",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Jeff Janis",
+        "team_pos": "(GB - WR)",
+        "opponent": "DAL",
+        "points": "1.6"
+    },
+    {
+        "fox_player_id": "4968",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Marcel Reece",
+        "team_pos": "(Oak - RB)",
+        "opponent": "DEN",
+        "points": "1.6"
+    },
+    {
+        "fox_player_id": "5031",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Marcus Easley",
+        "team_pos": "(Buf - WR)",
+        "opponent": "PHI",
+        "points": "1.6"
+    },
+    {
+        "fox_player_id": "5044",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Charles Johnson",
+        "team_pos": "(Min - WR)",
+        "opponent": "ARI",
+        "points": "1.4"
+    },
+    {
+        "fox_player_id": "4977",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Andre Roberts",
+        "team_pos": "(Was - WR)",
+        "opponent": "CHI",
+        "points": "1.4"
+    },
+    {
+        "fox_player_id": "5328",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Marlon Brown",
+        "team_pos": "(Bal - WR)",
+        "opponent": "SEA",
+        "points": "1.4"
+    },
+    {
+        "fox_player_id": "5315",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Fitzgerald Toussaint",
+        "team_pos": "(Pit - RB)",
+        "opponent": "CIN",
+        "points": "1.4"
+    },
+    {
+        "fox_player_id": "5060",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Rhett Ellison",
+        "team_pos": "(Min - TE)",
+        "opponent": "ARI",
+        "points": "1.4"
+    },
+    {
+        "fox_player_id": "5571",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Tevin Coleman",
+        "team_pos": "(Atl - RB)",
+        "opponent": "CAR",
+        "points": "1.4"
+    },
+    {
+        "fox_player_id": "4859",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Matthew Slater",
+        "team_pos": "(NE - WR)",
+        "opponent": "HOU",
+        "points": "1.3"
+    },
+    {
+        "fox_player_id": "4880",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Kellen Davis",
+        "team_pos": "(NYJ - TE)",
+        "opponent": "TEN",
+        "points": "1.3"
+    },
+    {
+        "fox_player_id": "5568",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Maxx Williams",
+        "team_pos": "(Bal - TE)",
+        "opponent": "SEA",
+        "points": "1.2"
+    },
+    {
+        "fox_player_id": "5321",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Nick Williams",
+        "team_pos": "(Atl - WR)",
+        "opponent": "CAR",
+        "points": "1.2"
+    },
+    {
+        "fox_player_id": "5593",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "David Cobb",
+        "team_pos": "(Ten - RB)",
+        "opponent": "NYJ",
+        "points": "1.2"
+    },
+    {
+        "fox_player_id": "4915",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Brandon Tate",
+        "team_pos": "(Cin - WR)",
+        "opponent": "PIT",
+        "points": "1.2"
+    },
+    {
+        "fox_player_id": "5488",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Bruce Ellington",
+        "team_pos": "(SF - WR)",
+        "opponent": "CLE",
+        "points": "1.2"
+    },
+    {
+        "fox_player_id": "5589",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Keith Mumphery",
+        "team_pos": "(Hou - WR)",
+        "opponent": "NE",
+        "points": "1.2"
+    },
+    {
+        "fox_player_id": "4797",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Greg Jennings",
+        "team_pos": "(Mia - WR)",
+        "opponent": "NYG",
+        "points": "1.1"
+    },
+    {
+        "fox_player_id": "5421",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Juwan Thompson",
+        "team_pos": "(Den - RB)",
+        "opponent": "OAK",
+        "points": "1.1"
+    },
+    {
+        "fox_player_id": "5094",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Robert Turbin",
+        "team_pos": "(Dal - RB)",
+        "opponent": "GB",
+        "points": "1.1"
+    },
+    {
+        "fox_player_id": "5441",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Jamize Olawale",
+        "team_pos": "(Oak - RB)",
+        "opponent": "DEN",
+        "points": "1.1"
+    },
+    {
+        "fox_player_id": "5435",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Corey Fuller",
+        "team_pos": "(Det - WR)",
+        "opponent": "STL",
+        "points": "1.1"
+    },
+    {
+        "fox_player_id": "5248",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Benny Cunningham",
+        "team_pos": "(StL - RB)",
+        "opponent": "DET",
+        "points": "1.0"
+    },
+    {
+        "fox_player_id": "4930",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Donald Brown",
+        "team_pos": "(SD - RB)",
+        "opponent": "KC",
+        "points": "1.0"
+    },
+    {
+        "fox_player_id": "5418",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Josh Huff",
+        "team_pos": "(Phi - WR)",
+        "opponent": "BUF",
+        "points": "1.0"
+    },
+    {
+        "fox_player_id": "5116",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "James Hanna",
+        "team_pos": "(Dal - TE)",
+        "opponent": "GB",
+        "points": "1.0"
+    },
+    {
+        "fox_player_id": "5404",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "C.J. Fiedorowicz",
+        "team_pos": "(Hou - TE)",
+        "opponent": "NE",
+        "points": "0.9"
+    },
+    {
+        "fox_player_id": "5265",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Ryan Hewitt",
+        "team_pos": "(Cin - TE)",
+        "opponent": "PIT",
+        "points": "0.9"
+    },
+    {
+        "fox_player_id": "5405",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Joshua Bellamy",
+        "team_pos": "(Chi - WR)",
+        "opponent": "WAS",
+        "points": "0.8"
+    },
+    {
+        "fox_player_id": "5244",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Rex Burkhead",
+        "team_pos": "(Cin - RB)",
+        "opponent": "PIT",
+        "points": "0.8"
+    },
+    {
+        "fox_player_id": "5029",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Fozzy Whittaker",
+        "team_pos": "(Car - RB)",
+        "opponent": "ATL",
+        "points": "0.7"
+    },
+    {
+        "fox_player_id": "5045",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "DuJuan Harris",
+        "team_pos": "(Sea - RB)",
+        "opponent": "BAL",
+        "points": "0.7"
+    },
+    {
+        "fox_player_id": "5200",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Brandon Bolden",
+        "team_pos": "(NE - RB)",
+        "opponent": "HOU",
+        "points": "0.7"
+    },
+    {
+        "fox_player_id": "5743",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Bradley Marquez",
+        "team_pos": "(StL - WR)",
+        "opponent": "DET",
+        "points": "0.7"
+    },
+    {
+        "fox_player_id": "5032",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Stevan Ridley",
+        "team_pos": "(NYJ - RB)",
+        "opponent": "TEN",
+        "points": "0.7"
+    },
+    {
+        "fox_player_id": "5322",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Devin Street",
+        "team_pos": "(Dal - WR)",
+        "opponent": "GB",
+        "points": "0.7"
+    },
+    {
+        "fox_player_id": "5004",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Lee Smith",
+        "team_pos": "(Oak - TE)",
+        "opponent": "DEN",
+        "points": "0.7"
+    },
+    {
+        "fox_player_id": "4910",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "John Kuhn",
+        "team_pos": "(GB - RB)",
+        "opponent": "DAL",
+        "points": "0.6"
+    },
+    {
+        "fox_player_id": "5477",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Ka'Deem Carey",
+        "team_pos": "(Chi - RB)",
+        "opponent": "WAS",
+        "points": "0.6"
+    },
+    {
+        "fox_player_id": "5286",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Rico Richardson",
+        "team_pos": "(Ten - WR)",
+        "opponent": "NYJ",
+        "points": "0.6"
+    },
+    {
+        "fox_player_id": "4997",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Joseph Morgan",
+        "team_pos": "(Bal - WR)",
+        "opponent": "SEA",
+        "points": "0.6"
+    },
+    {
+        "fox_player_id": "5111",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Patrick DiMarco",
+        "team_pos": "(Atl - RB)",
+        "opponent": "CAR",
+        "points": "0.6"
+    },
+    {
+        "fox_player_id": "5605",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Cameron Artis-Payne",
+        "team_pos": "(Car - RB)",
+        "opponent": "ATL",
+        "points": "0.6"
+    },
+    {
+        "fox_player_id": "4919",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Clay Harbor",
+        "team_pos": "(Jac - TE)",
+        "opponent": "IND",
+        "points": "0.6"
+    },
+    {
+        "fox_player_id": "5005",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Luke Stocker",
+        "team_pos": "(TB - TE)",
+        "opponent": "NO",
+        "points": "0.6"
+    },
+    {
+        "fox_player_id": "4970",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Bruce Miller",
+        "team_pos": "(SF - RB)",
+        "opponent": "CLE",
+        "points": "0.5"
+    },
+    {
+        "fox_player_id": "5290",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Kevin Norwood",
+        "team_pos": "(Car - WR)",
+        "opponent": "ATL",
+        "points": "0.5"
+    },
+    {
+        "fox_player_id": "4830",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Jason Avant",
+        "team_pos": "(KC - WR)",
+        "opponent": "SD",
+        "points": "0.4"
+    },
+    {
+        "fox_player_id": "4896",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Jerome Simpson",
+        "team_pos": "(SF - WR)",
+        "opponent": "CLE",
+        "points": "0.4"
+    },
+    {
+        "fox_player_id": "5392",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Rod Streater",
+        "team_pos": "(Oak - WR)",
+        "opponent": "DEN",
+        "points": "0.4"
+    },
+    {
+        "fox_player_id": "5250",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Kendall Gaskins",
+        "team_pos": "(SF - RB)",
+        "opponent": "CLE",
+        "points": "0.4"
+    },
+    {
+        "fox_player_id": "5317",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Bennie Fowler",
+        "team_pos": "(Den - WR)",
+        "opponent": "OAK",
+        "points": "0.4"
+    },
+    {
+        "fox_player_id": "5040",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Matt Asiata",
+        "team_pos": "(Min - RB)",
+        "opponent": "ARI",
+        "points": "0.4"
+    },
+    {
+        "fox_player_id": "5242",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Ryan Grant",
+        "team_pos": "(Was - WR)",
+        "opponent": "CHI",
+        "points": "0.3"
+    },
+    {
+        "fox_player_id": "5602",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Jesse James",
+        "team_pos": "(Pit - TE)",
+        "opponent": "CIN",
+        "points": "0.3"
+    },
+    {
+        "fox_player_id": "5074",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Jeremy Kerley",
+        "team_pos": "(NYJ - WR)",
+        "opponent": "TEN",
+        "points": "0.3"
+    },
+    {
+        "fox_player_id": "5215",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Jonas Gray",
+        "team_pos": "(Mia - RB)",
+        "opponent": "NYG",
+        "points": "0.3"
+    },
+    {
+        "fox_player_id": "5170",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Jaron Brown",
+        "team_pos": "(Ari - WR)",
+        "opponent": "MIN",
+        "points": "0.3"
+    },
+    {
+        "fox_player_id": "5527",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Adam Thielen",
+        "team_pos": "(Min - WR)",
+        "opponent": "ARI",
+        "points": "0.2"
+    },
+    {
+        "fox_player_id": "5073",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Joe Banyard",
+        "team_pos": "(Jac - RB)",
+        "opponent": "IND",
+        "points": "0.2"
+    },
+    {
+        "fox_player_id": "4856",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Eric Weems",
+        "team_pos": "(Atl - WR)",
+        "opponent": "CAR",
+        "points": "0.2"
+    },
+    {
+        "fox_player_id": "5283",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Gavin Escobar",
+        "team_pos": "(Dal - TE)",
+        "opponent": "GB",
+        "points": "0.2"
+    },
+    {
+        "fox_player_id": "5721",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Alonzo Harris",
+        "team_pos": "(GB - RB)",
+        "opponent": "DAL",
+        "points": "0.2"
+    },
+    {
+        "fox_player_id": "4952",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Jim Dray",
+        "team_pos": "(Cle - TE)",
+        "opponent": "SF",
+        "points": "0.2"
+    },
+    {
+        "fox_player_id": "5184",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Myles White",
+        "team_pos": "(NYG - WR)",
+        "opponent": "MIA",
+        "points": "0.2"
+    },
+    {
+        "fox_player_id": "5182",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Glenn Winston",
+        "team_pos": "(Cle - RB)",
+        "opponent": "SF",
+        "points": "0.2"
+    },
+    {
+        "fox_player_id": "5782",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Donteea Dye",
+        "team_pos": "(TB - WR)",
+        "opponent": "NO",
+        "points": "0.2"
+    },
+    {
+        "fox_player_id": "5572",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Jaelen Strong",
+        "team_pos": "(Hou - WR)",
+        "opponent": "NE",
+        "points": "0.2"
+    },
+    {
+        "fox_player_id": "5747",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Chris Harper",
+        "team_pos": "(NE - WR)",
+        "opponent": "HOU",
+        "points": "0.2"
+    },
+    {
+        "fox_player_id": "5422",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Asante Cleveland",
+        "team_pos": "(NE - TE)",
+        "opponent": "HOU",
+        "points": "0.2"
+    },
+    {
+        "fox_player_id": "4845",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Miles Austin",
+        "team_pos": "(Phi - WR)",
+        "opponent": "BUF",
+        "points": "0.2"
+    },
+    {
+        "fox_player_id": "5483",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Marqise Lee",
+        "team_pos": "(Jac - WR)",
+        "opponent": "IND",
+        "points": "0.2"
+    },
+    {
+        "fox_player_id": "5055",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Denarius Moore",
+        "team_pos": "(Buf - WR)",
+        "opponent": "PHI",
+        "points": "0.2"
+    },
+    {
+        "fox_player_id": "5383",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "TJ Jones",
+        "team_pos": "(Det - WR)",
+        "opponent": "STL",
+        "points": "0.2"
+    },
+    {
+        "fox_player_id": "5222",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Jack Doyle",
+        "team_pos": "(Ind - TE)",
+        "opponent": "JAC",
+        "points": "0.2"
+    },
+    {
+        "fox_player_id": "5232",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Knile Davis",
+        "team_pos": "(KC - RB)",
+        "opponent": "SD",
+        "points": "0.2"
+    },
+    {
+        "fox_player_id": "5239",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Tommy Bohanon",
+        "team_pos": "(NYJ - RB)",
+        "opponent": "TEN",
+        "points": "0.2"
+    },
+    {
+        "fox_player_id": "5760",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Lucky Whitehead",
+        "team_pos": "(Dal - WR)",
+        "opponent": "GB",
+        "points": "0.1"
+    },
+    {
+        "fox_player_id": "5564",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Sammie Coates",
+        "team_pos": "(Pit - WR)",
+        "opponent": "CIN",
+        "points": "0.1"
+    },
+    {
+        "fox_player_id": "5102",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Bobby Rainey",
+        "team_pos": "(TB - RB)",
+        "opponent": "NO",
+        "points": "0.1"
+    },
+    {
+        "fox_player_id": "4878",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Tim Hightower",
+        "team_pos": "(NO - RB)",
+        "opponent": "TB",
+        "points": "0.1"
+    },
+    {
+        "fox_player_id": "5644",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Tyrell Williams",
+        "team_pos": "(SD - WR)",
+        "opponent": "KC",
+        "points": "0.1"
+    },
+    {
+        "fox_player_id": "4823",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Craig Stevens",
+        "team_pos": "(Ten - TE)",
+        "opponent": "NYJ",
+        "points": "0.1"
+    },
+    {
+        "fox_player_id": "5361",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Cooper Helfet",
+        "team_pos": "(Sea - TE)",
+        "opponent": "BAL",
+        "points": "0.1"
+    },
+    {
+        "fox_player_id": "5649",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Cameron Meredith",
+        "team_pos": "(Chi - WR)",
+        "opponent": "WAS",
+        "points": "0.1"
+    },
+    {
+        "fox_player_id": "4894",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Cedric Peerman",
+        "team_pos": "(Cin - RB)",
+        "opponent": "PIT",
+        "points": "0.1"
+    },
+    {
+        "fox_player_id": "4956",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Virgil Green",
+        "team_pos": "(Den - TE)",
+        "opponent": "OAK",
+        "points": "0.1"
+    },
+    {
+        "fox_player_id": "5036",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "James Casey",
+        "team_pos": "(Den - TE)",
+        "opponent": "OAK",
+        "points": "0.1"
+    },
+    {
+        "fox_player_id": "5192",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Tim Wright",
+        "team_pos": "(Det - TE)",
+        "opponent": "STL",
+        "points": "0.1"
+    },
+    {
+        "fox_player_id": "5805",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Tyler Clutts",
+        "team_pos": "(Dal - RB)",
+        "opponent": "GB",
+        "points": "0.1"
+    },
+    {
+        "fox_player_id": "5267",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Levine Toilolo",
+        "team_pos": "(Atl - TE)",
+        "opponent": "CAR",
+        "points": "0.1"
+    },
+    {
+        "fox_player_id": "4938",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Jorvorskie Lane",
+        "team_pos": "(TB - RB)",
+        "opponent": "NO",
+        "points": "0.1"
+    },
+    {
+        "fox_player_id": "5083",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Anthony Sherman",
+        "team_pos": "(KC - RB)",
+        "opponent": "SD",
+        "points": "0.1"
+    },
+    {
+        "fox_player_id": "4987",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Jeremy Ross",
+        "team_pos": "(Oak - WR)",
+        "opponent": "DEN",
+        "points": "0.1"
+    },
+    {
+        "fox_player_id": "5802",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Greg Salas",
+        "team_pos": "(Det - WR)",
+        "opponent": "STL",
+        "points": "0.1"
+    },
+    {
+        "fox_player_id": "5891",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Michael Williams",
+        "team_pos": "(NE - TE)",
+        "opponent": "HOU",
+        "points": "0.1"
+    },
+    {
+        "fox_player_id": "5705",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Akeem Hunt",
+        "team_pos": "(Hou - RB)",
+        "opponent": "NE",
+        "points": "0.1"
+    },
+    {
+        "fox_player_id": "5099",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Will Johnson",
+        "team_pos": "(Pit - RB)",
+        "opponent": "CIN",
+        "points": "0.1"
+    },
+    {
+        "fox_player_id": "5159",
+        "season_year": "2015",
+        "week": "14",
+        "full_name": "Cory Harkey",
+        "team_pos": "(StL - TE)",
+        "opponent": "DET",
+        "points": "0.1"
+    }
+]
