@@ -25,3 +25,9 @@ exports.getCurrentWeek = function() {
     week: 15
   };
 };
+
+exports.createMessage = function(cntr) {
+  if (arguments.length<1) throw new Error("createMessage requires 1 arguments");
+
+  return 'Parsed: ' + cntr.par.toString() + '<br /> Players: ' + cntr.tot.toString() + '<br /> NANs: ' + cntr.nan.toString() + '<br /> Zeros: ' + cntr.zer.toString() + '<br /> Byes: ' + cntr.bye.toString() + '<br />';
+};

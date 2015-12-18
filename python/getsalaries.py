@@ -10,6 +10,15 @@ def cleanTeamNameDK(team):
     ret = ret.replace('JAX', 'JAC')
     return ret
 
+def cleanPlayerNameDK(name):
+    ret = name
+    ret = ret.replace('Jamarcus Nelson', 'J.J. Nelson')
+    ret = ret.replace('Fozzy Whittaker', 'Foswhitt Whittaker')
+    ret = ret.replace('(Philly)', '')
+    ret = ret.replace('Boobie Dixon', 'Anthony Dixon')
+    ret = ret.replace('Tim Wright', 'Timothy Wright')
+    return ret
+
 def cleanPositionDK(pos):
   ret = pos.upper()
   ret = ret.replace('DEF', 'DST')
@@ -25,7 +34,7 @@ def nullValue():
 db = nfldb.connect()
 q = nfldb.Query(db)
 year = 2015
-week = 14
+week = 15
 
 print 'load teamsbycity json'
 with open('teams/teamsbycity.json') as data_file:    
@@ -48,9 +57,10 @@ salarydefense = []
 
 for i, v in enumerate(datadk['data']):
   qteam = cleanTeamNameDK(v['teamAbbrev'])
+  qname = cleanPlayerNameDK(v['Name'])
   qgame = nfldb.Query(db).game(season_year=year, week=week, season_type='Regular', team=qteam).as_games()
   if v['Position'] != 'DST':
-    matches = nfldb.player_search(db, v['Name'], limit=15)
+    matches = nfldb.player_search(db, qname, limit=15)
     optplayers = {}
     cnt_plyr = 0
     cnt_zero = 0
@@ -64,7 +74,7 @@ for i, v in enumerate(datadk['data']):
     if cnt_zero == 1:
       opt = '1'
     else:
-      opt = raw_input('select the real...  ' + v['Name'] + ' (' + qteam + ', ' + v['Position'] + '): ')
+      opt = raw_input('select the real...  ' + qname + ' (' + qteam + ', ' + v['Position'] + '): ')
     salaryoffense.append({
       '01salary_type': 'dk',
       '02player_id': optplayers[opt].player_id if optplayers[opt].player_id else '00',
@@ -75,7 +85,7 @@ for i, v in enumerate(datadk['data']):
       '07salary': v['Salary'],
       '08season_year': year,
       '09week': week,
-      '10searchname': v['Name'],
+      '10searchname': qname,
       '11check': optplayers[opt].full_name.upper() == v['Name'].upper()
     })
   else:

@@ -1,13 +1,14 @@
 {
-  "name"         : "fandata-scraper",
-  "version"      : "0.0.1",
-  "description"  : "Scrape data for fandata",
-  "main"         : "app.js",
-  "author"       : "kevin",
-  "dependencies" : {
-    "express"    : "latest",
-    "request"    : "latest",
-    "cheerio"    : "latest",
-    "json-2-csv" : "latest"
+  "name": "fandata-scraper",
+  "version": "0.0.1",
+  "description": "Scrape data for fandata",
+  "main": "app.js",
+  "author": "kevin",
+  "dependencies": {
+    "cheerio": "latest",
+    "express": "latest",
+    "fast-csv": "^0.6.0",
+    "json-2-csv": "latest",
+    "request": "latest"
   }
 }
